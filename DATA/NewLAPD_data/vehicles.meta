@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>tornado</audioNameHash>
+			<audioNameHash>46fordmodular</audioNameHash>
 			<layout>LAYOUT_STANDARD</layout>
 			<coverBoundOffsets>POLICE_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -619,7 +619,7 @@
 		<Item>
 			<modelName>16pdfpius</modelName>
 			<txdName>16pdfpius</txdName>
-			<handlingId>CHPfpiu16</handlingId>
+			<handlingId>CHPfpiu14</handlingId>
 			<gameName>16pdfpius</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -862,7 +862,7 @@
 		<Item>
 			<modelName>20pdfpiu</modelName>
 			<txdName>20pdfpiu</txdName>
-			<handlingId>CHPfpiu16</handlingId>
+			<handlingId>CHPfpiu14</handlingId>
 			<gameName>20pdfpiu</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>

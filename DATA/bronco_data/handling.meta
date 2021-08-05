@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>BRONCO</handlingName>
+			<fMass value="1864.000000"/>
+			<fInitialDragCoeff value="3.730000"/>
+			<fPercentSubmerged value="85.0"/>
+			<vecCentreOfMassOffset x="0" y="0.0" z="0.0"/>
+			<vecInertiaMultiplier x="1.3" y="1.3" z="1.45"/>
+			<fDriveBiasFront value="0.2"/>
+			<nInitialDriveGears value="4"/>
+			<fInitialDriveForce value="0.190500"/>
+			<fDriveInertia value="1.0"/>
+			<fClutchChangeRateScaleUpShift value="1.400000"/>
+			<fClutchChangeRateScaleDownShift value="1.800000"/>
+			<fInitialDriveMaxFlatVel value="124.000000"/>
+			<fBrakeForce value="0.6"/>
+			<fBrakeBiasFront value="0.55"/>
+			<fHandBrakeForce value="0.6"/>
+			<fSteeringLock value="35.0"/>
+			<fTractionCurveMax value="1.82"/>
+			<fTractionCurveMin value="1.49"/>
+			<fTractionCurveLateral value="16.9"/>
+			<fTractionSpringDeltaMax value="0.13"/>
+			<fLowSpeedTractionLossMult value="1.8"/>
+			<fCamberStiffnesss value="0"/>
+			<fTractionBiasFront value="0.49"/>
+			<fTractionLossMult value="0.6"/>
+			<fSuspensionForce value="1.800000"/>
+			<fSuspensionCompDamp value="0.900000"/>
+			<fSuspensionReboundDamp value="0.900000"/>
+			<fSuspensionUpperLimit value="0.15"/>
+			<fSuspensionLowerLimit value="-0.18"/>
+			<fSuspensionRaise value="0.0"/>
+			<fSuspensionBiasFront value="0.46"/>
+			<fAntiRollBarForce value="0.0"/>
+			<fAntiRollBarBiasFront value="0.52"/>
+			<fRollCentreHeightFront value="0.31"/>
+			<fRollCentreHeightRear value="0.31"/>
+			<fCollisionDamageMult value="2.500000"/>
+			<fWeaponDamageMult value="1.0"/>
+			<fDeformationDamageMult value="2.500000"/>
+			<fEngineDamageMult value="1.5"/>
+			<fPetrolTankVolume value="70.0"/>
+			<fOilVolume value="6.5"/>
+			<fSeatOffsetDistX value="0.2"/>
+			<fSeatOffsetDistY value="0.0"/>
+			<fSeatOffsetDistZ value="0.0"/>
+			<nMonetaryValue value="25000"/>
+			<strModelFlags>440010</strModelFlags>
+			<strHandlingFlags>0</strHandlingFlags>
+			<strDamageFlags>0</strDamageFlags>
+			<AIHandling>AVERAGE</AIHandling>
+			<SubHandlingData>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>

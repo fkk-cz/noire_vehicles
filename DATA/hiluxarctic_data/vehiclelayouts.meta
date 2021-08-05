@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+	
+	<VehicleEntryPointInfos>
+		<Item type="CVehicleEntryPointInfo">
+		  <Name>ENTRY_POINT_AT38_FRONT_LEFT</Name>
+		  <DoorBoneName>door_pside_f</DoorBoneName>
+		  <SecondDoorBoneName />
+		  <DoorHandleBoneName>handle_pside_f</DoorHandleBoneName>
+		  <WindowId>FRONT_RIGHT</WindowId>
+		  <VehicleSide>SIDE_LEFT</VehicleSide>
+		  <AccessableSeats>
+			<Item ref="SEAT_STANDARD_FRONT_LEFT" />
+		  </AccessableSeats>
+		  <VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_STD_LEFT" />
+		  <Flags>BlockJackReactionUntilJackerIsReady</Flags>
+		  <BlockJackReactionSides>
+			<Item>SIDE_RIGHT</Item>
+		  </BlockJackReactionSides>
+		</Item>
+		<Item type="CVehicleEntryPointInfo">
+		  <Name>ENTRY_POINT_AT38_FRONT_RIGHT</Name>
+		  <DoorBoneName>door_dside_f</DoorBoneName>
+		  <SecondDoorBoneName />
+		  <DoorHandleBoneName>handle_dside_f</DoorHandleBoneName>
+		  <WindowId>FRONT_LEFT</WindowId>
+		  <VehicleSide>SIDE_RIGHT</VehicleSide>
+		  <AccessableSeats>
+			<Item ref="SEAT_STANDARD_FRONT_RIGHT" />
+		  </AccessableSeats>
+		  <VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_STD_RIGHT" />
+		  <Flags>BlockJackReactionUntilJackerIsReady</Flags>
+		  <BlockJackReactionSides>
+			<Item>SIDE_LEFT</Item>
+		  </BlockJackReactionSides>
+		</Item>
+	</VehicleEntryPointInfos>
+	
+	<VehicleLayoutInfos>
+		<Item type="CVehicleLayoutInfo">
+			<Name>LAYOUT_AT38</Name>
+			<Seats>
+			<Item>
+			  <SeatInfo ref="SEAT_STANDARD_FRONT_LEFT" />
+			  <SeatAnimInfo ref="SEAT_ANIM_4X4_FRONT_LEFT" />
+			</Item>
+			<Item>
+			  <SeatInfo ref="SEAT_STANDARD_FRONT_RIGHT" />
+			  <SeatAnimInfo ref="SEAT_ANIM_4X4_FRONT_RIGHT" />
+			</Item>
+			<Item>
+			  <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+			  <SeatAnimInfo ref="SEAT_ANIM_4X4_REAR_LEFT" />
+			</Item>
+			<Item>
+			  <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+			  <SeatAnimInfo ref="SEAT_ANIM_4X4_REAR_RIGHT" />
+			</Item>
+		  </Seats>
+		  <EntryPoints>
+			<Item>
+			  <EntryPointInfo ref="ENTRY_POINT_AT38_FRONT_LEFT" />
+			  <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_4X4_FRONT_RIGHT" />
+			</Item>
+			<Item>
+			  <EntryPointInfo ref="ENTRY_POINT_AT38_FRONT_RIGHT" />
+			  <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_4X4_FRONT_LEFT" />
+			</Item>
+			<Item>
+			  <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_LEFT" />
+			  <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_4X4_REAR_LEFT" />
+			</Item>
+			<Item>
+			  <EntryPointInfo ref="ENTRY_POINT_STANDARD_REAR_RIGHT" />
+			  <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_4X4_REAR_RIGHT" />
+			</Item>
+		  </EntryPoints>
+		  <LayoutFlags>StreamAnims UseVanOpenDoorBlendParams UseLeanSteerAnims UseDoorOscillation UseFinerAlignTolerance</LayoutFlags>
+		  <BicycleInfo ref="NULL" />
+		  <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+		  <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+		  <MaxXAcceleration value="4.00000" />
+		  <BodyLeanXApproachSpeed value="5.00000" />
+		  <BodyLeanXSmallDelta value="0.30000" />
+		  <FirstPersonAdditiveIdleClipSets>
+			<Item>clipset@veh@van@ds@idle_a</Item>
+			<Item>clipset@veh@van@ds@idle_b</Item>
+			<Item>clipset@veh@van@ds@idle_c</Item>
+			<Item>clipset@veh@van@ds@idle_d</Item>
+			<Item>clipset@veh@van@ds@idle_e</Item>
+		  </FirstPersonAdditiveIdleClipSets>
+		  <FirstPersonRoadRageClipSets>
+			<Item>clipset@veh@van@ds@hit_wheel@idle_a</Item>
+			<Item>clipset@veh@van@ds@hit_wheel@idle_b</Item>
+			<Item>clipset@veh@van@ds@hit_wheel@idle_c</Item>
+		  </FirstPersonRoadRageClipSets>
+		</Item>
+	</VehicleLayoutInfos>
+	
+</CVehicleMetadataMgr>
