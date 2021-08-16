@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>11pdcvpi</modelName>
 			<txdName>11pdcvpi</txdName>
-			<handlingId>pdcvpi</handlingId>
+			<handlingId>11pdcvpi</handlingId>
 			<gameName>11pdcvpi</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -129,7 +129,7 @@
 		<Item>
 			<modelName>14pdcharger</modelName>
 			<txdName>14pdcharger</txdName>
-			<handlingId>CHPchar</handlingId>
+			<handlingId>14pdcharger</handlingId>
 			<gameName>14pdcharger</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -252,7 +252,7 @@
 		<Item>
 			<modelName>15pdfpiss</modelName>
 			<txdName>15pdfpiss</txdName>
-			<handlingId>CHPchar</handlingId>
+			<handlingId>14pdcharger</handlingId>
 			<gameName>15pdfpiss</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -373,7 +373,7 @@
 		<Item>
 			<modelName>15pdfpiu</modelName>
 			<txdName>15pdfpiu</txdName>
-			<handlingId>CHPfpiu14</handlingId>
+			<handlingId>lspdfpiu</handlingId>
 			<gameName>15pdfpiu</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -496,7 +496,7 @@
 		<Item>
 			<modelName>16pdfpiu</modelName>
 			<txdName>16pdfpiu</txdName>
-			<handlingId>CHPfpiu16</handlingId>
+			<handlingId>lspdfpiu</handlingId>
 			<gameName>16pdfpiu</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -619,7 +619,7 @@
 		<Item>
 			<modelName>16pdfpius</modelName>
 			<txdName>16pdfpius</txdName>
-			<handlingId>CHPfpiu14</handlingId>
+			<handlingId>lspdfpiu</handlingId>
 			<gameName>16pdfpius</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -862,7 +862,7 @@
 		<Item>
 			<modelName>20pdfpiu</modelName>
 			<txdName>20pdfpiu</txdName>
-			<handlingId>CHPfpiu14</handlingId>
+			<handlingId>lspdfpiu</handlingId>
 			<gameName>20pdfpiu</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>

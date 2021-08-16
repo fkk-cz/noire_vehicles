@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>belair57</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- India Ivory / Onyx Black -->
+            111
+            0
+            0
+            111
+            192
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Surf Green -->
+            200
+            200
+            0
+            200
+            57 <!-- GREEN -->
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Surf Green / India Ivory -->
+            200
+            111
+            0
+            200
+            181 <!-- LIGHT BLUE -->
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Highland Green / Surf Green -->
+            54
+            200
+            0
+            54
+            73 <!-- dark blue -->
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Highland Green -->
+            54
+            54
+            0
+            54
+            57
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Laurel Green / Colonial Cream -->
+            102
+            162
+            122
+            102
+            162 <!-- yellow -->
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Harbor Blue -->
+            73
+            73
+            0
+            73
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Harbor Blue / Larkspur Blue -->
+            73
+            127
+            0
+            73
+            73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Larkspur Blue -->
+            127
+            127
+            0
+            127
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Larkspur Blue / India Ivory -->
+            127
+            111
+            0
+            127
+            73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dusk Pearl / Imperial Ivory -->
+            205
+            131
+            5
+            205
+            6 <!-- grey -->
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sierra Gold -->
+            36
+            36
+            37
+            36
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sierra Gold / Adobe Beige -->
+            36
+            107
+            37
+            36
+            162
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Adobe Beige -->
+            107
+            107
+            0
+            107
+            192 <!-- copper pink -->
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Inca Silver -->
+            4
+            4
+            122
+            4
+            192
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Inca Silver / Imperial Ivory -->
+            4
+            131
+            122
+            4
+            6
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Colonial Cream / Onyx Black -->
+            162
+            0
+            0
+            162
+            162
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Colonial Cream / India Ivory -->
+            162
+            111
+            0
+            162
+            162
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Canyon Coral / India Ivory -->
+            163
+            111
+            0
+            163
+            192
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Matador Red -->
+            28
+            28
+            0
+            28
+            6
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Matador Red / India Ivory -->
+            28
+            111
+            0
+            28
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tropical Turquoise -->
+            140
+            140
+            0
+            140
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tropical Turquoise / India Ivory -->
+            140
+            111
+            0
+            140
+            181
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Coronado Yellow / India Ivory -->
+            162
+            111
+            0
+            162
+            162
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Onyx Black -->
+            0
+            0
+            0
+            0
+            27
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
