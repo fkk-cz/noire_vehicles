@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>TAMPA2</audioNameHash>
-			<layout>LAYOUT_STANDARD</layout>
+			<layout>LAYOUT_STD_LOWROOF</layout>
 			<coverBoundOffsets>EMPEROR_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
