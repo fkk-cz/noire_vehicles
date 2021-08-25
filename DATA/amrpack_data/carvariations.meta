@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+	<Item>
+      <modelName>amrheli</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            18
+            8
+            6
+            0 
+	        19
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            19
+            10
+            23
+            0 
+	        19
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            38
+            38
+            24
+            0 
+	        19
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            64
+            64
+            24
+            0 
+	        19
+	        156
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="18"/>
+      <sirenSettings value="0" />
+    </Item>
+<Item>
+      <modelName>amrf250cr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="657"/>
+      <sirenSettings value="36423747"/>
+    </Item>
+<Item>
+      <modelName>amrf150cr</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="657"/>
+      <sirenSettings value="3242351352"/>
+    </Item>
+<Item>
+      <modelName>amrf150</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="656"/>
+      <sirenSettings value="3826697315"/>
+    </Item>
+<Item>
+      <modelName>amrf250</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="657"/>
+      <sirenSettings value="3942694215"/>
+    </Item>
+	<Item>
+      <modelName>amr18tahoe</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="689"/>
+      <sirenSettings value="3826694215"/>
+    </Item>
+<Item>
+      <modelName>amr13fpiu</modelName>
+    <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+		64
+		64
+		64
+		64
+		64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="702" />
+      <sirenSettings value="3413794235" />
+    </Item>
+   <Item>
+      <modelName>amr16fpiu</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            134
+            0
+            64
+            64
+            64
+	    64
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="3585794235"/>
+    </Item>
+	</variationData>
+</CVehicleModelInfoVariation>
