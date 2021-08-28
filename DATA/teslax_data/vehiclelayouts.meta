@@ -822,8 +822,7 @@
 			<EntryTranslation x="0.822600" y="-0.551700" z="0.500000"/>
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
-			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
+			<EntryHeadingChange value="1.570000"/>			
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_LOW_FRONT_RIGHT"/>
 			<NMJumpFromVehicleTuningSet>LOWCAR</NMJumpFromVehicleTuningSet>

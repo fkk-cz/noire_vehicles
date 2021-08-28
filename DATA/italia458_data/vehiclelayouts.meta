@@ -56,7 +56,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet/>
