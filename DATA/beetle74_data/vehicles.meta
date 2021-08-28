@@ -91,13 +91,14 @@
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes>
+				<Item>EXTRA_1</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
 			<requiredExtras>
-				<Item>EXTRA_1</Item>
+				EXTRA_1
 			</requiredExtras>
 			<rewards/>
 			<cinematicPartCamera>

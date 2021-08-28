@@ -117,8 +117,4 @@
 		</Item>
 	</InitDatas>
 	<txdRelationships/>
-	<Item>
-		<parent>vehicles_supergt_interior</parent>
-		<child>FtypeC</child>
-	</Item>
 </CVehicleModelInfo__InitDataList>

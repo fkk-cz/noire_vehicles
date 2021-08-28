@@ -99,7 +99,7 @@
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
 			<requiredExtras>
-				<item>EXTRA_1</item>
+				EXTRA_1
 			</requiredExtras>
 			<rewards/>
 			<cinematicPartCamera>

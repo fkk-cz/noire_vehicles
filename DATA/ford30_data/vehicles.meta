@@ -50,7 +50,7 @@
 			<AllowSundayDriving value="true"/>
 			<AllowBodyColorMapping value="true"/>
 			<wheelScale value="0.22"/>
-			<wheelScaleRear value="0.25	"/>
+			<wheelScaleRear value="0.25"/>
 			<dirtLevelMin value="0"/>
 			<dirtLevelMax value="1"/>
 			<envEffScaleMin value="0"/>
