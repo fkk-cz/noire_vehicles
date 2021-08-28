@@ -113,8 +113,8 @@
 					<modShopLabel>xkgt_wing</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-						<item>misc_d</item>
-						<item>brakelight_m</item>
+						<Item>misc_d</Item>
+						<Item>brakelight_m</Item>
 					</turnOffBones>
 					<type>VMT_SPOILER</type>
 					<bone>misc_d</bone>

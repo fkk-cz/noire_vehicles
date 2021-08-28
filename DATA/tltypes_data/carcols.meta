@@ -471,14 +471,6 @@
 					<type>VMT_SUSPENSION</type>
 				</Item>
 			</statMods>
-			<Item>
-				<slot>VMT_CHASSIS</slot>
-				<name>TOP_CAGE</name>
-			</Item>
-			<Item>
-				<slot>VMT_WING_L</slot>
-				<name>TOP_HLT</name>
-			</Item>
 			<liveryNames/>
 		</Item>
 	</Kits>

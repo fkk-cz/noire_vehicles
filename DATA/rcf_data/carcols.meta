@@ -537,7 +537,7 @@
 				<color value="0xFFFF1E05"/>
 				<numCoronas value="0"/>
 				<distBetweenCoronas value="0"/>
-				<distBetweenCoronas_far value="20.5"/>
+				<distBetweenCoronas_far value="0"/>
 				<xRotation value="0.000000"/>
 				<yRotation value="0.000000"/>
 				<zRotation value="5.667000"/>
