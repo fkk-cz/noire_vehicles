@@ -42,7 +42,6 @@
 			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vfxInfoName>VFXVEHICLEINFO_MOTORBIKE_GENERIC</vfxInfoName>
 			<shouldUseCinematicViewMode value="true"/>
-			<shouldCameraExitUseInterrupt value="false"/>
 			<shouldCameraIgnoreExiting value="false"/>
 			<AllowPretendOccupants value="true"/>
 			<AllowJoyriding value="true"/>

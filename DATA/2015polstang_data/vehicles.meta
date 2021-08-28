@@ -99,15 +99,6 @@
 			<wheelType>VWT_SPORT</wheelType>
 			<trailers/>
 			<additionalTrailers/>
-			<drivers>
-				<Item>
-					<driverName>S_M_Y_Cop_01</driverName>
-					<driverName>S_M_Y_Cop_01</driverName>
-					<driverName>S_M_Y_Cop_01</driverName>
-					<driverName>s_f_y_cop_01</driverName>
-					<npcName/>
-				</Item>
-			</drivers>
 			<extraIncludes>
 				<Item>EXTRA_1 EXTRA_2</Item>
 			</extraIncludes>

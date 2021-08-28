@@ -9651,7 +9651,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>BATI_POV_TUNING</Name>

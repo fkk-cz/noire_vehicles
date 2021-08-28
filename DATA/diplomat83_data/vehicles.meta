@@ -101,7 +101,7 @@
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes>
-				<item>EXTRA_3 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_7</item>
+				<Item>EXTRA_3 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_7</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>

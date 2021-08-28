@@ -79,7 +79,7 @@
 					<modShopLabel>xkgt_boot</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-						<item>misc_f</item>
+						<Item>misc_f</Item>
 					</turnOffBones>
 					<type>VMT_EXHAUST</type>
 					<bone>misc_f</bone>
