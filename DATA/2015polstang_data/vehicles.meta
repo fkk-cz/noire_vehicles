@@ -8,7 +8,7 @@
 			<txdName>2015polstang</txdName>
 			<handlingId>2015POLSTANG</handlingId>
 			<gameName>2015polstang</gameName>
-			<vehicleMakeName>Ford</vehicleMakeName>
+			<vehicleMakeName>FORD</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_0</swankness>
 			<maxNum value="2"/>
-			<flags>FLAG_HAS_LIVERY FLAG_EXTRAS_ALL FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_HAS_INTERIOR_EXTRAS FLAG_REPORT_CRIME_IF_STANDING_ON</flags>
+			<flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_EXTRAS_RARE FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_HAS_INTERIOR_EXTRAS FLAG_REPORT_CRIME_IF_STANDING_ON</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_DUKES</dashboardType>
@@ -108,12 +108,14 @@
 					<npcName/>
 				</Item>
 			</drivers>
-			<extraIncludes/>
+			<extraIncludes>
+				<Item>EXTRA_1 EXTRA_2</Item>
+			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras/>
+			<requiredExtras>EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
