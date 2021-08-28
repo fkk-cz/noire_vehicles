@@ -51,13 +51,7 @@
 			<strModelFlags>440010</strModelFlags>
 			<strHandlingFlags>20002</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
-			<AIHandling>AVERAGE</AIHandling>
-			<SubHandlingData>
-				<fUvAnimationMult value="2.000000"/>
-				<Item type="NULL"/>
-				<Item type="NULL"/>
-				<Item type="NULL"/>
-			</SubHandlingData>
+			<AIHandling>AVERAGE</AIHandling>			
 		</Item>
 	</HandlingData>
 </CHandlingDataMgr>

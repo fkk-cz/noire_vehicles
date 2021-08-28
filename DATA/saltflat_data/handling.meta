@@ -6,7 +6,7 @@
 			<fMass value="190.000000"/>
 			<fInitialDragCoeff value="8.000000"/>
 			<fPercentSubmerged value="95.000000"/>
-			<vecCentreOfMassOffset x="0.000000" y="-.010000" z="0.100000"/>
+			<vecCentreOfMassOffset x="0.000000" y="-0.010000" z="0.100000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="5"/>
@@ -68,7 +68,7 @@
 					<fStoppieBalancePoint value="-10.000000"/>
 					<fWheelieSteerMult value="-0.500000"/>
 					<fRearBalanceMult value="60.000000"/>
-					<fFrontBalanceMult value=".000000"/>
+					<fFrontBalanceMult value="0.000000"/>
 					<fBikeGroundSideFrictionMult value="1.400000"/>
 					<fBikeWheelGroundSideFrictionMult value="1.100000"/>
 					<fBikeOnStandLeanAngle value="-10.850000"/>
