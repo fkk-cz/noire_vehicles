@@ -56,7 +56,7 @@
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -73,7 +73,7 @@
           <bone>chassis</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -159,7 +159,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -176,7 +176,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -193,7 +193,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -210,7 +210,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -227,7 +227,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -244,7 +244,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -261,7 +261,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -278,7 +278,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -295,7 +295,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -312,7 +312,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -329,7 +329,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -346,7 +346,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -363,7 +363,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -380,7 +380,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -397,7 +397,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -414,7 +414,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -431,7 +431,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -448,7 +448,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -465,7 +465,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -482,7 +482,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -499,7 +499,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -516,7 +516,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -533,7 +533,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -550,7 +550,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -567,7 +567,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -584,7 +584,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -601,7 +601,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -618,7 +618,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -635,7 +635,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -652,7 +652,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -669,7 +669,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -686,7 +686,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -703,7 +703,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -720,7 +720,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -737,7 +737,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -754,7 +754,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -771,7 +771,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -788,7 +788,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -805,7 +805,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -822,7 +822,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -839,7 +839,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -856,7 +856,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -873,7 +873,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -890,7 +890,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />
@@ -907,7 +907,7 @@
           <bone>bobble_head</bone>
           <collisionBone>chassis</collisionBone>
           <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1." />
+          <audioApply value="1.0" />
           <weight value="20" />
           <turnOffExtra value="false" />
           <disableBonnetCamera value="false" />

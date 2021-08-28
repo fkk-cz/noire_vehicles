@@ -41,7 +41,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -61,7 +61,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -81,7 +81,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -102,7 +102,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -122,7 +122,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -142,7 +142,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -162,7 +162,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -182,7 +182,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -202,7 +202,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -222,7 +222,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -242,7 +242,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -262,7 +262,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -282,7 +282,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -301,7 +301,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -321,7 +321,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -341,7 +341,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -362,7 +362,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -382,7 +382,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -402,7 +402,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -422,7 +422,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -442,7 +442,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -462,7 +462,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -482,7 +482,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -502,7 +502,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -525,7 +525,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -545,7 +545,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -565,7 +565,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -588,7 +588,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
@@ -606,7 +606,7 @@
           <turnOffExtra value="false"/>
           <disableBonnetCamera value="false"/>
           <allowBonnetSlide value="true"/>
-          <weaponSlot value="-1"/>
+          <weaponSlot value="0"/>
           <disableProjectileDriveby value="false"/>
           <disableDriveby value="false"/>
         </Item>
