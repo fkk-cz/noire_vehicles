@@ -846,12 +846,8 @@
 					<weight value="0"/>
 					<type>VMT_SUSPENSION</type>
 				</Item>
-				<Item>
-					<slot>VMT_CHASSIS</slot>
-					<name>TOP_CAGE</name>
-				</Item>
-				<liveryNames/>
 			</statMods>
+			<liveryNames/>
 		</Item>
 	</Kits>
 	<Lights>
@@ -912,8 +908,8 @@
 				<intensity_far value="1.000000"/>
 				<color value="0xFFFF1E05"/>
 				<numCoronas value="1"/>
-				<distBetweenCoronas value="0.1"/>
-				<distBetweenCoronas_far value="20.5"/>
+				<distBetweenCoronas value="0"/>
+				<distBetweenCoronas_far value="20"/>
 				<xRotation value="0.000000"/>
 				<yRotation value="0.000000"/>
 				<zRotation value="5.667000"/>
@@ -967,7 +963,7 @@
 				<falloffExponent value="32.000000"/>
 				<innerConeAngle value="45.000000"/>
 				<outerConeAngle value="90.000000"/>
-				<emmissiveBoost value="ture"/>
+				<emmissiveBoost value="true"/>
 				<color value="0xFFFFFFFF"/>
 			</reversingLight>
 			<reversingLightCorona>

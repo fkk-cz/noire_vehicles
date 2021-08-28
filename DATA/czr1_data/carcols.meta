@@ -9,23 +9,6 @@
 			<linkMods/>
 			<statMods>
 				<Item>
-					<modelName>wing_2</modelName>
-					<modShopLabel>WING_2</modShopLabel>
-					<linkedModels/>
-					<turnOffBones>
-						<Item>misc_o</Item>
-					</turnOffBones>
-					<type>VMT_SPOILER</type>
-					<bone>bodyshell</bone>
-					<collisionBone>chassis</collisionBone>
-					<cameraPos>VMCP_DEFAULT</cameraPos>
-					<audioApply value="1.000000"/>
-					<weight value="20"/>
-					<turnOffExtra value="false"/>
-					<disableBonnetCamera value="false"/>
-					<allowBonnetSlide value="true"/>
-				</Item>
-				<Item>
 					<identifier/>
 					<modifier value="25"/>
 					<audioApply value="1.000000"/>

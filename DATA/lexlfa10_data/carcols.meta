@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>
 	<Kits>
-  </Kits>
+	</Kits>
 	<Lights>
 		<Item>
 			<id value="909"/>
@@ -124,21 +124,6 @@
 				<textureName/>
 				<mirrorTexture value="true"/>
 			</reversingLight>
-			<extraLightCorona>
-				<size value="0.000000"/>
-				<size_far value="0.000000"/>
-				<intensity value="2.000000"/>
-				<intensity_far value="1.000000"/>
-				<color value="0xFFFFFFFF"/>
-				<numCoronas value="1"/>
-				<distBetweenCoronas value="128"/>
-				<distBetweenCoronas_far value="255"/>
-				<xRotation value="0.000000"/>
-				<yRotation value="0.000000"/>
-				<zRotation value="0.000000"/>
-				<zBias value="0.250000"/>
-				<pullCoronaIn value="false"/>
-			</extraLightCorona>
 			<reversingLightCorona>
 				<size value="0.50000000"/>
 				<size_far value="2.00000000"/>

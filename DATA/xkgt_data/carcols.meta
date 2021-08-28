@@ -131,8 +131,8 @@
 					<modShopLabel>xkgt_wing_2</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-						<item>misc_d</item>
-						<item>brakelight_m</item>
+						<Item>misc_d</Item>
+						<Item>brakelight_m</Item>
 					</turnOffBones>
 					<type>VMT_SPOILER</type>
 					<bone>misc_d</bone>
@@ -275,14 +275,7 @@
 					<audioApply value="1.000000"/>
 					<weight value="0"/>
 					<type>VMT_HORN</type>
-				</Item>
-				<Item>
-					<identifier>HORN_COP</identifier>
-					<modifier value="2xkgt189469"/>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<type>VMT_HORN</type>
-				</Item>
+				</Item>				
 				<Item>
 					<identifier>HORN_CLOWN</identifier>
 					<modifier value="2543206147"/>

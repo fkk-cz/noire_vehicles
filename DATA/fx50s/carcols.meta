@@ -5,8 +5,8 @@
 			<kitName>907_fx50s_modkit</kitName>
 			<id value="907"/>
 			<kitType>MKT_SPECIAL</kitType>
-			<visibleMods> 
-      </visibleMods>
+			<visibleMods>
+			</visibleMods>
 			<linkMods/>
 			<statMods>
 				<Item>
@@ -412,10 +412,6 @@
 					<type>VMT_SUSPENSION</type>
 				</Item>
 			</statMods>
-			<Item>
-				<slot>VMT_CHASSIS</slot>
-				<name>TOP_CAGE</name>
-			</Item>
 			<liveryNames/>
 		</Item>
 	</Kits>

@@ -1503,14 +1503,12 @@
       <linkMods>
         <Item>
           <modelName>fto_mir1r</modelName>
-          <bone>door_pside_f</bone>
-          <collisionBone>misc_e</collisionBone>
+          <bone>door_pside_f</bone>          
           <turnOffExtra value="false" />
         </Item>
         <Item>
           <modelName>fto_mir2r</modelName>
-          <bone>door_pside_f</bone>
-          <collisionBone>misc_e</collisionBone>
+          <bone>door_pside_f</bone>          
           <turnOffExtra value="false" />
         </Item>
       </linkMods>

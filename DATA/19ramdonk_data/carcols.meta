@@ -52005,8 +52005,8 @@
 						<item>neon_mirror_f</item>
 					</linkedModels>
 					<turnOffBones>
-						<item>misc_e</item>
-						<item>misc_f</item>
+						<Item>misc_e</Item>
+						<Item>misc_f</Item>
 					</turnOffBones>
 					<type>VMT_WING_L</type>
 					<bone>door_dside_f</bone>

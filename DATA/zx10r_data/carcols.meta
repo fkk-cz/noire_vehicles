@@ -498,12 +498,8 @@
 					<weight value="0"/>
 					<type>VMT_SUSPENSION</type>
 				</Item>
-				<Item>
-					<slot>VMT_CHASSIS</slot>
-					<name>TOP_CAGE</name>
-				</Item>
-				<liveryNames/>
 			</statMods>
+			<liveryNames/>
 		</Item>
 	</Kits>
 	<Lights/>

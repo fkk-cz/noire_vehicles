@@ -75,7 +75,7 @@
 					<modShopLabel>audquattros_hood</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-          </turnOffBones>
+					</turnOffBones>
 					<type>VMT_BONNET</type>
 					<bone>bonnet</bone>
 					<collisionBone>bonnet</collisionBone>
@@ -142,7 +142,7 @@
 					<modShopLabel>audquattros_bumf2</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-         </turnOffBones>
+					</turnOffBones>
 					<type>VMT_BUMPER_F</type>
 					<bone>bumper_f</bone>
 					<collisionBone>bumper_f</collisionBone>
@@ -175,7 +175,7 @@
 					<modShopLabel>audquattros_foglights</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-          </turnOffBones>
+					</turnOffBones>
 					<type>VMT_GRILL</type>
 					<bone>chassis</bone>
 					<collisionBone>chassis</collisionBone>
@@ -191,7 +191,7 @@
 					<modShopLabel>audquattros_foglights2</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-          </turnOffBones>
+					</turnOffBones>
 					<type>VMT_GRILL</type>
 					<bone>chassis</bone>
 					<collisionBone>chassis</collisionBone>
@@ -207,7 +207,7 @@
 					<modShopLabel>audquattros_wg1</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-          </turnOffBones>
+					</turnOffBones>
 					<type>VMT_SKIRT</type>
 					<bone>chassis</bone>
 					<collisionBone>chassis</collisionBone>
@@ -223,7 +223,7 @@
 					<modShopLabel>audquattros_cage</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-          </turnOffBones>
+					</turnOffBones>
 					<type>VMT_CHASSIS</type>
 					<bone>chassis</bone>
 					<collisionBone>chassis</collisionBone>
@@ -268,13 +268,11 @@
 				<Item>
 					<modelName>audquattros_caliperrr</modelName>
 					<bone>hub_rr</bone>
-					<collisionBone>chassis</collisionBone>
 					<turnOffExtra value="false"/>
 				</Item>
 				<Item>
 					<modelName>audquattros_caliperlr</modelName>
 					<bone>hub_lr</bone>
-					<collisionBone>chassis</collisionBone>
 					<turnOffExtra value="false"/>
 				</Item>
 			</linkMods>
@@ -906,7 +904,7 @@
 				<size_far value="2.00000000"/>
 				<intensity value="0.70000000"/>
 				<intensity_far value="1.20000000"/>
-				<color value="0xFF#f4e9ae"/>
+				<color value="0xFFF4E9AE"/>
 				<numCoronas value="1"/>
 				<distBetweenCoronas value="27"/>
 				<distBetweenCoronas_far value="89"/>
@@ -927,32 +925,6 @@
 				<textureName/>
 				<mirrorTexture value="true"/>
 			</reversingLight>
-			<extraLight>
-				<intensity value="2.000000"/>
-				<falloffMax value="35.000000"/>
-				<falloffExponent value="16.000000"/>
-				<innerConeAngle value="0.000000"/>
-				<outerConeAngle value="40.209999"/>
-				<emmissiveBoost value="false"/>
-				<color value="0xFFF4E9AE"/>
-				<textureName>VehicleLight_car_LED1</textureName>
-				<mirrorTexture value="true"/>
-			</extraLight>
-			<extraLightCorona>
-				<size value="0.300000"/>
-				<size_far value="10.000000"/>
-				<intensity value="2.000000"/>
-				<intensity_far value="1.000000"/>
-				<color value="0xFFF4E9AE"/>
-				<numCoronas value="1"/>
-				<distBetweenCoronas value="128"/>
-				<distBetweenCoronas_far value="255"/>
-				<xRotation value="0.000000"/>
-				<yRotation value="0.000000"/>
-				<zRotation value="0.000000"/>
-				<zBias value="0.250000"/>
-				<pullCoronaIn value="false"/>
-			</extraLightCorona>
 			<reversingLightCorona>
 				<size value="0.50000000"/>
 				<size_far value="2.00000000"/>

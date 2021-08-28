@@ -12,7 +12,7 @@
 					<linkedModels/>
 					<bone>bumper_f</bone>
 					<turnOffBones>
-			  </turnOffBones>
+					</turnOffBones>
 					<type>VMT_BUMPER_F</type>
 					<bone>bumper_f</bone>
 					<collisionBone>bumper_f</collisionBone>
@@ -27,9 +27,7 @@
 					<modelName>m3_bumpf_2</modelName>
 					<modShopLabel>m3_bumpf_2</modShopLabel>
 					<linkedModels/>
-					<turnOffBones>
-						<bone>bumper_f</bone>
-					</turnOffBones>
+					<turnOffBones/>
 					<type>VMT_BUMPER_F</type>
 					<bone>bumper_f</bone>
 					<collisionBone>bumper_f</collisionBone>
@@ -44,9 +42,7 @@
 					<modelName>m3_bumpr_1</modelName>
 					<modShopLabel>m3_bumpr_1</modShopLabel>
 					<linkedModels/>
-					<turnOffBones>
-						<bone>bumper_r</bone>
-					</turnOffBones>
+					<turnOffBones/>
 					<type>VMT_BUMPER_R</type>
 					<bone>bumper_r</bone>
 					<collisionBone>bumper_r</collisionBone>
@@ -610,7 +606,7 @@
 			</statMods>
 			<slotNames/>
 			<liveryNames>
-      </liveryNames>
+			</liveryNames>
 		</Item>
 	</Kits>
 	<Lights>
