@@ -36,7 +36,7 @@
 			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.140000" z="0.000000"/>
 			<FirstPersonMobilePhoneOffset x="0.133000" y="0.208000" z="0.569000"/>
-			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.143000" z="0.4xkgt00"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.143000" z="0.400000"/>
 			<PovCameraOffset x="0.000000" y="-0.325000" z="0.580000"/>
 			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
 			<PovPassengerCameraOffset x="0.000000" y="-0.050000" z="0.000000"/>

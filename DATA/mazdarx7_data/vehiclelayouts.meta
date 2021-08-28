@@ -1003,7 +1003,7 @@
       <MaxRestrictedAimSweepHeadingAngleDegs value="225.000000" />
       <MinSmashWindowAngleDegs value="17.500000" />
       <MaxSmashWindowAngleDegs value="180.000000" />
-	  <MinSmashWindowAngleFirstPersonDegs value="17.5.000000" />
+	  <MinSmashWindowAngleFirstPersonDegs value="17.500000" />
       <MaxSmashWindowAngleFirstPersonDegs value="180.000000" />
       <MaxSpeedParam value="0.500000" />
       <MaxLongitudinalLeanBlendWeightDelta value="0.250000" />

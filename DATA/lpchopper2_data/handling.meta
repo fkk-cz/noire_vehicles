@@ -68,7 +68,7 @@
 					<fStoppieBalancePoint value="-10.000000"/>
 					<fWheelieSteerMult value="-0.500000"/>
 					<fRearBalanceMult value="60.000000"/>
-					<fFrontBalanceMult value=".000000"/>
+					<fFrontBalanceMult value="0.000000"/>
 					<fBikeGroundSideFrictionMult value="1.400000"/>
 					<fBikeWheelGroundSideFrictionMult value="1.100000"/>
 					<fBikeOnStandLeanAngle value="-10.850000"/>

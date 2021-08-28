@@ -91,10 +91,9 @@
 			<trailers/>
 			<additionalTrailers/>
 			<drivers/>
-			<extraIncludes/>
-			<Item>EXTRA_2</Item>
-			<Item>EXTRA_3</Item>
-			<extraIncludes/>
+			<extraIncludes>
+				<Item>EXTRA_2 EXTRA_3</Item>
+			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
