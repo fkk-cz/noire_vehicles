@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>mazrx7fb</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						107
+						0
+						0
+						0
+						33
+						33
+					</indices>
+					<liveries>
+						<Item value="true"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>1739_mazrx7fb_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="50"/>
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="50"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="0"/>
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>
