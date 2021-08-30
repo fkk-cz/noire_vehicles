@@ -22223,8 +22223,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_JETMAX_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady UseFirstMulipleAccessSeatForDirectEntryPoint</Flags>
@@ -22237,8 +22237,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_JETMAX_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady UseFirstMulipleAccessSeatForDirectEntryPoint</Flags>
@@ -22281,7 +22281,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SQUALO_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22294,7 +22294,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SQUALO_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22365,7 +22365,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_MARQUIS_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22378,7 +22378,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_MARQUIS_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22421,8 +22421,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22435,8 +22435,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22449,7 +22449,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22462,7 +22462,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22505,7 +22505,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22518,7 +22518,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22531,7 +22531,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22544,7 +22544,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22587,7 +22587,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22600,7 +22600,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22613,7 +22613,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22626,7 +22626,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_REARCLIMB_RIGHT"/>
 			<Flags/>

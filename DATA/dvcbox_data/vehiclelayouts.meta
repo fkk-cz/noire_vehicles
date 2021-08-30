@@ -9651,7 +9651,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>BATI_POV_TUNING</Name>
@@ -9665,7 +9664,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>BLAZER_POV_TUNING</Name>
@@ -9679,7 +9677,6 @@
 			<MaxForwardsPitchSlow value="0.60000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="0.600000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>CARBONRS_POV_TUNING</Name>
@@ -9693,7 +9690,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>DAEMON_POV_TUNING</Name>
@@ -9707,7 +9703,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>DOUBLE_POV_TUNING</Name>
@@ -9721,7 +9716,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="0.600000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>FAGGIO_POV_TUNING</Name>
@@ -9735,7 +9729,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>HEXER_POV_TUNING</Name>
@@ -9749,7 +9742,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>NEMESIS_POV_TUNING</Name>
@@ -9763,7 +9755,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-6.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>PCJ_POV_TUNING</Name>
@@ -9777,7 +9768,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="0.900000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>POLICEB_POV_TUNING</Name>
@@ -9791,7 +9781,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>RUFFIAN_POV_TUNING</Name>
@@ -9805,7 +9794,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="0.800000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>VADER_POV_TUNING</Name>
@@ -9819,7 +9807,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>SANCHEZ_POV_TUNING</Name>
@@ -9833,7 +9820,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>SOVEREIGN_POV_TUNING</Name>
@@ -9847,7 +9833,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 		<Item type="CPOVTuningInfo">
 			<Name>THRUST_POV_TUNING</Name>
@@ -9861,7 +9846,6 @@
 			<MaxForwardsPitchSlow value="0.650000"/>
 			<MinForwardsPitchFast value="0.100000"/>
 			<MaxForwardsPitchFast value="1.000000"/>
-			<CameraPitchOffset value="-12.000000"/>
 		</Item>
 	</POVTuningInfos>
 	<EntryAnimVariations>
@@ -22239,8 +22223,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_JETMAX_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady UseFirstMulipleAccessSeatForDirectEntryPoint</Flags>
@@ -22253,8 +22237,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_JETMAX_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady UseFirstMulipleAccessSeatForDirectEntryPoint</Flags>
@@ -22297,7 +22281,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SQUALO_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22310,7 +22294,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SQUALO_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22381,7 +22365,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_MARQUIS_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22394,7 +22378,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_MARQUIS_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22437,8 +22421,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22451,8 +22435,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22465,7 +22449,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22478,7 +22462,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22521,7 +22505,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22534,7 +22518,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22547,7 +22531,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22560,7 +22544,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22603,7 +22587,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22616,7 +22600,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22629,7 +22613,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22642,7 +22626,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_REARCLIMB_RIGHT"/>
 			<Flags/>

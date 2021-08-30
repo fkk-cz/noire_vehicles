@@ -22000,8 +22000,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_JETMAX_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady UseFirstMulipleAccessSeatForDirectEntryPoint</Flags>
@@ -22014,8 +22014,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_JETMAX_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady UseFirstMulipleAccessSeatForDirectEntryPoint</Flags>
@@ -22058,7 +22058,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SQUALO_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22071,7 +22071,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SQUALO_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22142,7 +22142,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_MARQUIS_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22155,7 +22155,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_MARQUIS_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22198,8 +22198,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22212,8 +22212,8 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22226,7 +22226,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_LEFT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22239,7 +22239,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_RIGHT</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_PREDATOR_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22282,7 +22282,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22295,7 +22295,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22308,7 +22308,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22321,7 +22321,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_SUNTRAP_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -22364,7 +22364,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_LEFT"/>
+				<Item ref="SEAT_BOAT_FRONT_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_FRONTCLIMB_LEFT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22377,7 +22377,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_FRONT_RIGHT"/>
+				<Item ref="SEAT_BOAT_FRONT_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_FRONTCLIMB_RIGHT"/>
 			<Flags>BlockJackReactionUntilJackerIsReady</Flags>
@@ -22390,7 +22390,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_LEFT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_REARCLIMB_LEFT"/>
 			<Flags/>
@@ -22403,7 +22403,7 @@
 			<WindowId>INVALID</WindowId>
 			<VehicleSide>SIDE_REAR</VehicleSide>
 			<AccessableSeats>
-				<Seat ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
+				<Item ref="SEAT_BOAT_NO_SHUFFLE_REAR_RIGHT"/>
 			</AccessableSeats>
 			<VehicleExtraPointsInfo ref="EXTRA_VEHICLE_POINTS_BOAT_TROPIC_REARCLIMB_RIGHT"/>
 			<Flags/>
@@ -23295,7 +23295,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>MOTOBIKE</NMJumpFromVehicleTuningSet>
@@ -23315,7 +23314,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23334,7 +23332,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.536100"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23353,7 +23350,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.536100"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23372,7 +23368,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23391,7 +23386,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23410,7 +23404,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.535100"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23429,7 +23422,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.535100"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23448,7 +23440,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>MOTOBIKE</NMJumpFromVehicleTuningSet>
@@ -23468,7 +23459,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23487,7 +23477,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23506,7 +23495,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23525,7 +23513,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>MOTOBIKE</NMJumpFromVehicleTuningSet>
@@ -23545,7 +23532,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23564,7 +23550,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23583,7 +23568,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23602,7 +23586,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>MOTOBIKE</NMJumpFromVehicleTuningSet>
@@ -23622,7 +23605,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23641,7 +23623,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23660,7 +23641,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23679,7 +23659,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>MOTOBIKE</NMJumpFromVehicleTuningSet>
@@ -23699,7 +23678,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23718,7 +23696,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>BICYCLE</NMJumpFromVehicleTuningSet>
@@ -23738,7 +23715,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23757,7 +23733,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>BICYCLE</NMJumpFromVehicleTuningSet>
@@ -23777,7 +23752,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23796,7 +23770,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>BICYCLE</NMJumpFromVehicleTuningSet>
@@ -23816,7 +23789,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23835,7 +23807,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>BICYCLE</NMJumpFromVehicleTuningSet>
@@ -23855,7 +23826,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23874,7 +23844,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasGetInFromWater JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23893,7 +23862,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasGetInFromWater JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23912,7 +23880,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasGetInFromWater JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23931,7 +23898,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasGetInFromWater JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23950,7 +23916,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn DontCloseDoorInside DontCloseDoorOutside HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23969,7 +23934,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn DontCloseDoorInside DontCloseDoorOutside HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -23988,7 +23952,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24007,7 +23970,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24026,7 +23988,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24045,7 +24006,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24064,7 +24024,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24083,7 +24042,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24102,7 +24060,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24121,7 +24078,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24140,7 +24096,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24159,7 +24114,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24178,7 +24132,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24197,7 +24150,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24216,7 +24168,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24235,7 +24186,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24254,7 +24204,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24273,7 +24222,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24292,7 +24240,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24311,7 +24258,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24330,7 +24276,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24349,7 +24294,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24368,7 +24312,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24387,7 +24330,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24406,7 +24348,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24425,7 +24366,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24444,7 +24384,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24463,7 +24402,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24482,7 +24420,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24501,7 +24438,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24520,7 +24456,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24539,7 +24474,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasClimbUp HasOnVehicleEntry HasClimbUpFromWater UseSeatClipSetAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24558,7 +24492,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24577,7 +24510,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp JackIncludesGetIn HasOnVehicleEntry UseStandOnGetIn UseSeatClipSetAnims DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24596,7 +24528,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasGetInFromWater JackIncludesGetIn HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn UseStandOnGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24615,7 +24546,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasGetInFromWater JackIncludesGetIn HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn UseStandOnGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24634,7 +24564,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24653,7 +24582,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp HasOnVehicleEntry UseStandOnGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24672,7 +24600,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp DisableJacking DontCloseDoorOutside HasOnVehicleEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24691,7 +24618,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="1.000000"/>
 			<EntryPointFlags>HasVaultUp DisableJacking DontCloseDoorOutside HasOnVehicleEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -24710,7 +24636,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>Standard</NMJumpFromVehicleTuningSet>
@@ -24730,7 +24655,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_RIGHT"/>
 		</Item>
@@ -24749,7 +24673,6 @@
 			<OpenDoorTranslation x="-0.20000" y="0.00000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_LEFT"/>
 		</Item>
@@ -24768,7 +24691,6 @@
 			<OpenDoorTranslation x="0.200000" y="0.00000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_RIGHT"/>
 		</Item>
@@ -24787,7 +24709,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -24807,7 +24728,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_RIGHT"/>
 		</Item>
@@ -24826,7 +24746,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_LEFT"/>
 		</Item>
@@ -24845,7 +24764,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_RIGHT"/>
 		</Item>
@@ -24864,7 +24782,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>Standard</NMJumpFromVehicleTuningSet>
@@ -24884,7 +24801,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_RIGHT"/>
 		</Item>
@@ -24903,7 +24819,6 @@
 			<OpenDoorTranslation x="-0.20000" y="0.00000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_LEFT"/>
 		</Item>
@@ -24922,7 +24837,6 @@
 			<OpenDoorTranslation x="0.200000" y="0.00000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_RIGHT"/>
 		</Item>
@@ -24941,7 +24855,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_LEFT"/>
 		</Item>
@@ -24960,7 +24873,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_RIGHT"/>
 		</Item>
@@ -24979,7 +24891,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -24999,7 +24910,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25018,7 +24928,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>Standard</NMJumpFromVehicleTuningSet>
@@ -25038,7 +24947,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_RIGHT"/>
 		</Item>
@@ -25057,7 +24965,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims NavigateToWarpEntryPoint UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_LEFT"/>
 		</Item>
@@ -25076,7 +24983,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims NavigateToWarpEntryPoint UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_REAR_RIGHT"/>
 		</Item>
@@ -25095,7 +25001,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>LOWCAR</NMJumpFromVehicleTuningSet>
@@ -25115,7 +25020,6 @@
 			<OpenDoorTranslation x="0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_STANDARD_FRONT_RIGHT"/>
 		</Item>
@@ -25134,7 +25038,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_LOW_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>LOWCAR</NMJumpFromVehicleTuningSet>
@@ -25154,7 +25057,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_LOW_FRONT_RIGHT"/>
 		</Item>
@@ -25173,7 +25075,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25192,7 +25093,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25211,7 +25111,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>LOWCAR</NMJumpFromVehicleTuningSet>
@@ -25231,7 +25130,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25250,7 +25148,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25269,7 +25166,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25288,7 +25184,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25307,7 +25202,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25326,7 +25220,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25346,7 +25239,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT"/>
 		</Item>
@@ -25365,7 +25257,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_REAR_LEFT"/>
 		</Item>
@@ -25384,7 +25275,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_REAR_RIGHT"/>
 		</Item>
@@ -25403,7 +25293,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25423,7 +25312,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25442,7 +25330,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_REAR_LEFT"/>
 		</Item>
@@ -25461,7 +25348,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_REAR_RIGHT"/>
 		</Item>
@@ -25480,7 +25366,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_TRUCK_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25500,7 +25385,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25519,7 +25403,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25539,7 +25422,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25558,7 +25440,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25577,7 +25458,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25597,7 +25477,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25616,7 +25495,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25636,7 +25514,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25655,7 +25532,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -25675,7 +25551,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25694,7 +25569,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn JackVariationsIncludeGetIn UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25713,7 +25587,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn JackVariationsIncludeGetIn UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25732,7 +25605,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25751,7 +25623,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25770,7 +25641,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25789,7 +25659,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25808,7 +25677,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_FRONT_LEFT"/>
 		</Item>
@@ -25827,7 +25695,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_FRONT_RIGHT"/>
 		</Item>
@@ -25846,7 +25713,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_REAR_LEFT"/>
 		</Item>
@@ -25865,7 +25731,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_REAR_RIGHT"/>
 		</Item>
@@ -25884,7 +25749,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25903,7 +25767,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -25922,7 +25785,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_ANNIHILATOR_FRONT_LEFT"/>
 		</Item>
@@ -25941,7 +25803,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_ANNIHILATOR_FRONT_RIGHT"/>
 		</Item>
@@ -25960,7 +25821,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_BUZZARD_FRONT_LEFT"/>
 		</Item>
@@ -25979,7 +25839,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_BUZZARD_FRONT_RIGHT"/>
 		</Item>
@@ -25998,7 +25857,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-2.600000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_REAR_LEFT"/>
 		</Item>
@@ -26017,7 +25875,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="2.600000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_REAR_RIGHT"/>
 		</Item>
@@ -26036,7 +25893,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit DontCloseDoorOutside UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_FRONT_LEFT"/>
 		</Item>
@@ -26055,7 +25911,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit DontCloseDoorOutside UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_FRONT_RIGHT"/>
 		</Item>
@@ -26074,7 +25929,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn NavigateToWarpEntryPoint UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_REAR_LEFT"/>
 		</Item>
@@ -26093,7 +25947,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn NavigateToWarpEntryPoint UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_HELICOPTER_REAR_RIGHT"/>
 		</Item>
@@ -26112,7 +25965,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit DontCloseDoorOutside FixUpMoverToEntryPointOnExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26131,7 +25983,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit DontCloseDoorOutside FixUpMoverToEntryPointOnExit UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26150,7 +26001,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseNewPlaneSystem HasOnVehicleEntry HasClimbDown JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_CUBAN_FRONT_LEFT"/>
 		</Item>
@@ -26169,7 +26019,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseNewPlaneSystem HasOnVehicleEntry HasClimbDown JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_CUBAN_FRONT_RIGHT"/>
 		</Item>
@@ -26188,7 +26037,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UseNewPlaneSystem JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_DUSTER_FRONT_LEFT"/>
 		</Item>
@@ -26207,7 +26055,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UseNewPlaneSystem JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_DUSTER_FRONT_RIGHT"/>
 		</Item>
@@ -26226,7 +26073,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseNewPlaneSystem JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_DUSTER_REAR_LEFT"/>
 		</Item>
@@ -26245,7 +26091,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseNewPlaneSystem JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_DUSTER_REAR_RIGHT"/>
 		</Item>
@@ -26264,7 +26109,6 @@
 			<OpenDoorTranslation x="-0.475000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseNewPlaneSystem PreventJackInterrupt DontCloseDoorOutside JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_SHAMAL_FRONT_LEFT"/>
 		</Item>
@@ -26283,7 +26127,6 @@
 			<OpenDoorTranslation x="-0.475000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseNewPlaneSystem DontCloseDoorInside PreventJackInterrupt DontCloseDoorOutside JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_SHAMAL_FRONT_RIGHT"/>
 		</Item>
@@ -26302,7 +26145,6 @@
 			<OpenDoorTranslation x="-0.475000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseNewPlaneSystem DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26321,7 +26163,6 @@
 			<OpenDoorTranslation x="-0.475000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseNewPlaneSystem DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26340,7 +26181,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition WarpOut DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26359,7 +26199,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UseNewPlaneSystem HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_LAZER_FRONT"/>
 		</Item>
@@ -26378,7 +26217,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UseNewPlaneSystem HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_LAZER_FRONT"/>
 		</Item>
@@ -26397,7 +26235,6 @@
 			<OpenDoorTranslation x="0.390000" y="-0.165000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UseNewPlaneSystem UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_MAMMATUS_FRONT_LEFT"/>
 		</Item>
@@ -26416,7 +26253,6 @@
 			<OpenDoorTranslation x="-0.390000" y="-0.165000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UseNewPlaneSystem UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_MAMMATUS_FRONT_RIGHT"/>
 		</Item>
@@ -26435,7 +26271,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UsesNoDoorTransitionForExit NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26454,7 +26289,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UsesNoDoorTransitionForExit NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26473,7 +26307,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UsesNoDoorTransitionForExit NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26492,7 +26325,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem DontCloseDoorOutside HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_STUNT_FRONT_LEFT"/>
 		</Item>
@@ -26511,7 +26343,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem DontCloseDoorOutside HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_STUNT_FRONT_RIGHT"/>
 		</Item>
@@ -26530,7 +26361,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem PreventJackInterrupt DontCloseDoorOutside JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_TITAN_FRONT_LEFT"/>
 		</Item>
@@ -26549,7 +26379,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem PreventJackInterrupt DontCloseDoorInside DontCloseDoorOutside JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_PLANE_TITAN_FRONT_RIGHT"/>
 		</Item>
@@ -26568,7 +26397,6 @@
 			<OpenDoorTranslation x="-0.475000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseNewPlaneSystem DontCloseDoorOutside NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26587,7 +26415,6 @@
 			<OpenDoorTranslation x="-0.475000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseNewPlaneSystem DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26606,7 +26433,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseNewPlaneSystem HasOnVehicleEntry HasClimbDown JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26625,7 +26451,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseNewPlaneSystem HasOnVehicleEntry HasClimbDown JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26644,7 +26469,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseNewPlaneSystem HasOnVehicleEntry HasClimbDown NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26663,7 +26487,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseNewPlaneSystem HasOnVehicleEntry HasClimbDown NavigateToWarpEntryPoint JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26682,7 +26505,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn ForcedEntryIncludesGetIn DontCloseDoorOutside HasOnVehicleEntry FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -26702,7 +26524,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp ExitAnimHasLongDrop JackIncludesGetIn ForcedEntryIncludesGetIn DontCloseDoorOutside HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -26722,7 +26543,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UseGetUpAfterJack DeadJackIncludesGetIn DontCloseDoorOutside</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -26742,7 +26562,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UseGetUpAfterJack DeadJackIncludesGetIn DontCloseDoorOutside</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26761,7 +26580,6 @@
 			<OpenDoorTranslation x="-0.050000" y="0.150000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -26781,7 +26599,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -26801,7 +26618,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26820,7 +26636,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>BICYCLE</NMJumpFromVehicleTuningSet>
@@ -26840,7 +26655,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26859,7 +26673,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit PreventJackInterrupt DontCloseDoorOutside UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -26879,7 +26692,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit PreventJackInterrupt DontCloseDoorOutside UseGetUpAfterJack DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26898,7 +26710,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26917,7 +26728,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26936,7 +26746,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseOpenDoorBlendAnims NavigateToWarpEntryPoint UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -26955,7 +26764,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseOpenDoorBlendAnims NavigateToWarpEntryPoint UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_REAR_LEFT"/>
 		</Item>
@@ -26974,7 +26782,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn UseOpenDoorBlendAnims NavigateToWarpEntryPoint UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_REAR_RIGHT"/>
 		</Item>
@@ -26993,7 +26800,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27012,7 +26818,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27031,7 +26836,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27050,7 +26854,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27069,7 +26872,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="3.140000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DisableJacking HasOnVehicleEntry UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27088,7 +26890,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="3.140000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DisableJacking HasOnVehicleEntry UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27107,7 +26908,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27127,7 +26927,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT"/>
 		</Item>
@@ -27146,7 +26945,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT"/>
 		</Item>
@@ -27165,7 +26963,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27185,7 +26982,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27204,7 +27000,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn UsesNoDoorTransitionForEnter UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27223,7 +27018,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_LEFT"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27243,7 +27037,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit UseOpenDoorBlendAnims UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn HasCombatEntry</EntryPointFlags>
 			<EntryAnimVariations ref="ENTRY_ANIM_VARIATIONS_VAN_FRONT_RIGHT"/>
 		</Item>
@@ -27262,7 +27055,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="1.570000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseOpenDoorBlendAnims UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27281,7 +27073,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="-1.570000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UsesNoDoorTransitionForExit FixUpMoverToEntryPointOnExit UseOpenDoorBlendAnims UseGetUpAfterJack</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27300,7 +27091,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags/>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27320,7 +27110,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags/>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27339,7 +27128,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.544242"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>FixUpMoverToEntryPointOnExit CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27358,7 +27146,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.591297"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>FixUpMoverToEntryPointOnExit CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27377,7 +27164,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27396,7 +27182,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27415,7 +27200,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27434,7 +27218,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27453,7 +27236,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn DontCloseDoorOutside JackVariationsIncludeGetIn DeadJackIncludesGetIn ForcedEntryIncludesGetIn PreventJackInterrupt</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27473,7 +27255,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27493,7 +27274,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27512,7 +27292,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27531,7 +27310,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27550,7 +27328,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27569,7 +27346,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27588,7 +27364,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition JackIncludesGetIn DontCloseDoorInside DontCloseDoorOutside ForcedEntryIncludesGetIn JackVariationsIncludeGetIn DeadJackIncludesGetIn PreventJackInterrupt</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27608,7 +27383,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27628,7 +27402,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27647,7 +27420,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27666,7 +27438,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27685,7 +27456,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27704,7 +27474,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27723,7 +27492,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27742,7 +27510,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27761,7 +27528,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27780,7 +27546,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>JackIncludesGetIn ForcedEntryIncludesGetIn DontCloseDoorOutside JackVariationsIncludeGetIn DeadJackIncludesGetIn PreventJackInterrupt</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27800,7 +27565,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27820,7 +27584,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27839,7 +27602,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27858,7 +27620,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27877,7 +27638,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="1.570000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>UseVehicleRelativeEntryPosition DontCloseDoorInside DontCloseDoorOutside NavigateToWarpEntryPoint</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27896,7 +27656,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags/>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27915,7 +27674,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags/>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27934,7 +27692,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags/>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27953,7 +27710,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags/>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -27972,7 +27728,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>FixUpMoverToEntryPointOnExit CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -27992,7 +27747,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="0.000000"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>FixUpMoverToEntryPointOnExit CannotBeUsedByCuffedPed</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 			<NMJumpFromVehicleTuningSet>SLOWTRUCK</NMJumpFromVehicleTuningSet>
@@ -28012,7 +27766,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="3.141600"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem DontCloseDoorInside HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -28031,7 +27784,6 @@
 			<OpenDoorTranslation x="0.000000" y="0.000000"/>
 			<OpenDoorHeadingChange value="0.000000"/>
 			<EntryHeadingChange value="-1.570800"/>
-			<ExtraZForWaterEntry value="0.000000"/>
 			<EntryPointFlags>HasClimbUp JackIncludesGetIn UsesNoDoorTransitionForEnter UseNewPlaneSystem DontCloseDoorInside HasOnVehicleEntry UseGetUpAfterJack JackVariationsIncludeGetIn DeadJackIncludesGetIn</EntryPointFlags>
 			<EntryAnimVariations ref="NULL"/>
 		</Item>
@@ -33128,171 +32880,6 @@
 		</Item>
 	</VehicleLayoutInfos>
 	<VehicleScenarioLayoutInfos>
-		<Item type="CVehicleScenarioLayoutInfo">
-			<Name>METRO_TRAIN_SCENARIO_LAYOUT</Name>
-			<ScenarioPoints>
-				<Item>
-					<name/>
-					<offsetPosition x="-0.800000" y="-4.320000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="-0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="-0.800000" y="-1.130000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="-0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="-0.800000" y="0.490000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="-0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="-0.800000" y="2.110000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="-0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="0.800000" y="-4.080000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="0.800000" y="-1.130000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="0.800000" y="0.490000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-				<Item>
-					<name/>
-					<offsetPosition x="0.800000" y="2.110000" z="1.100000"/>
-					<offsetRotation x="0.000000" y="0.000000" z="0.707107" w="0.707107"/>
-					<spawnType>PROP_HUMAN_SEAT_TRAIN</spawnType>
-					<pedType>Any</pedType>
-					<group/>
-					<interior/>
-					<requiredImap/>
-					<availableInMpSp>kBoth</availableInMpSp>
-					<probability value="0.000000"/>
-					<timeTillPedLeaves value="-1.000000"/>
-					<radius value="0.000000"/>
-					<start value="0"/>
-					<end value="24"/>
-					<Flags>IgnoreMaxInRange StationaryReactions ResetNoCollisionOnCleanUp</Flags>
-					<highPri value="false"/>
-					<extendedRange value="false"/>
-					<shortRange value="false"/>
-				</Item>
-			</ScenarioPoints>
-		</Item>
 		<Item type="CVehicleScenarioLayoutInfo">
 			<Name>SCENARIO_COPS_NEXT_TO_CAR</Name>
 			<ScenarioPoints>
