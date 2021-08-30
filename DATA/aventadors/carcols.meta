@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>
-	<Wheels>
-		<Item>
-			<wheelVariation/>
-			<modShopLabel>lp700_wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>lp720_wheel</wheelName>
-			<wheelVariation/>
-			<modShopLabel>lp720_wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-		<Item>
-			<wheelName>lb700_wheel</wheelName>
-			<wheelVariation/>
-			<modShopLabel>lb700_wheel</modShopLabel>
-			<rimRadius value="0.348500"/>
-			<rear value="false"/>
-		</Item>
-	</Wheels>
+	<!-- <Wheels> -->
+	<!-- <Item>						 -->
+	<!-- <rimRadius value="0.348500"/> -->
+	<!-- <rear value="false"/> -->
+	<!-- </Item> -->
+	<!-- <Item> -->
+	<!-- <wheelName>lp720_wheel</wheelName> -->
+	<!-- <wheelVariation/> -->
+	<!-- <modShopLabel>lp720_wheel</modShopLabel> -->
+	<!-- <rimRadius value="0.348500"/> -->
+	<!-- <rear value="false"/> -->
+	<!-- </Item> -->
+	<!-- <Item> -->
+	<!-- <wheelName>lb700_wheel</wheelName> -->
+	<!-- <wheelVariation/> -->
+	<!-- <modShopLabel>lb700_wheel</modShopLabel> -->
+	<!-- <rimRadius value="0.348500"/> -->
+	<!-- <rear value="false"/> -->
+	<!-- </Item> -->
+	<!-- </Wheels> -->
 	<Kits>
 		<Item>
 			<kitName>965_aventadors_modkit</kitName>
@@ -508,10 +506,6 @@
 				</Item>
 			</statMods>
 			<slotNames/>
-			<Item>
-				<slot>VMT_CHASSIS</slot>
-				<name>TOP_CAGE</name>
-			</Item>
 			<liveryNames/>
 		</Item>
 	</Kits>
@@ -573,8 +567,8 @@
 				<intensity_far value="1.000000"/>
 				<color value="0xFFFF1E05"/>
 				<numCoronas value="1"/>
-				<distBetweenCoronas value="0.1"/>
-				<distBetweenCoronas_far value="20.5"/>
+				<distBetweenCoronas value="0"/>
+				<distBetweenCoronas_far value="20"/>
 				<xRotation value="0.000000"/>
 				<yRotation value="0.000000"/>
 				<zRotation value="5.667000"/>

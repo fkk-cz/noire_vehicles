@@ -5,83 +5,83 @@
 			<modelName>b5s4</modelName>
 			<colors>
 				<Item>
-					<indices>
-						<Item value="147"/>
-						<Item value="147"/>
-						<Item value="3"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						147
+						147
+						3
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="88"/>
-						<Item value="88"/>
-						<Item value="3"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						88
+						88
+						3
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="34"/>
-						<Item value="34"/>
-						<Item value="27"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						34
+						34
+						27
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="49"/>
-						<Item value="49"/>
-						<Item value="51"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						49
+						49
+						51
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="28"/>
-						<Item value="28"/>
-						<Item value="27"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						28
+						28
+						27
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="4"/>
-						<Item value="4"/>
-						<Item value="112"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						4
+						4
+						112
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="64"/>
-						<Item value="64"/>
-						<Item value="61"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						64
+						64
+						61
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="107"/>
-						<Item value="107"/>
-						<Item value="111"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						107
+						107
+						111
+						156
 					</indices>
 					<liveries/>
 				</Item>
 				<Item>
-					<indices>
-						<Item value="62"/>
-						<Item value="62"/>
-						<Item value="63"/>
-						<Item value="156"/>
+					<indices content="char_array">
+						62
+						62
+						63
+						156
 					</indices>
 					<liveries/>
 				</Item>

@@ -6,11 +6,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            0 
-            156 
-          </indices>
+						0
+						0
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -24,11 +24,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            1 
-            1 
-            4 
-            156 
-          </indices>
+						1
+						1
+						4
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -42,11 +42,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            2 
-            7 
-            156 
-          </indices>
+						2
+						2
+						7
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -60,11 +60,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            3 
-            3 
-            23 
-            156 
-          </indices>
+						3
+						3
+						23
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -78,11 +78,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            4 
-            4 
-            111 
-            156 
-          </indices>
+						4
+						4
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -96,11 +96,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            111 
-            111 
-            156 
-          </indices>
+						111
+						111
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -114,11 +114,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            5 
-            111 
-            156 
-          </indices>
+						5
+						5
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -132,11 +132,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            74 
-            156 
-          </indices>
+						73
+						73
+						74
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -150,11 +150,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            44 
-            156 
-          </indices>
+						34
+						34
+						44
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -168,11 +168,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            36 
-            156 
-          </indices>
+						31
+						31
+						36
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -186,11 +186,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            71 
-            71 
-            74 
-            156 
-          </indices>
+						71
+						71
+						74
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -204,11 +204,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            66 
-            66 
-            67 
-            156 
-          </indices>
+						66
+						66
+						67
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -222,11 +222,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            5 
-            111 
-            156 
-          </indices>
+						5
+						5
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -240,11 +240,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            11 
-            11 
-            6 
-            156 
-          </indices>
+						11
+						11
+						6
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -258,11 +258,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            111 
-            0 
-            156 
-          </indices>
+						111
+						111
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -307,101 +307,101 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            6 
-            156 
-          </indices>
+						0
+						0
+						6
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            2 
-            134 
-            156 
-          </indices>
+						2
+						2
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156 
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            19 
-            19 
-            134 
-            156 
-          </indices>
+						19
+						19
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            28 
-            156 
-          </indices>
+						31
+						31
+						28
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            28
-            156 
-          </indices>
+						34
+						34
+						28
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            64 
-            53
-            156 
-          </indices>
+						64
+						64
+						53
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            60 
-            156 
-          </indices>
+						73
+						73
+						60
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            75 
-            75 
-            60 
-            156 
-          </indices>
+						75
+						75
+						60
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            89 
-            89 
-            156 
-          </indices>
+						89
+						89
+						89
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            107 
-            107 
-            110 
-            156 
-          </indices>
+						107
+						107
+						110
+						156
+					</indices>
 					<liveries/>
 				</Item>
 			</colors>
@@ -429,101 +429,101 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            6 
-            156 
-          </indices>
+						0
+						0
+						6
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            2 
-            134 
-            156 
-          </indices>
+						2
+						2
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156 
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            19 
-            19 
-            134 
-            156 
-          </indices>
+						19
+						19
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            28 
-            156 
-          </indices>
+						31
+						31
+						28
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            28
-            156 
-          </indices>
+						34
+						34
+						28
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            64 
-            53
-            156 
-          </indices>
+						64
+						64
+						53
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            60 
-            156 
-          </indices>
+						73
+						73
+						60
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            75 
-            75 
-            60 
-            156 
-          </indices>
+						75
+						75
+						60
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            89 
-            89 
-            156 
-          </indices>
+						89
+						89
+						89
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            107 
-            107 
-            110 
-            156 
-          </indices>
+						107
+						107
+						110
+						156
+					</indices>
 					<liveries/>
 				</Item>
 			</colors>
@@ -551,11 +551,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            73 
-            0 
-            70 
-            37 
-          </indices>
+						73
+						0
+						70
+						37
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -594,11 +594,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            141 
-            64 
-            63
-            0 
-          </indices>
+						141
+						64
+						63
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -623,11 +623,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            2 
-            111 
-            107 
-            156 
-          </indices>
+						2
+						111
+						107
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -660,11 +660,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            51 
-            91 
-            91 
-            156 
-          </indices>
+						51
+						91
+						91
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -697,11 +697,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            82 
-            70 
-            0 
-            0 
-          </indices>
+						82
+						70
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -715,11 +715,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            5 
-            0 
-            8 
-          </indices>
+						2
+						5
+						0
+						8
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="true"/>
@@ -733,11 +733,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            131 
-            5 
-            156 
-          </indices>
+						5
+						131
+						5
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -751,11 +751,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            36 
-            138 
-            2 
-            0 
-          </indices>
+						36
+						138
+						2
+						0
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -788,11 +788,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0 
-            120 
-            0
-            156 
-          </indices>
+						0
+						120
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="true"/>
@@ -809,11 +809,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            0 
-            112 
-            0
-            156 
-          </indices>
+						0
+						112
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -830,11 +830,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            6 
-            6 
-            36
-            156 
-          </indices>
+						6
+						6
+						36
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -851,11 +851,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            62 
-            62 
-            0
-            156 
-          </indices>
+						62
+						62
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -886,11 +886,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            8 
-            38 
-            8 
-            4 
-          </indices>
+						8
+						38
+						8
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -898,11 +898,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            147 
-            107 
-            4 
-            4 
-          </indices>
+						147
+						107
+						4
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -910,11 +910,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            112 
-            74 
-            4 
-          </indices>
+						64
+						112
+						74
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -922,11 +922,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            52 
-            5 
-            112 
-            4 
-          </indices>
+						52
+						5
+						112
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -934,11 +934,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            38 
-            112 
-            4 
-          </indices>
+						5
+						38
+						112
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -946,11 +946,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            61 
-            112 
-            73 
-            4 
-          </indices>
+						61
+						112
+						73
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -958,11 +958,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            112 
-            73 
-            4 
-          </indices>
+						34
+						112
+						73
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -970,11 +970,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            38 
-            112 
-            4 
-          </indices>
+						111
+						38
+						112
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -982,11 +982,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            33 
-            107 
-            4 
-            4 
-          </indices>
+						33
+						107
+						4
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -994,11 +994,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            27 
-            112 
-            5 
-            4 
-          </indices>
+						27
+						112
+						5
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1006,11 +1006,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            38 
-            5 
-            138 
-            4 
-          </indices>
+						38
+						5
+						138
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1018,11 +1018,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            106 
-            89 
-            4 
-          </indices>
+						89
+						106
+						89
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1057,11 +1057,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            8 
-            38 
-            8 
-            4 
-          </indices>
+						8
+						38
+						8
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1069,11 +1069,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            147 
-            107 
-            4 
-            4 
-          </indices>
+						147
+						107
+						4
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1081,11 +1081,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            112 
-            74 
-            4 
-          </indices>
+						64
+						112
+						74
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1093,11 +1093,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            52 
-            5 
-            112 
-            4 
-          </indices>
+						52
+						5
+						112
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1105,11 +1105,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            38 
-            112 
-            4 
-          </indices>
+						5
+						38
+						112
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1117,11 +1117,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            61 
-            112 
-            73 
-            4 
-          </indices>
+						61
+						112
+						73
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1129,11 +1129,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            112 
-            73 
-            4 
-          </indices>
+						34
+						112
+						73
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1141,11 +1141,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            38 
-            112 
-            4 
-          </indices>
+						111
+						38
+						112
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1153,11 +1153,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            33 
-            107 
-            4 
-            4 
-          </indices>
+						33
+						107
+						4
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1165,11 +1165,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            27 
-            112 
-            5 
-            4 
-          </indices>
+						27
+						112
+						5
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1177,11 +1177,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            38 
-            5 
-            138 
-            4 
-          </indices>
+						38
+						5
+						138
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1189,11 +1189,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            106 
-            89 
-            4 
-          </indices>
+						89
+						106
+						89
+						4
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1228,12 +1228,12 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0
-            138
-            0
-            156
-	        1
-          </indices>
+						0
+						138
+						0
+						156
+						1
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1247,12 +1247,12 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            147
-            88
-            122
-            122
-	        11
-          </indices>
+						147
+						88
+						122
+						122
+						11
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1285,235 +1285,235 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            34 
-            1 
-            136 
-            156 
-          </indices>
+						34
+						1
+						136
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            6 
-            156 
-          </indices>
+						0
+						0
+						6
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            2 
-            134 
-            156 
-          </indices>
+						2
+						2
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            19 
-            19 
-            134 
-            156 
-          </indices>
+						19
+						19
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            28 
-            156 
-          </indices>
+						31
+						31
+						28
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            28
-            156 
-          </indices>
+						34
+						34
+						28
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            64 
-            53
-            156 
-          </indices>
+						64
+						64
+						53
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            60 
-            156 
-          </indices>
+						73
+						73
+						60
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            00 
-            38 
-            00 
-            00 
-          </indices>
+						00
+						38
+						00
+						00
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            89 
-            89 
-            156 
-          </indices>
+						89
+						89
+						89
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            107 
-            107 
-            110 
-            156
-          </indices>
+						107
+						107
+						110
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            62 
-            62 
-            5 
-            156 
-          </indices>
+						62
+						62
+						5
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            107 
-            107 
-            112 
-            156 
-          </indices>
+						107
+						107
+						112
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            255 
-            255 
-            255 
-            255 
-          </indices>
+						255
+						255
+						255
+						255
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            0
-            0 
-            0 
-            0 
-          </indices>
+						0
+						0
+						0
+						0
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            1 
-            1 
-            5 
-            156 
-          </indices>
+						1
+						1
+						5
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73
-            141
-            0
-            82
-	    70
-	    120
-          </indices>
+						73
+						141
+						0
+						82
+						70
+						120
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            80
-            63
-            64
-            0 
-	    130
-	    120
-          </indices>
+						80
+						63
+						64
+						0
+						130
+						120
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5
-            29
-            8
-            27
-	    2
-	    120
-          </indices>
+						5
+						29
+						8
+						27
+						2
+						120
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            1
-            138
-            0
-            138
-	    38
-	    120
-          </indices>
+						1
+						138
+						0
+						138
+						38
+						120
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            12
-            12
-            122
-            0
-	    12
-	    120
-          </indices>
+						12
+						12
+						122
+						0
+						12
+						120
+					</indices>
 					<liveries/>
 				</Item>
 				<Item>
 					<indices content="char_array">
-            112
-            112
-            122
-            122
-	    111
-	    120
-          </indices>
+						112
+						112
+						122
+						122
+						111
+						120
+					</indices>
 					<liveries/>
 				</Item>
 			</colors>
 			<kits>
-				<kitName>928_nissantitan17_modkit</kitName>
+				<Item>928_nissantitan17_modkit</Item>
 			</kits>
 			<windowsWithExposedEdges/>
 			<plateProbabilities>
@@ -1532,11 +1532,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            111
-            103
-            0
-            156
-          </indices>
+						111
+						103
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -1581,11 +1581,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            33 
-            0 
-            26 
-            106 
-          </indices>
+						33
+						0
+						26
+						106
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1599,11 +1599,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            26 
-            156 
-          </indices>
+						0
+						0
+						26
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1617,11 +1617,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            0 
-            3 
-            6 
-            156 
-          </indices>
+						0
+						3
+						6
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1635,11 +1635,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            3 
-            3 
-            5 
-            156 
-          </indices>
+						3
+						3
+						5
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1653,11 +1653,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            4 
-            4 
-            111 
-            156 
-          </indices>
+						4
+						4
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1671,11 +1671,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            6 
-            6 
-            111 
-            156 
-          </indices>
+						6
+						6
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1689,11 +1689,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            72 
-            72 
-            73 
-            156 
-          </indices>
+						72
+						72
+						73
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1707,11 +1707,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            1 
-            1 
-            65 
-            106 
-          </indices>
+						1
+						1
+						65
+						106
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1725,11 +1725,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            14 
-            0 
-            156 
-          </indices>
+						111
+						14
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1743,11 +1743,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            93 
-            95 
-            98 
-            156 
-          </indices>
+						93
+						95
+						98
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1761,11 +1761,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            7 
-            1 
-            4 
-            156 
-          </indices>
+						7
+						1
+						4
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1779,11 +1779,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            10 
-            10 
-            5 
-            156 
-          </indices>
+						10
+						10
+						5
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1797,11 +1797,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            14 
-            12 
-            0 
-            156 
-          </indices>
+						14
+						12
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1815,11 +1815,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            50 
-            1 
-            51 
-            156 
-          </indices>
+						50
+						1
+						51
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1833,11 +1833,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            105 
-            105 
-            106 
-            156 
-          </indices>
+						105
+						105
+						106
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1851,11 +1851,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            111 
-            0 
-            106 
-          </indices>
+						111
+						111
+						0
+						106
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1896,11 +1896,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            117 
-            3
-            117
-            156 
-          </indices>
+						117
+						3
+						117
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -1945,11 +1945,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0
-            0
-            156
-            0
-          </indices>
+						0
+						0
+						156
+						0
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -1963,11 +1963,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            29
-            0
-            28
-            156
-          </indices>
+						29
+						0
+						28
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -1981,11 +1981,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64
-            0
-            68
-            156
-          </indices>
+						64
+						0
+						68
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -1999,11 +1999,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            112
-            0
-            0
-            156
-          </indices>
+						112
+						0
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -2048,11 +2048,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            6 
-            156 
-          </indices>
+						0
+						0
+						6
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2097,11 +2097,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            147
-            0
-            0
-            0
-          </indices>
+						147
+						0
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2134,11 +2134,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            24 
-            27
-            24
-            156 
-          </indices>
+						24
+						27
+						24
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -2171,11 +2171,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            36
-            0
-            38
-            0
-          </indices>
+						36
+						0
+						38
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2208,13 +2208,13 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            70
-            70
-            74 
-            34
+						70
+						70
+						74
+						34
 						27
 						112
-          </indices>
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2242,11 +2242,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            1 
-            14 
-            4 
-            156 
-          </indices>
+						1
+						14
+						4
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2260,11 +2260,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            25 
-            134 
-            156 
-          </indices>
+						2
+						25
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2278,11 +2278,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156 
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2296,11 +2296,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            19 
-            19 
-            134 
-            156 
-          </indices>
+						19
+						19
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2314,11 +2314,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            28 
-            156 
-          </indices>
+						31
+						31
+						28
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2332,11 +2332,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            28
-            156 
-          </indices>
+						34
+						34
+						28
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2350,11 +2350,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            64 
-            53
-            156 
-          </indices>
+						64
+						64
+						53
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2368,11 +2368,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            60 
-            156 
-          </indices>
+						73
+						73
+						60
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2386,11 +2386,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            75 
-            75 
-            60 
-            156 
-          </indices>
+						75
+						75
+						60
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2404,11 +2404,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            89 
-            89 
-            156 
-          </indices>
+						89
+						89
+						89
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2422,11 +2422,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            107 
-            107 
-            110 
-            156 
-          </indices>
+						107
+						107
+						110
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2471,11 +2471,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            1 
-            14 
-            4 
-            156 
-          </indices>
+						1
+						14
+						4
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2489,11 +2489,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            25 
-            134 
-            156 
-          </indices>
+						2
+						25
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2507,11 +2507,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156 
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2525,11 +2525,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            19 
-            19 
-            134 
-            156 
-          </indices>
+						19
+						19
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2543,11 +2543,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            28 
-            156 
-          </indices>
+						31
+						31
+						28
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2561,11 +2561,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            28
-            156 
-          </indices>
+						34
+						34
+						28
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2579,11 +2579,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            64 
-            64 
-            53
-            156 
-          </indices>
+						64
+						64
+						53
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2597,11 +2597,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            60 
-            156 
-          </indices>
+						73
+						73
+						60
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2615,11 +2615,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            75 
-            75 
-            60 
-            156 
-          </indices>
+						75
+						75
+						60
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2633,11 +2633,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            89 
-            89 
-            89 
-            156 
-          </indices>
+						89
+						89
+						89
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2651,11 +2651,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            107 
-            107 
-            110 
-            156 
-          </indices>
+						107
+						107
+						110
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2700,11 +2700,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            8 
-            8 
-            134 
-            156
-          </indices>
+						8
+						8
+						134
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -2737,11 +2737,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            112
-            112
-            159
-            156
-          </indices>
+						112
+						112
+						159
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -2755,11 +2755,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            62
-            62
-            4
-            156
-          </indices>
+						62
+						62
+						4
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="true"/>
@@ -2773,11 +2773,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            18
-            18
-            160
-            156
-          </indices>
+						18
+						18
+						160
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2791,11 +2791,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            19
-            19
-            136
-            156
-          </indices>
+						19
+						19
+						136
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2809,11 +2809,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            27
-            27
-            36
-            156
-          </indices>
+						27
+						27
+						36
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2827,11 +2827,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            108
-            108
-            123
-            156
-          </indices>
+						108
+						108
+						123
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2876,12 +2876,12 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            31
-            27
-            27
-            122
-            31
-          </indices>
+						31
+						27
+						27
+						122
+						31
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2930,11 +2930,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0 
-            0 
-            0 
-            156 
-          </indices>
+						0
+						0
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2948,11 +2948,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            1 
-            1 
-            4 
-            156 
-          </indices>
+						1
+						1
+						4
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2966,11 +2966,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            2 
-            2 
-            7 
-            156 
-          </indices>
+						2
+						2
+						7
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -2984,11 +2984,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            3 
-            3 
-            23 
-            156 
-          </indices>
+						3
+						3
+						23
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3002,11 +3002,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            4 
-            4 
-            111 
-            156 
-          </indices>
+						4
+						4
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3020,11 +3020,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            111 
-            111 
-            156 
-          </indices>
+						111
+						111
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3038,11 +3038,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            5 
-            111 
-            156 
-          </indices>
+						5
+						5
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3056,11 +3056,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            73 
-            73 
-            74 
-            156 
-          </indices>
+						73
+						73
+						74
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3074,11 +3074,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            34 
-            34 
-            44 
-            156 
-          </indices>
+						34
+						34
+						44
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3092,11 +3092,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            31 
-            31 
-            36 
-            156 
-          </indices>
+						31
+						31
+						36
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3110,11 +3110,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            71 
-            71 
-            74 
-            156 
-          </indices>
+						71
+						71
+						74
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3128,11 +3128,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            66 
-            66 
-            67 
-            156 
-          </indices>
+						66
+						66
+						67
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3146,11 +3146,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            5 
-            5 
-            111 
-            156 
-          </indices>
+						5
+						5
+						111
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3164,11 +3164,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            11 
-            11 
-            6 
-            156 
-          </indices>
+						11
+						11
+						6
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3182,11 +3182,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            111 
-            111 
-            0 
-            156 
-          </indices>
+						111
+						111
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3227,11 +3227,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -3245,11 +3245,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="true"/>
@@ -3263,11 +3263,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3281,11 +3281,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3299,11 +3299,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3317,11 +3317,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3335,11 +3335,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3353,11 +3353,11 @@
 				</Item>
 				<Item>
 					<indices content="char_array">
-            134 
-            134 
-            0 
-            0
-          </indices>
+						134
+						134
+						0
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3385,11 +3385,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0
-            0
-            6
-            0
-          </indices>
+						0
+						0
+						6
+						0
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -3422,11 +3422,11 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            134
-            134
-            0
-            156
-          </indices>
+						134
+						134
+						0
+						156
+					</indices>
 					<liveries>
 						<Item value="true"/>
 						<Item value="false"/>
@@ -3454,234 +3454,234 @@
 			<lightSettings value="1031"/>
 			<sirenSettings value="0"/>
 		</Item>
-		 <Item>
-      <modelName>civic</modelName>
-      <colors>
-        <Item>
-          <indices content="char_array">
-            28 
-            28 
-            28 
-            156
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            61 
-            63 
-            63 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            28 
-            28 
-            28 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            56
-            56 
-            51 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            31 
-            31 
-            28 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            34 
-            34 
-            28
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            64 
-            64 
-            53
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            73 
-            73 
-            60 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            75 
-            75 
-            60 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            89 
-            89 
-            89 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-        <Item>
-          <indices content="char_array">
-            107 
-            107 
-            110 
-            156 
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-      </colors>
-      <kits>
-        <Item>3312_civic_modkit</Item>
-      </kits>
-      <windowsWithExposedEdges />
-      <plateProbabilities>
-        <Probabilities>
-          <Item>
-            <Name>Standard White</Name>
-            <Value value="25" />
-          </Item>
-          <Item>
-            <Name>White Plate 2</Name>
-            <Value value="50" />
-          </Item>
-          <Item>
-            <Name>Blue Plate</Name>
-            <Value value="10" />
-          </Item>
-          <Item>
-            <Name>Yellow Plate</Name>
-            <Value value="15" />
-          </Item>
-        </Probabilities>
-      </plateProbabilities>
-      <lightSettings value="3312" />
-      <sirenSettings value="0" />
-    </Item>
+		<Item>
+			<modelName>civic</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						28
+						28
+						28
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						61
+						63
+						63
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						28
+						28
+						28
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						56
+						56
+						51
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						31
+						31
+						28
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						34
+						34
+						28
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						64
+						64
+						53
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						73
+						73
+						60
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						75
+						75
+						60
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						89
+						89
+						89
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						107
+						107
+						110
+						156
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>3312_civic_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="25"/>
+					</Item>
+					<Item>
+						<Name>White Plate 2</Name>
+						<Value value="50"/>
+					</Item>
+					<Item>
+						<Name>Blue Plate</Name>
+						<Value value="10"/>
+					</Item>
+					<Item>
+						<Name>Yellow Plate</Name>
+						<Value value="15"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="3312"/>
+			<sirenSettings value="0"/>
+		</Item>
 	</variationData>
 </CVehicleModelInfoVariation>

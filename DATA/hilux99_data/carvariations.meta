@@ -6,16 +6,16 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            111
-            111
-            112 
-            156 
-          </indices>
+						111
+						111
+						112
+						156
+					</indices>
 					<liveries/>
 				</Item>
 			</colors>
 			<kits>
-				<kitName>5800_hilux99_modkit</kitName>
+				<Item>5800_hilux99_modkit</Item>
 			</kits>
 			<windowsWithExposedEdges/>
 			<plateProbabilities>
