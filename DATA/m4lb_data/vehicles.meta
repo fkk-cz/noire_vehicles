@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>m4lb</modelName>
 			<txdName>m4lb</txdName>
-			<handlingId>m4lb</handlingId>
+			<handlingId>m4f82</handlingId>
 			<gameName>m4lb</gameName>
 			<vehicleMakeName>BMW</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>feltzer2</audioNameHash>
+			<audioNameHash>m5cracklemod</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>ZION_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
