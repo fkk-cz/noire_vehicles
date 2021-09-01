@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>1906_benze55_modkit</kitName>
-			<id value="1906"/>
+			<kitName>1806_benze55_modkit</kitName>
+			<id value="1806"/>
 			<kitType>MKT_SPORT</kitType>
 			<visibleMods>
 				<Item>

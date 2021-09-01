@@ -6,13 +6,13 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0
-            0
-            0
-            0
-			0
-			0
-          </indices>
+						0
+						0
+						0
+						0
+						0
+						0
+				  </indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -26,7 +26,7 @@
 				</Item>
 			</colors>
 			<kits>
-				<Item>1906_benze55_modkit</Item>
+				<Item>1806_benze55_modkit</Item>
 			</kits>
 			<windowsWithExposedEdges/>
 			<plateProbabilities>

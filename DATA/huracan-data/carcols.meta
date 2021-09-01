@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>965_hevo_modkit</kitName>
-			<id value="965"/>
+			<kitName>1965_hevo_modkit</kitName>
+			<id value="1965"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods/>
 			<linkMods/>
@@ -77,41 +77,6 @@
 					<audioApply value="1.000000"/>
 					<weight value="5"/>
 					<type>VMT_GEARBOX</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="20"/>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<type>VMT_ARMOUR</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="40"/>
-					<audioApply value="1.000000"/>
-					<weight value="10"/>
-					<type>VMT_ARMOUR</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="60"/>
-					<audioApply value="1.000000"/>
-					<weight value="20"/>
-					<type>VMT_ARMOUR</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="80"/>
-					<audioApply value="1.000000"/>
-					<weight value="30"/>
-					<type>VMT_ARMOUR</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="100"/>
-					<audioApply value="1.000000"/>
-					<weight value="40"/>
-					<type>VMT_ARMOUR</type>
 				</Item>
 				<Item>
 					<identifier>HORN_TRUCK</identifier>
