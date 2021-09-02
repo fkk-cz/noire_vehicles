@@ -96,7 +96,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_TAXI</dashboardType>
-			<vehicleClass>VC_EMERGENCY</vehicleClass>
+			<vehicleClass>VC_UTILITY</vehicleClass>
 			<wheelType>VWT_MUSCLE</wheelType>
 			<trailers>
 				<Item>boattrailer</Item>
