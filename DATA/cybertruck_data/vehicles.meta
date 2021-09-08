@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>VOLTIC</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_4X4_DUBSTA</layout>
 			<coverBoundOffsets>SANDKING_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
