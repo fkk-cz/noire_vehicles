@@ -69,7 +69,7 @@
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
-			<fDriveBiasFront value="0.000000"/>
+			<fDriveBiasFront value="0.500000"/>
 			<nInitialDriveGears value="5"/>
 			<fInitialDriveForce value="0.400000"/>
 			<fDriveInertia value="1.500000"/>
@@ -82,12 +82,12 @@
 			<fSteeringLock value="40.000000"/>
 			<fTractionCurveMax value="2.570000"/>
 			<fTractionCurveMin value="2.490000"/>
-			<fTractionCurveLateral value="22.500000"/>
+			<fTractionCurveLateral value="18.000000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="0.600000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.485000"/>
-			<fTractionLossMult value="1.000000"/>
+			<fTractionLossMult value="0.500000"/>
 			<fSuspensionForce value="2.200000"/>
 			<fSuspensionCompDamp value="0.900000"/>
 			<fSuspensionReboundDamp value="1.200000"/>
@@ -101,7 +101,7 @@
 			<fRollCentreHeightRear value="0.450000"/>
 			<fCollisionDamageMult value="0.500000"/>
 			<fWeaponDamageMult value="0.500000"/>
-			<fDeformationDamageMult value="0.500000"/>
+			<fDeformationDamageMult value="0.100000"/>
 			<fEngineDamageMult value="0.500000"/>
 			<fPetrolTankVolume value="65.000000"/>
 			<fOilVolume value="5.000000"/>
