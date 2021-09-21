@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>11pdcvpi</modelName>
 			<txdName>11pdcvpi</txdName>
-			<handlingId>11pdcvpi</handlingId>
+			<handlingId>pdcvpi</handlingId>
 			<gameName>11pdcvpi</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -862,7 +862,7 @@
 		<Item>
 			<modelName>20pdfpiu</modelName>
 			<txdName>20pdfpiu</txdName>
-			<handlingId>lspdfpiu</handlingId>
+			<handlingId>20pdfpiu</handlingId>
 			<gameName>20pdfpiu</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
