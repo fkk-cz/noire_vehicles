@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>BALLER</audioNameHash>
-      <layout>LAYOUT_STD_LOWRIDER_SIDEDOOR</layout>
+      <layout>LAYOUT_STD_STRETCH</layout>
       <coverBoundOffsets>V250_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
