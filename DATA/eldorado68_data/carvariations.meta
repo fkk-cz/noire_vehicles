@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>eldorado68</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Sable Black -->
+            0
+            0
+            0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Grecian White -->
+            111
+            0
+            0
+            0
+          </indices>
+        </Item>
+         <Item>
+          <indices content="char_array"> <!-- Regal Silver Metallic -->
+            5
+            0
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Summit Gray Metallic -->
+            10
+            0
+            4
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Arctic Blue -->
+            176
+            0
+            0
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Normandy Blue Metallic -->
+            63
+            73
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Emperor Blue Metallic -->
+            172
+            73
+            73
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Caribe Aqua Metallic -->
+            225
+            73
+            68
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silverpine Green Metallic -->
+            210
+            111
+            5
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Ivanhoe Green Metallic -->
+            49
+            97
+            3
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Kashmir Ivory -->
+            169
+            105
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sudan Beige -->
+            106
+            105
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Baroque Gold Metallic -->
+            102
+            0
+            5
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Chestnut Brown Metallic -->
+            97
+            97
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- San Mateo Red Metallic -->
+            30
+            0
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Regent Maroon Metallic -->
+            167
+            111
+            3
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Spectre Blue Firemist -->
+            62
+            0
+            73
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Topaz Gold Firemist -->
+            184
+            107
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Monterey Green Firemist -->
+            226
+            0
+            3
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Rosewood Firemist -->
+            96
+            107
+            4
+            111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Madeira Plum Firemist -->
+            227
+            0
+            3
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
