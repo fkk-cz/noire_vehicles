@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>FELTZER2</audioNameHash>
+			<audioNameHash>retinue2</audioNameHash>
 			<layout>LAYOUT_STD_LOWROOF</layout>
 			<coverBoundOffsets>BLISTA_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -85,7 +85,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_TAILGATER</dashboardType>
-			<vehicleClass>VC_COMPACT</vehicleClass>
+			<vehicleClass>VC_SPORT</vehicleClass>
 			<wheelType>VWT_SPORT</wheelType>
 			<trailers/>
 			<additionalTrailers/>
