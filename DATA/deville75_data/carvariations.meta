@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+    <Item>
+      <modelName>deville75</modelName>
+       <colors>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Cotillion White -->
+            131
+            131
+            0
+			131
+            32
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Pharaoh Gold Firemist Metallic -->
+            37
+            37
+            42
+			0
+            37
+			37
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Persian Lime Firemist Metallic -->
+            219
+            131
+            112
+            0
+			131
+			131 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Cranberry Firemist Metallic -->
+            35
+            131
+            4
+            0
+			131
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- 	Cadillac Terra Cotta Firemist Metallic -->
+            36 
+            131
+            4
+			0
+            36
+			36
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- 	Cadillac Terra Cotta Firemist Metallic -->
+            36 
+            36
+            4
+			0
+            36
+			36
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Regal Blue Firemist Metallic -->
+            64
+            131
+            4
+			0
+            63
+			63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Dynasty Red -->
+            27
+            131
+            4
+			0
+            131
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Georgian Silver Metallic -->
+            4
+            4
+            4
+			0
+            63
+			63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- 	Cadillac Deauville Gray -->
+            9
+            8
+            4
+			0
+            8
+			8
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Antigua Blue Metallic -->
+            68
+            68
+            4
+			0
+            63
+			63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Antigua Blue Metallic -->
+            68
+            131
+            4
+			0
+            63
+			63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Diplomat Blue Metallic -->
+            62
+            131
+            4
+			0
+			63
+            63
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Apollo Yellow -->
+            160
+            131
+			4
+			0
+            131
+			131
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Lido Green -->
+            60
+            131
+            4
+			0
+            58
+			58
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Lido Green -->
+            60
+            131
+            4
+			0
+            131
+			131
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Sable Black w/ red interior -->
+            0
+            0
+            0
+			0
+            27
+			27
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Triple Sable Black -->
+            0
+            0
+            0
+			0
+            0
+			27
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Conestoga Tan -->
+            136
+            131
+            4
+			0
+            131
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Pharaoh Gold Firemist Metallic -->
+            37
+            131
+            42
+		  	0
+            37
+			37
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="499" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
