@@ -4,49 +4,43 @@
 	<residentAnims/>
 	<InitDatas>
 		<Item>
-			<modelName>volvo850r</modelName>
-			<txdName>volvo850r</txdName>
-			<handlingId>VOLVO850R</handlingId>
-			<gameName>volvo850r</gameName>
-			<vehicleMakeName>VOLVO</vehicleMakeName>
+			<modelName>765lt</modelName>
+			<txdName>765lt</txdName>
+			<handlingId>765lt</handlingId>
+			<gameName>765lt</gameName>
+			<vehicleMakeName>MCLAREN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>STRATUM</audioNameHash>
-			<layout>LAYOUT_STANDARD</layout>
-			<coverBoundOffsets>STRATUM_COVER_OFFSET_INFO</coverBoundOffsets>
+			<audioNameHash>T20</audioNameHash>
+			<layout>LAYOUT_LOW</layout>
+			<coverBoundOffsets>SENTINEL_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
 			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
-			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
-			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID</bonnetCameraName>
+			<aimCameraName>MID_BOX_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID_NEAR</bonnetCameraName>
 			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
-			<FirstPersonDriveByIKOffset x="0.000000" y="-0.040000" z="0.000000"/>
-			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000"/>
-			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000"/>
-			<FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.040000" z="-0.040000"/>
+			<FirstPersonDriveByUnarmedIKOffset x="-0.050000" y="-0.070000" z="0.000000"/>
+			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.120000" z="0.000000"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.080000" y="-0.100000" z="0.015000"/>
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
-			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.040000" z="0.000000"/>
-			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="-0.030000" z="0.020000"/>
-			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.030000" z="0.020000"/>
-			<FirstPersonMobilePhoneOffset x="0.140000" y="0.285000" z="0.525000"/>
-			<FirstPersonPassengerMobilePhoneOffset x="0.135000" y="0.145000" z="0.435000"/>
-			<FirstPersonMobilePhoneSeatIKOffset>
-				<Item>
-					<Offset x="0.136000" y="0.126000" z="0.455000"/>
-					<SeatIndex value="2"/>
-				</Item>
-				<Item>
-					<Offset x="0.136000" y="0.126000" z="0.455000"/>
-					<SeatIndex value="3"/>
-				</Item>
-			</FirstPersonMobilePhoneSeatIKOffset>
-			<PovCameraOffset x="0.000000" y="-0.175000" z="0.646500"/>
-			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
-			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="-0.040000"/>
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.050000" y="-0.150000" z="0.000000"/>
+			<FirstPersonMobilePhoneOffset x="0.141000" y="0.191000" z="0.568000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.148000" z="0.473000"/>
+			<PovCameraOffset x="0.000000" y="-0.350000" z="0.630000"/>
+			<PovCameraVerticalAdjustmentForRollCage value="-0.030000"/>
+			<PovPassengerCameraOffset x="0.000000" y="-0.050000" z="0.000000"/>
+			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
 			<shouldUseCinematicViewMode value="true"/>
 			<shouldCameraTransitionOnClimbUpDown value="false"/>
@@ -55,8 +49,8 @@
 			<AllowJoyriding value="true"/>
 			<AllowSundayDriving value="true"/>
 			<AllowBodyColorMapping value="true"/>
-			<wheelScale value="0.282600"/>
-			<wheelScaleRear value="0.282600"/>
+			<wheelScale value="0.277200"/>
+			<wheelScaleRear value="0.277200"/>
 			<dirtLevelMin value="0.000000"/>
 			<dirtLevelMax value="0.550000"/>
 			<envEffScaleMin value="0.000000"/>
@@ -64,19 +58,19 @@
 			<envEffScaleMin2 value="0.000000"/>
 			<envEffScaleMax2 value="1.000000"/>
 			<damageMapScale value="0.600000"/>
-			<damageOffsetScale value="0.800000"/>
+			<damageOffsetScale value="1.000000"/>
 			<diffuseTint value="0x00FFFFFF"/>
-			<steerWheelMult value="0.700000"/>
+			<steerWheelMult value="0.600000"/>
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
-				350.000000
 				500.000000
-				750.000000
-				1200.000000
-				5000.000000
-				5000.000000
+				500.000000
+				500.000000
+				500.000000
+				500.000000
+				500.000000
 			</lodDistances>
-			<minSeatHeight value="0.862"/>
+			<minSeatHeight value="0.868"/>
 			<identicalModelSpawnDistance value="20"/>
 			<maxNumOfSameColor value="10"/>
 			<defaultBodyHealth value="1000.000000"/>
@@ -84,14 +78,14 @@
 			<visibleSpawnDistScale value="1.000000"/>
 			<trackerPathWidth value="2.000000"/>
 			<weaponForceMult value="1.000000"/>
-			<frequency value="50"/>
-			<swankness>SWANKNESS_4</swankness>
-			<maxNum value="20"/>
-			<flags>FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<frequency value="30"/>
+			<swankness>SWANKNESS_3</swankness>
+			<maxNum value="10"/>
+			<flags>FLAG_SPORTS FLAG_HAS_LIVERY FLAG_RICH_CAR FLAG_PEDS_CAN_STAND_ON_TOP FLAG_DISABLE_BUSTING FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_DISABLE_THROUGH_WINDSCREEN FLAG_HAS_INTERIOR_EXTRAS FLAG_EXTRAS_ALL</flags>
 			<type>VEHICLE_TYPE_CAR</type>
-			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-			<dashboardType>VDT_SUPERGT</dashboardType>
-			<vehicleClass>VC_SUV</vehicleClass>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_RACE</dashboardType>
+			<vehicleClass>VC_SUPER</vehicleClass>
 			<wheelType>VWT_SPORT</wheelType>
 			<trailers/>
 			<additionalTrailers/>
@@ -113,17 +107,16 @@
 			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<buoyancySphereSizeScale value="1.000000"/>
 			<pOverrideRagdollThreshold type="NULL"/>
-			<maxSteeringWheelAngle value="109.0"/>
 			<firstPersonDrivebyData>
-				<Item>STD_FRONT_LEFT</Item>
-				<Item>STD_FRONT_RIGHT</Item>
+				<Item>STD_EXEMPLAR_FRONT_LEFT</Item>
+				<Item>STD_SENTINEL_FRONT_RIGHT</Item>
 			</firstPersonDrivebyData>
 		</Item>
 	</InitDatas>
 	<txdRelationships>
 		<Item>
-			<parent>vehicles_supergt_interior</parent>
-			<child>volvo850r</child>
+			<parent>vehicles_sultan_interior</parent>
+			<child>765lt</child>
 		</Item>
 	</txdRelationships>
 </CVehicleModelInfo__InitDataList>
