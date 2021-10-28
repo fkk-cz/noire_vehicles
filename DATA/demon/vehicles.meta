@@ -8,14 +8,14 @@
 			<txdName>demon</txdName>
 			<handlingId>demon</handlingId>
 			<gameName>demon</gameName>
-			<vehicleMakeName>Dodge</vehicleMakeName>
+			<vehicleMakeName>DODGE</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
 			<animConvRoofDictName>null</animConvRoofDictName>
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>MAMBA</audioNameHash>
+			<audioNameHash>demonv8</audioNameHash>
 			<layout>LAYOUT_LOW_INFERNUS</layout>
 			<coverBoundOffsets>ZENTORNO_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
