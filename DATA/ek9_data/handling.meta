@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>EK9</handlingName>
 			<fMass value="1090.000000"/>
-			<fInitialDragCoeff value="1.200000"/>
+			<fInitialDragCoeff value="3.200000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.050000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.300000"/>
@@ -14,7 +14,7 @@
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="17.00000"/>
 			<fClutchChangeRateScaleDownShift value="17.00000"/>
-			<fInitialDriveMaxFlatVel value="142.000000"/>
+			<fInitialDriveMaxFlatVel value="183.000000"/>
 			<fBrakeForce value="0.550000"/>
 			<fBrakeBiasFront value="0.550000"/>
 			<fHandBrakeForce value="0.500000"/>
