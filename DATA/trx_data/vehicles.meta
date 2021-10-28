@@ -95,7 +95,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
-			<vehicleClass>VC_SUV</vehicleClass>
+			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_SUV</wheelType>
 			<trailers/>
 			<additionalTrailers/>
