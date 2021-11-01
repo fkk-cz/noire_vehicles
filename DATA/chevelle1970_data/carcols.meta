@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>951_chevelle1970_modkit</kitName>
-			<id value="951"/>
+			<kitName>1602_chevelle1970_modkit</kitName>
+			<id value="1602"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>

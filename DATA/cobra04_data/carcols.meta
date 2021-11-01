@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>963_cobra04_modkit</kitName>
-			<id value="963"/>
+			<kitName>1355_cobra04_modkit</kitName>
+			<id value="1355"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>

@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal> 
   <Kits>
     <Item>
-      <kitName>1021_hayabusa_modkit</kitName>
-      <id value="1021" />	 	  
+      <kitName>1576_hayabusa_modkit</kitName>
+      <id value="1576" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 		<Item>
