@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>979_subwrx_modkit</kitName>
-			<id value="979"/>
+			<kitName>1605_subwrx_modkit</kitName>
+			<id value="1605"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>

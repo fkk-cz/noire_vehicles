@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>899_bmwm3e92_modkit</kitName>
-			<id value="899"/>
+			<kitName>1967_bmwm3e92_modkit</kitName>
+			<id value="1967"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 			</visibleMods>

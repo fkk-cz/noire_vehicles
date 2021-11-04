@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>gtr</handlingName>
 			<fMass value="1783.979000"/>
-			<fInitialDragCoeff value="3.200000"/>
+			<fInitialDragCoeff value="5.200000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.100000"/>
 			<fDriveBiasFront value="0.450000"/>
 			<nInitialDriveGears value="7"/>
-			<fInitialDriveForce value="0.350000"/>
+			<fInitialDriveForce value="0.325000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="1.500000"/>
 			<fClutchChangeRateScaleDownShift value="1.500000"/>
