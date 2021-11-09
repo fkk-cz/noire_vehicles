@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>mz3</handlingName>
 			<fMass value="1430.000000"/>
-			<fInitialDragCoeff value="1.500000"/>
+			<fInitialDragCoeff value="5.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.2000000" z="-0.100000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000"/>
@@ -12,8 +12,8 @@
 			<nInitialDriveGears value="6"/>
 			<fInitialDriveForce value="0.240000"/>
 			<fDriveInertia value="1.000000"/>
-			<fClutchChangeRateScaleUpShift value="2.604000"/>
-			<fClutchChangeRateScaleDownShift value="2.430000"/>
+			<fClutchChangeRateScaleUpShift value="3.600000"/>
+			<fClutchChangeRateScaleDownShift value="3.600000"/>
 			<fInitialDriveMaxFlatVel value="98.250000"/>
 			<fBrakeForce value="1.230000"/>
 			<fBrakeBiasFront value="0.430100"/>
