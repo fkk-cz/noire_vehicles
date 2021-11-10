@@ -82,13 +82,13 @@
 		<Item type="CHandlingData">
 			<handlingName>BMWS</handlingName>
 			<fMass value="250.000000"/>
-			<fInitialDragCoeff value="3.000000"/>
+			<fInitialDragCoeff value="5.000000"/>
 			<fPercentSubmerged value="95.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.350000"/>
+			<fInitialDriveForce value="0.300000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="3.000000"/>
 			<fClutchChangeRateScaleDownShift value="3.000000"/>
@@ -99,7 +99,7 @@
 			<fSteeringLock value="24.000000"/>
 			<fTractionCurveMax value="2.200000"/>
 			<fTractionCurveMin value="2.090000"/>
-			<fTractionCurveLateral value="20.500000"/>
+			<fTractionCurveLateral value="19.500000"/>
 			<fTractionSpringDeltaMax value="0.030000"/>
 			<fLowSpeedTractionLossMult value="0.800000"/>
 			<fCamberStiffnesss value="1.120000"/>
