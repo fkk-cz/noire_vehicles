@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>696_zx10r_modkit</kitName>
-			<id value="696"/>
+			<kitName>1750_zx10r_modkit</kitName>
+			<id value="1750"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
