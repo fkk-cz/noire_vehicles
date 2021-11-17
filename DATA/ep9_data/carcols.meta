@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2000_ep9_modkit</kitName>
-      <id value="2000" />	 	  
+      <kitName>0_default_modkit</kitName>
+      <id value="0" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       
