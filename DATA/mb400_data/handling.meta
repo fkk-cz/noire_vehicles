@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>Mb400</handlingName>
 			<fMass value="1650.000000"/>
-			<fInitialDragCoeff value="8.500000"/>
+			<fInitialDragCoeff value="5.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.070000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.800000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="1"/>
-			<fInitialDriveForce value="0.500000"/>
+			<fInitialDriveForce value="0.55000"/>
 			<fDriveInertia value="1.500000"/>
 			<fClutchChangeRateScaleUpShift value="2.100000"/>
 			<fClutchChangeRateScaleDownShift value="2.100000"/>

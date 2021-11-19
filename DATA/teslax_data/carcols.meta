@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>    
   <Kits>
-			
-	
   </Kits>
   <Lights>
 	<Item>
-      <id value="918" />	
+      <id value="0" />	
       <indicator>
         <intensity value="0.375000" />
         <falloffMax value="2.500000" />
