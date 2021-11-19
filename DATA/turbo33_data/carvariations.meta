@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>turbo33</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						28
+						28
+						28
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						107
+						0
+						112
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						49
+						0
+						66
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						74
+						0
+						68
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						62
+						0
+						4
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						73
+						0
+						68
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						64
+						0
+						61
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						96
+						0
+						101
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						101
+						0
+						98
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						106
+						0
+						147
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						99
+						0
+						147
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						5
+						0
+						111
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						147
+						0
+						1
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						11
+						0
+						2
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						34
+						0
+						3
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						111
+						0
+						111
+						1
+					</indices>
+					<liveries/>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						6
+						0
+						111
+						1
+					</indices>
+					<liveries/>
+				</Item>
+			</colors>
+			<kits>
+				<Item>5065_turbo33_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>standard white</Name>
+						<Value value="90"/>
+					</Item>
+					<Item>
+						<Name>white plate 2</Name>
+						<Value value="10"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="0"/>
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>
