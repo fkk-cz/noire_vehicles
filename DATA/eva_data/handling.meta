@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>EVA</handlingName>
 			<fMass value="900.000000"/>
-			<fInitialDragCoeff value="11.00000"/>
+			<fInitialDragCoeff value="5.00000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.100000" z="1.200000"/>
 			<fDriveBiasFront value="0.000000"/>
-			<nInitialDriveGears value="3"/>
-			<fInitialDriveForce value="0.085000"/>
+			<nInitialDriveGears value="1"/>
+			<fInitialDriveForce value="0.560000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="1.400000"/>
 			<fClutchChangeRateScaleDownShift value="1.400000"/>
