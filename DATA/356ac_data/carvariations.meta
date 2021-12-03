@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>356ac</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            106
+            0
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Polyantha Red -->
+            167
+            106
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Graphite Metallic -->
+            8
+            27
+            99
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sahara Beige -->
+            106
+            27
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Lago Green Metallic -->
+            49
+            106
+            51
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic -->
+            5
+            27
+            5
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Aquamarin Blue Metallic -->
+            74
+            106
+            4
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            106
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Polyantha Red -->
+            167
+            27
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Graphite Metallic -->
+            8
+            106
+            99
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sahara Beige -->
+            106
+            106
+            0
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Lago Green Metallic -->
+            49
+            27
+            51
+            106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Metallic -->
+            5
+            106
+            5
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Aquamarin Blue Metallic -->
+            74
+            27
+            4
+            1
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>356ac_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
