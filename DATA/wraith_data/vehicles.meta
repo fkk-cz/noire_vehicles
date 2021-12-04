@@ -77,7 +77,7 @@
 			<frequency value="80"/>
 			<swankness>SWANKNESS_5</swankness>
 			<maxNum value="3"/>
-			<flags>FLAG_HAS_INTERIOR_EXTRAS FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO</flags>
+			<flags>FLAG_HAS_INTERIOR_EXTRAS FLAG_PARKING_SENSORS FLAG_RICH_CAR</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_SCHAFTER</dashboardType>
