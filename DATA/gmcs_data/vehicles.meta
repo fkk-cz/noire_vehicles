@@ -81,13 +81,15 @@
 			<frequency value="90"/>
 			<swankness>SWANKNESS_2</swankness>
 			<maxNum value="20"/>
-			<flags>FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_LIVERY FLAG_SPAWN_ON_TRAILER FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS FLAG_PARKING_SENSORS FLAG_EXTRAS_ALL FLAG_EXTRAS_STRONG</flags>
+			<flags>FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_LIVERY FLAG_SPAWN_ON_TRAILER FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS FLAG_PARKING_SENSORS FLAG_EXTRAS_ALL FLAG_EXTRAS_STRONG FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_TRUCKDIG</dashboardType>
 			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_SPORT</wheelType>
-			<trailers/>
+			<trailers>
+				<Item>trailercar</Item>
+			</trailers>
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes/>

@@ -91,7 +91,7 @@
 			<frequency value="30"/>
 			<swankness>SWANKNESS_2</swankness>
 			<maxNum value="5"/>
-			<flags>FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<flags>FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_GENTAXI</dashboardType>
@@ -111,6 +111,7 @@
 				<Item>trflat</Item>
 				<Item>eagerbeaver</Item>
 				<Item>pjtrailer</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>
