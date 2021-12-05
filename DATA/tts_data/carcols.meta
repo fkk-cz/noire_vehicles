@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>154_tts_modkit</kitName>
-      <id value="154" />	 	  
+      <kitName>1740_tts_modkit</kitName>
+      <id value="1740" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item>
