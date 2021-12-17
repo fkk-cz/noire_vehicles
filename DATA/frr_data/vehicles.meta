@@ -87,7 +87,9 @@
 			<dashboardType>VDT_RACE</dashboardType>
 			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_LOWRIDER</wheelType>
-			<trailers/>
+			<trailers>
+				<Item>trailercar</Item>
+			</trailers>
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes/>
