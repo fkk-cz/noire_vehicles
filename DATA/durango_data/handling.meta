@@ -53,7 +53,7 @@
            <strDamageFlags>0</strDamageFlags>
            <AIHandling>AVERAGE</AIHandling>
            <SubHandlingData>
-               <Item type="CCarHandlingData" />
+               <Item type="CCarHandlingData">
                    <fBackEndPopUpCarImpulseMult value="0.100000"/>
                    <fBackEndPopUpBuildingImpulseMult value="0.030000"/>
                    <fBackEndPopUpMaxDeltaSpeed value="0.600000"/>
