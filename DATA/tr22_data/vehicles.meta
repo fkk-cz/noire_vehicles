@@ -85,7 +85,7 @@
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_GENTAXI</dashboardType>
-			<vehicleClass>VC_MUSCLE</vehicleClass>
+			<vehicleClass>VC_SPORT</vehicleClass>
 			<wheelType>VWT_MUSCLE</wheelType>
 			<trailers/>
 			<additionalTrailers/>
