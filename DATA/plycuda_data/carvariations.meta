@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>plycuda70</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Blue Fire Metallic -->
+            73
+            111
+            70
+            73
+			181
+			111
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lime Green Metallic -->
+            139
+            0
+            0
+            139
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Deep Burnt Orange Metallic -->
+            166
+            0
+            97
+            166
+			166
+			166
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sandpebble Beige -->
+            107
+            0
+            0
+            107
+			107
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Rallye Red -->
+            27
+            0
+            0
+            27
+			27
+			27
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Burnt Tan Metallic -->
+            90
+            0
+            98
+            90
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Black Velvet -->
+            0
+            111
+            0
+            0
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Citron Mist Metallic -->
+            102
+            0
+            37
+            102
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Ice Blue Metallic -->
+            68
+            0
+            4
+            68
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Jamaica Blue Metallic -->
+            62
+            0
+            68
+            62
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Ivy Green Metallic -->
+            183
+            0
+            52
+            183
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Yellow Gold -->
+            169
+            0
+            0
+            169
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Alpine White -->
+            111
+            0
+            0
+            111
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- TorRed -->
+            188
+            0
+            0
+            188
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- In Violet -->
+            145
+            111
+            3
+            145
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lemon Twist -->
+            207
+            0
+            0
+            207
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lime Light -->
+            92
+            111
+            0
+            92
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Vitamin C -->
+            38
+            111
+            0
+            38
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Moulin Rouge -->
+            135
+            111
+            0
+            135
+			111
+			0
+          </indices>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>plycuda7x_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>plycuda70c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Blue Fire Metallic -->
+            73
+            111
+            70
+            73
+			181
+			111
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lime Green Metallic -->
+            139
+            0
+            0
+            139
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Deep Burnt Orange Metallic -->
+            166
+            0
+            97
+            166
+			166
+			166
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sandpebble Beige -->
+            107
+            0
+            0
+            107
+			107
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Rallye Red -->
+            27
+            0
+            0
+            27
+			27
+			27
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Burnt Tan Metallic -->
+            90
+            0
+            98
+            90
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Black Velvet -->
+            0
+            111
+            0
+            0
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Citron Mist Metallic -->
+            102
+            0
+            37
+            102
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Ice Blue Metallic -->
+            68
+            0
+            4
+            68
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Jamaica Blue Metallic -->
+            62
+            0
+            68
+            62
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Ivy Green Metallic -->
+            183
+            0
+            52
+            183
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Yellow Gold -->
+            169
+            0
+            0
+            169
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Alpine White -->
+            111
+            0
+            0
+            111
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- TorRed -->
+            188
+            0
+            0
+            188
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- In Violet -->
+            145
+            111
+            3
+            145
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lemon Twist -->
+            207
+            0
+            0
+            207
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lime Light -->
+            92
+            111
+            0
+            92
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Vitamin C -->
+            38
+            111
+            0
+            38
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Moulin Rouge -->
+            135
+            111
+            0
+            135
+			111
+			0
+          </indices>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>plycuda7x_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>plycuda71</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Winchester Gray Metallic -->
+            7
+            0
+            4
+            0
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Glacial Blue Metallic -->
+            68
+            0
+            4
+            0
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- True Blue Metallic -->
+            73
+            111
+            70
+            73
+			181
+			111
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Evening Blue Metallic -->
+            62
+            0
+            68
+            62
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- In Violet -->
+            145
+            111
+            3
+            145
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Rallye Red -->
+            27
+            0
+            0
+            27
+			27
+			27
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Amber Sherwood Metallic -->
+            102
+            155
+            37
+            102
+			128
+			128
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sherwood Green Metallic -->
+            183
+            0
+            52
+            183
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sassy Grass Green -->
+            92
+            111
+            0
+            92
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Autumn Bronze Metallic -->
+            104
+            0
+            103
+            104
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Bahama Yellow -->
+            88
+            111
+            0
+            88
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Tunisian Tan Metallic -->
+            165
+            0
+            102
+            165
+			97
+			97
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- TorRed -->
+            188
+            0
+            0
+            188
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Formal Black -->
+            0
+            111
+            0
+            0
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sno White -->
+            111
+            0
+            0
+            111
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Curious Yellow -->
+            91
+            0
+            0
+            91
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Gold Leaf Metallic -->
+            223
+            0
+            98
+            223
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Tawny Gold Metallic -->
+            97
+            111
+            98
+            97
+			111
+			0
+          </indices>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>plycuda7x_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>plycuda71c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Winchester Gray Metallic -->
+            7
+            0
+            4
+            0
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Glacial Blue Metallic -->
+            68
+            0
+            4
+            0
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- True Blue Metallic -->
+            73
+            111
+            70
+            73
+			181
+			111
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Evening Blue Metallic -->
+            62
+            0
+            68
+            62
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- In Violet -->
+            145
+            111
+            3
+            145
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Rallye Red -->
+            27
+            0
+            0
+            27
+			27
+			27
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Amber Sherwood Metallic -->
+            102
+            155
+            37
+            102
+			128
+			128
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sherwood Green Metallic -->
+            183
+            0
+            52
+            183
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sassy Grass Green -->
+            92
+            111
+            0
+            92
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Autumn Bronze Metallic -->
+            104
+            0
+            103
+            104
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Bahama Yellow -->
+            88
+            111
+            0
+            88
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Tunisian Tan Metallic -->
+            165
+            0
+            102
+            165
+			97
+			97
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- TorRed -->
+            188
+            0
+            0
+            188
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Formal Black -->
+            0
+            111
+            0
+            0
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sno White -->
+            111
+            0
+            0
+            111
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Curious Yellow -->
+            91
+            0
+            0
+            91
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Gold Leaf Metallic -->
+            223
+            0
+            98
+            223
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Tawny Gold Metallic -->
+            97
+            111
+            98
+            97
+			111
+			0
+          </indices>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>plycuda7x_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>plycuda72</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Winchester Gray Metallic -->
+            7
+            0
+            4
+            0
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Blue Sky -->
+            176
+            111
+            0
+            176
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Basin Street Blue -->
+            202
+            111
+            0
+            202
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- True Blue Metallic -->
+            73
+            0
+            70
+            73
+			181
+			181
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Rallye Red -->
+            27
+            0
+            0
+            27
+			27
+			27
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Amber Sherwood Metallic -->
+            102
+            155
+            37
+            102
+			128
+			128
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Sherwood Green Metallic -->
+            183
+            0
+            52
+            183
+			90
+			90
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Mohave Tan Metallic -->
+            191
+            0
+            98
+            191
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Chestnut Metallic -->
+            103
+            0
+            101
+            103
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- TorRed -->
+            188
+            0
+            0
+            188
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Spinnaker White -->
+            111
+            0
+            0
+            111
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Lemon Twist -->
+            207
+            0
+            0
+            207
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Honeydew -->
+            102
+            0
+            95
+            102
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Gold Leaf Metallic -->
+            223
+            0
+            98
+            223
+			0
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Tawny Gold Metallic -->
+            97
+            111
+            98
+            97
+			111
+			0
+          </indices>
+        </Item>     
+        <Item>
+          <indices content="char_array"> <!-- Formal Black -->
+            0
+            111
+            0
+            0
+			181
+			181
+          </indices>
+        </Item>     
+      </colors>
+      <kits>
+        <Item>plycuda7x_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
