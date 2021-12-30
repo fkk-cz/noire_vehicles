@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>931_regera_modkit</kitName>
-			<id value="931"/>
+			<kitName>1873_regera_modkit</kitName>
+			<id value="1873"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
       </visibleMods>
