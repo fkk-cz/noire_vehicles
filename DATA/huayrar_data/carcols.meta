@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>135_HUAYRAR_modkit</kitName>
-      <id value="135" />	 	  
+      <kitName>1173_HUAYRAR_modkit</kitName>
+      <id value="1173" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>

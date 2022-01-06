@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>135_sl1500_modkit</kitName>
-      <id value="135" />	 	  
+      <kitName>1846_sl1500_modkit</kitName>
+      <id value="1846" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>

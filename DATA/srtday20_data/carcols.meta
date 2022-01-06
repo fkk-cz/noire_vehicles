@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>135_srtday20_modkit</kitName>
-      <id value="135" />	 	  
+      <kitName>1850_srtday20_modkit</kitName>
+      <id value="1850" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>

@@ -1,18 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal> 
-
-
-
-
-
-
-
-
-
   <Kits>
     <Item>
-      <kitName>135_745le_modkit</kitName>
-      <id value="135" />	 	  
+      <kitName>1734_745le_modkit</kitName>
+      <id value="1734" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>
