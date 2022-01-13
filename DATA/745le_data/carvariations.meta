@@ -2,16 +2,6 @@
 
 <CVehicleModelInfoVariation>
   <variationData> 
-
-
-
-
-
-
-
-
-
-
     <Item>
       <modelName>745le</modelName>
       <colors>
@@ -160,7 +150,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>0_default_modkit</Item>
+        <Item>1734_745le_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>

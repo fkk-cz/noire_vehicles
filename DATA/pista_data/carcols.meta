@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>135_PISTA_modkit</kitName>
-			<id value="135"/>
+			<kitName>1592_PISTA_modkit</kitName>
+			<id value="1592"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 			</visibleMods>

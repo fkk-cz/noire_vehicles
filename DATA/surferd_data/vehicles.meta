@@ -305,7 +305,7 @@
 			<frequency value="10"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_PEDS_CAN_STAND_ON_TOP FLAG_GEN_NAVMESH FLAG_DONT_SPAWN_AS_AMBIENT FLAG_HAS_LIVERY</flags>
+			<flags>FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_GEN_NAVMESH FLAG_DONT_SPAWN_AS_AMBIENT FLAG_HAS_LIVERY</flags>
 			<type>VEHICLE_TYPE_TRAILER</type>
 			<plateType>VPT_NONE</plateType>
 			<vehicleClass>VC_UTILITY</vehicleClass>
@@ -401,7 +401,7 @@
 			<frequency value="10"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_PEDS_CAN_STAND_ON_TOP FLAG_GEN_NAVMESH FLAG_DONT_SPAWN_AS_AMBIENT FLAG_HAS_LIVERY</flags>
+			<flags>FLAG_EXTRAS_REQUIRE FLAG_EXTRAS_STRONG FLAG_GEN_NAVMESH FLAG_DONT_SPAWN_AS_AMBIENT FLAG_HAS_LIVERY</flags>
 			<type>VEHICLE_TYPE_TRAILER</type>
 			<plateType>VPT_NONE</plateType>
 			<vehicleClass>VC_UTILITY</vehicleClass>

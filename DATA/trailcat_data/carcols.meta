@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>135_TRAILCAT_modkit</kitName>
-      <id value="135" />	 	  
+      <kitName>1290_TRAILCAT_modkit</kitName>
+      <id value="1290" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
       </visibleMods>
