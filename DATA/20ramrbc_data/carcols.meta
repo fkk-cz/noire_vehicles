@@ -56,7 +56,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -93,7 +93,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -130,7 +130,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -167,7 +167,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -204,7 +204,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -241,7 +241,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -278,7 +278,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -315,7 +315,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -352,7 +352,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -389,7 +389,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -426,7 +426,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -463,7 +463,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -500,7 +500,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -537,7 +537,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -574,7 +574,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFF000AFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -611,7 +611,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFF0300" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -648,7 +648,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFFFFFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -685,7 +685,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFFFFFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -722,7 +722,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFFFFFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
@@ -759,7 +759,7 @@
             <pull value="0" />
             <faceCamera value="false" />
           </corona>
-          <color value="0xFFFFFFFF" />
+          <color value="0xFFFFD700" />
           <intensity value="1" />
           <lightGroup value="1" />
           <rotate value="false" />
