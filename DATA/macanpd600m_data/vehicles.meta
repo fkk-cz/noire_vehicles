@@ -102,6 +102,7 @@
         <Item>trailersmall</Item>
 				<Item>cartrailer</Item>
 				<Item>thauler</Item>
+		<itrem>trailercar</Item>
       </trailers>
       <additionalTrailers />
       <drivers />
