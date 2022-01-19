@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims/>
+	<InitDatas>
+		<Item>
+			<modelName>e53</modelName>
+			<txdName>e53</txdName>
+			<handlingId>E53</handlingId>
+			<gameName>E53</gameName>
+			<vehicleMakeName>BMW</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected/>
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash>BJXL</audioNameHash>
+			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<coverBoundOffsets>SERRANO_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout/>
+			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID_HIGH</bonnetCameraName>
+			<povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND</povCameraName>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.050000" z="0.000000"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000"/>
+			<FirstPersonProjectileDriveByIKOffset x="0.090000" y="-0.090000" z="-0.050000"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.220000" y="-0.090000" z="-0.050000"/>
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="0.020000"/>
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="0.020000"/>
+			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.050000" z="0.000000"/>
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.025000" z="0.000000"/>
+			<FirstPersonMobilePhoneOffset x="0.138000" y="0.250000" z="0.518000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.135000" y="0.135000" z="0.435000"/>
+			<FirstPersonMobilePhoneSeatIKOffset>
+				<Item>
+					<Offset x="0.136000" y="0.126000" z="0.445000"/>
+					<SeatIndex value="2"/>
+				</Item>
+				<Item>
+					<Offset x="0.136000" y="0.126000" z="0.445000"/>
+					<SeatIndex value="3"/>
+				</Item>
+			</FirstPersonMobilePhoneSeatIKOffset>
+			<PovCameraOffset x="0.000000" y="-0.185000" z="0.600000"/>
+			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
+			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.030000"/>
+			<PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.105000"/>
+			<vfxInfoName>VFXVEHICLEINFO_CAR_OFFROAD</vfxInfoName>
+			<shouldUseCinematicViewMode value="true"/>
+			<shouldCameraTransitionOnClimbUpDown value="false"/>
+			<shouldCameraIgnoreExiting value="false"/>
+			<AllowPretendOccupants value="true"/>
+			<AllowJoyriding value="true"/>
+			<AllowSundayDriving value="true"/>
+			<AllowBodyColorMapping value="true"/>
+			<wheelScale value="0.255300"/>
+			<wheelScaleRear value="0.255300"/>
+			<dirtLevelMin value="0.000000"/>
+			<dirtLevelMax value="1.40000"/>
+			<envEffScaleMin value="0.000000"/>
+			<envEffScaleMax value="1.000000"/>
+			<envEffScaleMin2 value="0.000000"/>
+			<envEffScaleMax2 value="1.000000"/>
+			<damageMapScale value="0.650000"/>
+			<damageOffsetScale value="1.000000"/>
+			<diffuseTint value="0x00FFFFFF"/>
+			<steerWheelMult value="1.000000"/>
+			<HDTextureDist value="5.000000"/>
+			<lodDistances content="float_array">
+				75.000000
+				150.000000
+				470.000000
+				485.000000
+				495.000000
+				500.000000
+			</lodDistances>
+			<minSeatHeight value="0.912"/>
+			<identicalModelSpawnDistance value="350"/>
+			<maxNumOfSameColor value="3"/>
+			<defaultBodyHealth value="1200.000000"/>
+			<pretendOccupantsScale value="1.000000"/>
+			<visibleSpawnDistScale value="1.000000"/>
+			<trackerPathWidth value="2.000000"/>
+			<weaponForceMult value="1.000000"/>
+			<frequency value="5"/>
+			<swankness>SWANKNESS_3</swankness>
+			<maxNum value="3"/>
+			<flags>FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_USE_FAT_INTERIOR_LIGHT FLAG_PEDS_CAN_STAND_ON_TOP FLAG_CAN_BE_DRIVEN_ON FLAG_EXTRAS_TAXI FLAG_EXTRAS_STRONG FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD FLAG_DISABLE_THROUGH_WINDSCREEN FLAG_DAMPEN_STICKBOMB_DAMAGE FLAG_CAN_HONK_WHEN_FLEEING FLAG_REPORT_CRIME_IF_STANDING_ON FLAG_DISABLE_AUTO_VAULT_ON_VEHICLE FLAG_DONT_STOP_WHEN_GOING_TO_CLIMB_UP_POINT	FLAG_HAS_INCREASED_RAMMING_FORCE FLAG_HAS_CAPPED_EXPLOSION_DAMAGE FLAG_DROP_SUSPENSION_WHEN_STOPPED FLAG_NO_HEAVY_BRAKE_ANIMATION</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_FEROCI</dashboardType>
+			<vehicleClass>VC_SUV</vehicleClass>
+			<wheelType>VWT_SUV</wheelType>
+			<trailers>
+				<Item>docktrailer</Item>
+				<Item>boattrailer</Item>
+				<Item>trailersmall</Item>
+				<Item>trailers</Item>
+				<Item>trailers2</Item>
+				<Item>trailers3</Item>
+				<Item>tanker</Item>
+				<Item>trailerlogs</Item>
+				<Item>tr2</Item>
+				<Item>trflat</Item>
+				<Item>cartrailer</Item>
+				<Item>trailercar</Item>
+			</trailers>
+			<additionalTrailers>
+				<Item>armytanker</Item>
+				<Item>armytrailer</Item>
+				<Item>tr4</Item>
+				<Item>tvtrailer</Item>
+				<Item>trailerlarge</Item>
+				<Item>trailers4</Item>
+				<Item>trailersmall2</Item>
+			</additionalTrailers>
+			<drivers/>
+			<extraIncludes/>
+			<doorsWithCollisionWhenClosed>
+				<Item>VEH_EXT_DOOR_PSIDE_F</Item>
+				<Item>VEH_EXT_DOOR_PSIDE_R</Item>
+				<Item>VEH_EXT_DOOR_DSIDE_R</Item>
+			</doorsWithCollisionWhenClosed>
+			<driveableDoors/>
+			<bumpersNeedToCollideWithMap value="false"/>
+			<needsRopeTexture value="false"/>
+			<requiredExtras/>
+			<rewards/>
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet/>
+			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<buoyancySphereSizeScale value="1.000000"/>
+			<pOverrideRagdollThreshold type="NULL"/>
+			<firstPersonDrivebyData>
+				<Item>STD_SERRANO_FRONT_LEFT</Item>
+				<Item>STD_SERRANO_FRONT_RIGHT</Item>
+				<Item>STD_ORACLE2_REAR_LEFT</Item>
+				<Item>STD_ORACLE2_REAR_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
+	</InitDatas>
+	<txdRelationships>
+		<Item>
+			<parent>vehicles_feroci_interior</parent>
+			<child>e53</child>
+		</Item>
+	</txdRelationships>
+</CVehicleModelInfo__InitDataList>
