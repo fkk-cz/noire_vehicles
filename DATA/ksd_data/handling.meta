@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>ksd</handlingName>
 			<fMass value="250.000000"/>
-			<fInitialDragCoeff value="3.500000"/>
+			<fInitialDragCoeff value="5.500000"/>
 			<fPercentSubmerged value="95.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.010000" z="-0.100000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
@@ -20,7 +20,7 @@
 			<fHandBrakeForce value="1.650000"/>
 			<fSteeringLock value="35.000000"/>
 			<fTractionCurveMax value="2.300000"/>
-			<fTractionCurveMin value="2.290000"/>
+			<fTractionCurveMin value="2.000000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.030000"/>
 			<fLowSpeedTractionLossMult value="0.800000"/>
