@@ -2,51 +2,36 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>937_bugatti_modkit</kitName>
-			<id value="937"/>
+			<kitName>777777777_lp610_modkit</kitName>
+			<id value="777777777"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
-					<modelName>bugatti_spoil_1</modelName>
-					<modShopLabel>bugatti_SPOIL_l</modShopLabel>
+					<modelName>610_roof</modelName>
+					<modShopLabel>LP610_ROOF</modShopLabel>
 					<linkedModels/>
-					<turnOffBones/>
-					<type>VMT_SPOILER</type>
+					<turnOffBones>
+						<Item>misc_c</Item>
+					</turnOffBones>
+					<type>VMT_ROOF</type>
 					<bone>chassis</bone>
-					<collisionBone>boot</collisionBone>
+					<collisionBone>mod_col_1</collisionBone>
 					<cameraPos>VMCP_DEFAULT</cameraPos>
 					<audioApply value="1.000000"/>
-					<weight value="0"/>
+					<weight value="20"/>
 					<turnOffExtra value="false"/>
 					<disableBonnetCamera value="false"/>
 					<allowBonnetSlide value="true"/>
 				</Item>
 				<Item>
-					<modelName>bugatti_bumf_1</modelName>
-					<modShopLabel>MNU_BUMF1</modShopLabel>
+					<modelName>610_burm_f_1</modelName>
+					<modShopLabel>LP610_BURMF_1</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-						<Item>bumper_f</Item>
+						<Item>misc_g</Item>
 					</turnOffBones>
 					<type>VMT_BUMPER_F</type>
-					<bone>chassis</bone>
-					<collisionBone>chassis</collisionBone>
-					<cameraPos>VMCP_DEFAULT</cameraPos>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<turnOffExtra value="false"/>
-					<disableBonnetCamera value="false"/>
-					<allowBonnetSlide value="true"/>
-				</Item>
-				<Item>
-					<modelName>bugatti_bumr_1</modelName>
-					<modShopLabel>MNU_BUMR1</modShopLabel>
-					<linkedModels/>
-					<turnOffBones>
-						<Item>misc_e</Item>
-					</turnOffBones>
-					<type>VMT_BUMPER_R</type>
-					<bone>chassis</bone>
+					<bone>bumper_f</bone>
 					<collisionBone>chassis</collisionBone>
 					<cameraPos>VMCP_DEFAULT</cameraPos>
 					<audioApply value="1.000000"/>
@@ -56,45 +41,81 @@
 					<allowBonnetSlide value="true"/>
 				</Item>
 				<Item>
-					<modelName>bugatti_cage</modelName>
-					<modShopLabel>MNU_CAGE</modShopLabel>
+					<modelName>610_burm_f_3</modelName>
+					<modShopLabel>LP610_BURMF_3</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-						<Item>misc_c</Item>
-						<Item>misc_d</Item>
+						<Item>misc_g</Item>
 					</turnOffBones>
-					<type>VMT_CHASSIS</type>
-					<bone>chassis</bone>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
 					<collisionBone>chassis</collisionBone>
 					<cameraPos>VMCP_DEFAULT</cameraPos>
 					<audioApply value="1.000000"/>
-					<weight value="0"/>
+					<weight value="3"/>
 					<turnOffExtra value="false"/>
 					<disableBonnetCamera value="false"/>
 					<allowBonnetSlide value="true"/>
 				</Item>
 				<Item>
-					<modShopLabel>MNU_CAGE3</modShopLabel>
+					<modelName>610_burm_r_1</modelName>
+					<modShopLabel>LP610_BUMR_1</modShopLabel>
 					<linkedModels/>
 					<turnOffBones>
-						<Item>misc_d</Item>
+						<Item>misc_h</Item>
 					</turnOffBones>
-					<type>VMT_CHASSIS</type>
-					<bone>chassis</bone>
+					<type>VMT_EXHAUST</type>
+					<bone>bumper_r</bone>
 					<collisionBone>chassis</collisionBone>
 					<cameraPos>VMCP_DEFAULT</cameraPos>
 					<audioApply value="1.000000"/>
-					<weight value="0"/>
+					<weight value="3"/>
 					<turnOffExtra value="false"/>
 					<disableBonnetCamera value="false"/>
 					<allowBonnetSlide value="true"/>
 				</Item>
 				<Item>
-					<modelName>bugatti_2bon</modelName>
-					<modShopLabel>MNU_BONV2</modShopLabel>
+					<modelName>610_burm_r_2</modelName>
+					<modShopLabel>LP610_BUMR_2</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						<Item>misc_h</Item>
+						<Item>exhaust</Item>
+						<Item>exhaust_2</Item>
+						<Item>exhaust_3</Item>
+						<Item>exhaust_4</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>bumper_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_wing_1</modelName>
+					<modShopLabel>LP610_WING_1</modShopLabel>
 					<linkedModels/>
 					<turnOffBones/>
-					<type>VMT_BONNET</type>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_wing_2</modelName>
+					<modShopLabel>LP610_WING_2</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SPOILER</type>
 					<bone>chassis</bone>
 					<collisionBone>chassis</collisionBone>
 					<cameraPos>VMCP_DEFAULT</cameraPos>
@@ -105,16 +126,161 @@
 					<allowBonnetSlide value="true"/>
 				</Item>
 				<Item>
-					<modelName>bugatti_bon</modelName>
-					<modShopLabel>MNU_BONV</modShopLabel>
+					<modelName>610_wing_3</modelName>
+					<modShopLabel>LP610_WING_3</modShopLabel>
 					<linkedModels/>
 					<turnOffBones/>
-					<type>VMT_BONNET</type>
+					<type>VMT_SPOILER</type>
+					<bone>bumper_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_wing_4</modelName>
+					<modShopLabel>LP610_WING_4</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SPOILER</type>
 					<bone>chassis</bone>
 					<collisionBone>chassis</collisionBone>
 					<cameraPos>VMCP_DEFAULT</cameraPos>
 					<audioApply value="1.000000"/>
 					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_wing_5</modelName>
+					<modShopLabel>LP610_WING_5</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SPOILER</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_bonnet_1</modelName>
+					<modShopLabel>LP610_BONNET_1</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						<Item>misc_b</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_skt_1</modelName>
+					<modShopLabel>610_SKT_1</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_skt_2</modelName>
+					<modShopLabel>610_SKT_2</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_widebody_1</modelName>
+					<modShopLabel>610_WIDEBODY_1</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						<Item>misc_f</Item>
+					</turnOffBones>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_stw_1</modelName>
+					<modShopLabel>610_STW_1</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						<Item>misc_e</Item>
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_seat_1</modelName>
+					<modShopLabel>610_SEAT_1</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						<Item>misc_d</Item>
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>610_int_1</modelName>
+					<modShopLabel>610_INT_1</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						<Item>misc_a</Item>
+					</turnOffBones>
+					<type>VMT_WING_R</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
 					<turnOffExtra value="false"/>
 					<disableBonnetCamera value="false"/>
 					<allowBonnetSlide value="true"/>
@@ -124,7 +290,21 @@
 			<statMods>
 				<Item>
 					<identifier/>
-					<modifier value="25"/>
+					<modifier value="15"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="20"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="35"/>
 					<audioApply value="1.000000"/>
 					<weight value="20"/>
 					<type>VMT_ENGINE</type>
@@ -138,35 +318,7 @@
 				</Item>
 				<Item>
 					<identifier/>
-					<modifier value="75"/>
-					<audioApply value="1.000000"/>
-					<weight value="20"/>
-					<type>VMT_ENGINE</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="100"/>
-					<audioApply value="1.000000"/>
-					<weight value="20"/>
-					<type>VMT_ENGINE</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="25"/>
-					<audioApply value="1.000000"/>
-					<weight value="5"/>
-					<type>VMT_BRAKES</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="65"/>
-					<audioApply value="1.000000"/>
-					<weight value="5"/>
-					<type>VMT_BRAKES</type>
-				</Item>
-				<Item>
-					<identifier/>
-					<modifier value="100"/>
+					<modifier value="15"/>
 					<audioApply value="1.000000"/>
 					<weight value="5"/>
 					<type>VMT_BRAKES</type>
@@ -176,18 +328,32 @@
 					<modifier value="25"/>
 					<audioApply value="1.000000"/>
 					<weight value="5"/>
-					<type>VMT_GEARBOX</type>
+					<type>VMT_BRAKES</type>
 				</Item>
 				<Item>
 					<identifier/>
 					<modifier value="50"/>
 					<audioApply value="1.000000"/>
 					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="15"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
 					<type>VMT_GEARBOX</type>
 				</Item>
 				<Item>
 					<identifier/>
-					<modifier value="100"/>
+					<modifier value="20"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="80"/>
 					<audioApply value="1.000000"/>
 					<weight value="5"/>
 					<type>VMT_GEARBOX</type>
@@ -531,7 +697,7 @@
 	</Kits>
 	<Lights>
 		<Item>
-			<id value="998"/>
+			<id value="777777777"/>
 			<indicator>
 				<intensity value="0.375000"/>
 				<falloffMax value="2.500000"/>
@@ -587,8 +753,8 @@
 				<intensity_far value="1.000000"/>
 				<color value="0xFFFF1E05"/>
 				<numCoronas value="0"/>
-				<distBetweenCoronas value="0.1"/>
-				<distBetweenCoronas_far value="20.5"/>
+				<distBetweenCoronas value="0"/>
+				<distBetweenCoronas_far value="20"/>
 				<xRotation value="0.000000"/>
 				<yRotation value="0.000000"/>
 				<zRotation value="5.667000"/>
@@ -660,7 +826,7 @@
 				<zBias value="0.250000"/>
 				<pullCoronaIn value="false"/>
 			</reversingLightCorona>
-			<name>bugatti</name>
+			<name>lp610</name>
 		</Item>
 	</Lights>
 </CVehicleModelInfoVarGlobal>
