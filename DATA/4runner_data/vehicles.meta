@@ -99,7 +99,7 @@
 			<frequency value="60"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="5"/>
-			<flags>FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY</flags>
+			<flags>FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKYFLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY </flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_GENTAXI</dashboardType>
@@ -115,6 +115,7 @@
 				<Item>thauler</Item>
 				<Item>cartr16</Item>
 				<Item>cartrailer</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers>
 				<Item>ftt</Item>
