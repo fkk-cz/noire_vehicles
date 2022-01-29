@@ -6,20 +6,6 @@
       <id value="726"/>
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
-      <Item><!--LIVERIES START HERE-->
-          <modelName>f10_m5_livery_1</modelName>
-          <modShopLabel>f10_m5_livery_1</modShopLabel>
-          <turnOffBones />
-          <type>VMT_LIVERY_MOD</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
 		<Item><!--ANTENNAS START HERE-->
           <modelName>f10_m5_ariel_01</modelName>
           <modShopLabel>F10_M5_ARIEL_01</modShopLabel>
