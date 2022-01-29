@@ -83,7 +83,7 @@
 			<flags>FLAG_BOOT_IN_FRONT FLAG_EXTRAS_REQUIRE FLAG_HAS_INTERIOR_EXTRAS FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_LIVERY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
-			<vehicleClass>VC_MOTORCYCLE</vehicleClass>
+			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_OFFROAD</wheelType>
 			<trailers/>
 			<additionalTrailers/>
