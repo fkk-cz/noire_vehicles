@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>kustom</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Mayland Black -->
+            0
+            0 
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Battleship Gray -->
+            9
+            0
+            8
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Live Oak Green -->
+            204
+            204
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Oxford Maroon -->
+            167
+            167
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Lake Como Blue -->
+            62
+            0
+            7
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Satin Green -->
+            213
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dove Gray -->
+            4
+            0
+            8
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Gray Green -->
+            214
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
