@@ -1461,6 +1461,7 @@
 			<trailers>
 				<Item>boattrailer</Item>
 				<Item>trailersmall</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>
@@ -2282,6 +2283,7 @@
 				<Item>boattrailer</Item>
 				<Item>trailersmall</Item>
 				<Item>denalihd</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers>
 				<Item>trailersmall2</Item>
@@ -3280,7 +3282,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_USE_HIGHER_DOOR_TORQUE FLAG_IS_BULKY FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<flags>FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_USE_HIGHER_DOOR_TORQUE FLAG_IS_BULKY FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY FLAG_HAS_INTERIOR_EXTRAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_BOBCAT</dashboardType>
@@ -3289,6 +3291,7 @@
 			<trailers>
 				<Item>boattrailer</Item>
 				<Item>trailersmall</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>

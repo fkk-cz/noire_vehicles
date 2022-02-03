@@ -85,7 +85,7 @@
 			<flags>FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_AVERAGE_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_DONT_TIMESLICE_WHEELS</flags>
 			<type>VEHICLE_TYPE_QUADBIKE</type>
 			<plateType>VPT_BACK_PLATES</plateType>
-			<vehicleClass>VC_MOTORCYCLE</vehicleClass>
+			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_OFFROAD</wheelType>
 			<trailers/>
 			<additionalTrailers/>
