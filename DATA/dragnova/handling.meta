@@ -23,7 +23,7 @@
 			<fTractionCurveMin value="3.000000"/>
 			<fTractionCurveLateral value="18.500000"/>
 			<fTractionSpringDeltaMax value="0.130000"/>
-			<fLowSpeedTractionLossMult value="0.0000"/>
+			<fLowSpeedTractionLossMult value="2.000000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.325000"/>
 			<fTractionLossMult value="3.000000"/>
