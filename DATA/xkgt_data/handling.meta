@@ -15,11 +15,11 @@
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="4.000000" />
       <fClutchChangeRateScaleDownShift value="4.000000" />
-      <fInitialDriveMaxFlatVel value="195" />
+      <fInitialDriveMaxFlatVel value="207.31" />
       <fBrakeForce value="1.100000" />
       <fBrakeBiasFront value="0.450000" />
       <fHandBrakeForce value="0.500000" />
-      <fSteeringLock value="40.000000" />
+      <fSteeringLock value="37.500000" />
       <fTractionCurveMax value="2.880000" />
       <fTractionCurveMin value="2.750000" />
       <fTractionCurveLateral value="20.500000" />
