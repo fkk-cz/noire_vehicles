@@ -80,7 +80,7 @@
 			<frequency value="30"/>
 			<swankness>SWANKNESS_5</swankness>
 			<maxNum value="4"/>
-			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_NO_BROKEN_DOWN_SCENARIO FLAG_COUNT_AS_FACEBOOK_DRIVEN</flags>
+			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_RECESSED_HEADLIGHT_CORONAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
