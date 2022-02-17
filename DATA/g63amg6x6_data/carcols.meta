@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>2701_g63amg6x6_modkit</kitName>
-      <id value="2701" />	 	  
+      <kitName>1723_g63amg6x6_modkit</kitName>
+      <id value="1723" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 <!-- BUMPER_F_R -->
