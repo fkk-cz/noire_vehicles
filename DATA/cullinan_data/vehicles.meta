@@ -62,7 +62,7 @@
 			<wheelScale value="0.287100"/>
 			<wheelScaleRear value="0.287100"/>
 			<dirtLevelMin value="0.000000"/>
-			<dirtLevelMax value="0.700000"/>
+			<dirtLevelMax value="0.500000"/>
 			<envEffScaleMin value="0.000000"/>
 			<envEffScaleMax value="1.000000"/>
 			<envEffScaleMin2 value="0.000000"/>
