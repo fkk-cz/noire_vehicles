@@ -237,7 +237,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="15"/>
-      <sirenSettings value="9"/>
+      <sirenSettings value="0"/>
     </Item>
 		<Item>
       <modelName>pjtrailer</modelName>
