@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_2</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_EXTRAS_STRONG FLAG_HAS_BULLET_RESISTANT_GLASS</flags>
+			<flags>FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_EXTRAS_STRONG</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
