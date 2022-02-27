@@ -101,9 +101,7 @@
 			<dashboardType>VDT_RACE</dashboardType>
 			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_OFFROAD</wheelType>
-			<trailers>
-				<Item>trailercar</Item>
-			</trailers>
+			<trailers/>
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes/>
