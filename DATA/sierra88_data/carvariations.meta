@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>sierra88</modelName> <!-- 98 saddle - 110 beige - 178 blue - 32 garnet - 8 gray -->
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Sable Black -->
+            0
+            0
+            0
+            0
+			32
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sable Black / Adobe Gold -->
+            0
+            165
+            2
+            0
+			98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sable Black / Flame Red -->
+            0
+            27
+            0
+            0
+			32
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Iced Blue Metallic -->
+            230
+            230
+            4
+            0
+            178
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Iced Blue Metallic / Pacific Blue -->
+            230
+            208
+            4
+            0
+            8
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Iced Blue Metallic / Quicksilver -->
+            230
+            4
+            4
+            0
+            178
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Pacific Blue Metallic -->
+            208
+            208
+            4
+            0
+            8
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Pacific Blue Metallic / Iced Blue -->
+            208
+            230
+            4
+            0
+            178
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Spice Brown Metallic -->
+            103
+            103
+            4
+            0
+            110
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Spice Brown Metallic / Adobe Gold -->
+            103
+            165
+            4
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Spice Brown Metallic / Sandstone -->
+            103
+            105
+            4
+            0
+            110
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Summit White -->
+            111
+            111
+            0
+            0
+			110
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Summit White / Flame Red -->
+            111
+            27
+            0
+            0
+			32
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Adobe Gold Metallic -->
+            165
+            165
+            4
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Adobe Gold Metallic / Sable Black -->
+            165
+            0
+            4
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sandstone Metallic -->
+            105
+            105
+            4
+            0
+            110
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sandstone Metallic / Spice Brown -->
+            105
+            103
+            4
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Flame Red -->
+            27
+            27
+            0
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Flame Red / Sable Black -->
+            27
+            0
+            0
+            0
+            32
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Flame Red / Summit White -->
+            27
+            111
+            0
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Brandywine Metallic -->
+            34
+            34
+            4
+            0
+            98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Brandywine Metallic / Quicksilver -->
+            34
+            4
+            4
+            0
+            32
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Quicksilver Metallic -->
+            4
+            4
+            4
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Quicksilver Metallic / Pacific Blue -->
+            4
+            208
+            4
+            0
+			178
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Quicksilver Metallic / Brandywine -->
+            4
+            34
+            4
+            0
+			32
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
