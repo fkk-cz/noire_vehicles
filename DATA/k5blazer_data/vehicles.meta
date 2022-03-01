@@ -110,7 +110,6 @@
 				<Item>trailersmall</Item>
 				<Item>cotrailer</Item>
 				<Item>codestacker</Item>
-				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers>
 				<Item>thauler</Item>

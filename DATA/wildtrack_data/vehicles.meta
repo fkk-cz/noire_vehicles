@@ -69,7 +69,7 @@
 			<AllowBodyColorMapping value="true"/>
 			<wheelScale value="0.353200"/>
 			<wheelScaleRear value="0.318500"/>
-			<dirtLevelMin value="0.100000"/>
+			<dirtLevelMin value="0.000000"/>
 			<dirtLevelMax value="0.990000"/>
 			<envEffScaleMin value="0.000000"/>
 			<envEffScaleMax value="1.000000"/>

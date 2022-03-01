@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>jetmax</audioNameHash>
-			<layout>LAYOUT_BOAT_DINGHY</layout>
+			<layout>LAYOUT_BOAT_MARQUIS</layout>
 			<coverBoundOffsets>STANDARD_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_BOAT_MEDIUM</explosionInfo>
 			<scenarioLayout/>

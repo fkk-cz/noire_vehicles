@@ -81,7 +81,7 @@
 			<frequency value="1"/>
 			<swankness>SWANKNESS_5</swankness>
 			<maxNum value="2"/>
-			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_EXTRAS_ALL FLAG_HAS_LIVERY</flags>
+			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_EXTRAS_ALL FLAG_HAS_LIVERY FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
