@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	     <Item>
+      <modelName>camarozl1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Yellow -->
+            88
+            88
+            88
+            88
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Red / Red -->
+            27
+            28
+            28
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Black / Red -->
+            0
+            28
+            0
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Silver -->
+            4
+            28
+            4
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- White -->
+            112
+            28
+            112
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
