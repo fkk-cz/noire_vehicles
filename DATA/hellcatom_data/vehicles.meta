@@ -81,7 +81,7 @@
 			<frequency value="30"/>
 			<swankness>SWANKNESS_3</swankness>
 			<maxNum value="10"/>
-			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_IS_ELECTRIC FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_HAS_INTERIOR_EXTRAS</flags>
+			<flags>FLAG_SPORTS FLAG_RICH_CAR FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_GENTAXI</dashboardType>

@@ -99,13 +99,15 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_4</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_CAN_HAVE_NEONS FLAG_HAS_LIVERY FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_RECESSED_HEADLIGHT_CORONAS</flags>
+			<flags>FLAG_CAN_HAVE_NEONS FLAG_HAS_LIVERY FLAG_PARKING_SENSORS FLAG_RICH_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
 			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_OFFROAD</wheelType>
-			<trailers/>
+			<trailers>
+				<Item>trailercar</Item>
+			</trailers>
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes/>
