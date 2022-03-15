@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>mbc63_modkit</kitName>
-      <id value="811" />	 	  
+      <kitName>1832_mbc63_modkit</kitName>
+      <id value="1832" />	 	  
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
 									<Item>
