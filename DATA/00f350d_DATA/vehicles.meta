@@ -110,7 +110,8 @@
 				<Item>tr2</Item>
 				<Item>trflat</Item>
 				<Item>eagerbeaver</Item>
-				<Item>pjtrailer</Item>				
+				<Item>pjtrailer</Item>		
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>
