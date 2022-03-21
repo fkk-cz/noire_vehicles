@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	     <Item>
+      <modelName>slsamg</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Black / Black / Red -->
+            0
+            27
+            4
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Silver / Red -->
+            4
+            27
+            111
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Silver / Black -->
+            4
+            0
+            111
+            89
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Red / White -->
+            28
+            111
+            28
+            27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Red / Black -->
+            28
+            0
+            28
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- White / Red -->
+            111
+            27
+            112
+            28
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- White / Black -->
+            111
+            0
+            111
+            89
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Black / Black -->
+            0
+            0
+            4
+            89
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
