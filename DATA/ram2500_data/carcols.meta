@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>939_ram2500_modkit</kitName>
-			<id value="939"/>
+			<kitName>1283_ram2500_modkit</kitName>
+			<id value="1283"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
