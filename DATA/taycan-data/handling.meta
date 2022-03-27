@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>taycan</handlingName>
 			<fMass value="2000.000000"/>
-			<fInitialDragCoeff value="3.500000"/>
+			<fInitialDragCoeff value="5.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.125000" z="-0.2000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.300000" z="1.200000"/>
@@ -15,11 +15,11 @@
 			<fClutchChangeRateScaleUpShift value="9.000000"/>
 			<fClutchChangeRateScaleDownShift value="9.000000"/>
 			<fInitialDriveMaxFlatVel value="195.000000"/>
-			<fBrakeForce value="1.000000"/>
+			<fBrakeForce value="1.100000"/>
 			<fBrakeBiasFront value="0.650000"/>
 			<fHandBrakeForce value="0.500000"/>
-			<fSteeringLock value="38.000000"/>
-			<fTractionCurveMax value="2.275000"/>
+			<fSteeringLock value="35.000000"/>
+			<fTractionCurveMax value="2.375000"/>
 			<fTractionCurveMin value="2.100000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
