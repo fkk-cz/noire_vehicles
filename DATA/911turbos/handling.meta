@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>911TURBOS</handlingName>
 			<fMass value="1639.960000"/>
-			<fInitialDragCoeff value="3.500000"/>
+			<fInitialDragCoeff value="5.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.300000" z="0.100000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.100000" z="1.100000"/>
 			<fDriveBiasFront value="0.500000"/>
 			<nInitialDriveGears value="7"/>
-			<fInitialDriveForce value="0.310000"/>
+			<fInitialDriveForce value="0.330000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="2.000000"/>
 			<fClutchChangeRateScaleDownShift value="2.000000"/>
