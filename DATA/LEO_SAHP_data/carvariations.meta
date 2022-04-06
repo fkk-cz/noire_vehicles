@@ -223,5 +223,61 @@
 			<lightSettings value="0"/>
 			<sirenSettings value="650"/>
 		</Item>
+		<Item>
+			<modelName>hp11</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						0
+						0
+						0
+						27
+						0
+						0
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="696"/>
+			<sirenSettings value="685"/>
+		</Item>
 	</variationData>
 </CVehicleModelInfoVariation>
