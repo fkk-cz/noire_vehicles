@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>turs21</handlingName>
 			<fMass value="1800.000000"/>
-			<fInitialDragCoeff value="5.100000"/>
+			<fInitialDragCoeff value="3.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.300000" z="1.500000"/>
 			<fDriveBiasFront value="0.200000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.3000500"/>
+			<fInitialDriveForce value="0.300000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="4.50000"/>
 			<fClutchChangeRateScaleDownShift value="4.500000"/>
@@ -27,7 +27,7 @@
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.485000"/>
 			<fTractionLossMult value="1.000000"/>
-			<fSuspensionForce value="2.600000"/>
+			<fSuspensionForce value="2.000000"/>
 			<fSuspensionCompDamp value="1.500000"/>
 			<fSuspensionReboundDamp value="2.200000"/>
 			<fSuspensionUpperLimit value="0.080000"/>
@@ -36,8 +36,8 @@
 			<fSuspensionBiasFront value="0.500000"/>
 			<fAntiRollBarForce value="0.900000"/>
 			<fAntiRollBarBiasFront value="0.600000"/>
-			<fRollCentreHeightFront value="0.410000"/>
-			<fRollCentreHeightRear value="0.410000"/>
+			<fRollCentreHeightFront value="0.610000"/>
+			<fRollCentreHeightRear value="0.610000"/>
 			<fCollisionDamageMult value="0.700000"/>
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="0.700000"/>
