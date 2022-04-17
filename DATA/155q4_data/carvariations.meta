@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>155q4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Dark Red -->
+            34
+            28
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Red -->
+            28
+            28
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            28
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver -->
+            6
+            28
+            111
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Blue -->
+            172
+            28
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Green -->
+            50
+            28
+            3
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>155q4_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
