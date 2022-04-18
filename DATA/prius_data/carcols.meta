@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>1006_prius_modkit</kitName>
-      <id value="1006" />	 	  
+      <kitName>1673_prius_modkit</kitName>
+      <id value="1673" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
          <Item>
