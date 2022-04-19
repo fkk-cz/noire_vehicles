@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>veh_multipla</ptfxAssetName>
 			<audioNameHash>JACKAL</audioNameHash>
-			<layout>LAYOUT_LOW</layout>
+			<layout>LAYOUT_STD_HIGHWINDOW</layout>
 			<coverBoundOffsets>NERO_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
