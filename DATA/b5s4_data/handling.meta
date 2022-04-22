@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>B5S4</handlingName>
 			<fMass value="1535.000000"/>
-			<fInitialDragCoeff value="4.050000"/>
+			<fInitialDragCoeff value="6.050000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.120000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.300000"/>
