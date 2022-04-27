@@ -60,10 +60,10 @@
 		</Item>
 		<Item type="CHandlingData">
 			<handlingName>pjtrailer</handlingName>
-			<fMass value="3500.000000"/>
-			<fInitialDragCoeff value="2.000000"/>
+			<fMass value="7000.000000"/>
+			<fInitialDragCoeff value="10.000000"/>
 			<fPercentSubmerged value="80.000000"/>
-			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.000000"/>
+			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-1.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="1"/>
@@ -93,12 +93,12 @@
 			<fSuspensionBiasFront value="0.5"/>
 			<fAntiRollBarForce value="1.0"/>
 			<fAntiRollBarBiasFront value="0.0"/>
-			<fRollCentreHeightFront value="0.4"/>
-			<fRollCentreHeightRear value="0.4"/>
-			<fCollisionDamageMult value="0.64"/>
-			<fWeaponDamageMult value="1.000000"/>
-			<fDeformationDamageMult value="0.200000"/>
-			<fEngineDamageMult value="1.500000"/>
+			<fRollCentreHeightFront value="0.8"/>
+			<fRollCentreHeightRear value="0.8"/>
+			<fCollisionDamageMult value="0.000000"/>
+			<fWeaponDamageMult value="0.000000"/>
+			<fDeformationDamageMult value="0.000000"/>
+			<fEngineDamageMult value="0.000000"/>
 			<fPetrolTankVolume value="0.000000"/>
 			<fOilVolume value="0.000000"/>
 			<fSeatOffsetDistX value="0.000000"/>
@@ -111,11 +111,11 @@
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
 				<Item type="CTrailerHandlingData">
-					<fAttachLimitPitch value="34.0"/>
-					<fAttachLimitRoll value="14.0"/>
+					<fAttachLimitPitch value="27.0"/>
+					<fAttachLimitRoll value="7.0"/>
 					<fAttachLimitYaw value="-1.0"/>
-					<fUprightSpringConstant value="-0.5"/>
-					<fUprightDampingConstant value="2.0"/>
+					<fUprightSpringConstant value="-5.5"/>
+					<fUprightDampingConstant value="4.0"/>
 					<fAttachedMaxDistance value="-0.0"/>
 					<fAttachedMaxPenetration value="0.0"/>
 					<fAttachRaiseZ value="0.0"/>
