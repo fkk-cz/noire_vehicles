@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>fordc32</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            0
+            0
+            0
+			223
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            0
+            0
+            179
+			223
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tunis Gray / Old Chester Gray -->
+            3
+            8
+            0
+            169
+			169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Washington Blue / Black -->
+            62
+            0
+            0
+            169
+			169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Brewster Green Medium / Light -->
+            226
+            183
+            0
+            179
+			5
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Winterleaf Brown Light / Dark -->
+            93
+            187
+            0
+            169
+			169
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Ford Medium Maroon / Black -->
+            34
+            0
+            0
+            28
+			223
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Old Chester Gray / Tunis Gray -->
+            8
+            3
+            0
+            0
+			169
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>fordc32h</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            0
+            0
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Stone Silver / Sunset Red -->
+            8
+            33
+            8
+            0
+			8
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Woodbeech Brown / Moss Brown -->
+            102
+            100
+            0
+            0
+			100
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Red / Bleached Brown -->
+            27
+            106
+            0
+            0
+			106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sage -->
+            226
+            226
+            0
+            0
+			97
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Dark Blue -->
+            62
+            62
+            0
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Olive Green / Bronze -->
+            52
+            90
+            0
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Bordeaux -->
+            167
+            0
+            0
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Chocolate Brown / Bleached Brown -->
+            96
+            106
+            0
+            0
+			106
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Plum -->
+            201
+            201
+            0
+            0
+			201
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>fordc32h_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="499" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

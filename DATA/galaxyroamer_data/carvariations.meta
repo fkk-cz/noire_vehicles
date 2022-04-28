@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>galaxyroamer</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            105
+			90
+			0
+			0
+			111
+			0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits />
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="3261" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
