@@ -60,7 +60,7 @@
 		</Item>
 		<Item type="CHandlingData">
 			<handlingName>pjtrailer</handlingName>
-			<fMass value="7000.000000"/>
+			<fMass value="3265.000000"/>
 			<fInitialDragCoeff value="10.000000"/>
 			<fPercentSubmerged value="80.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-1.000000"/>
