@@ -99,6 +99,7 @@
 			<wheelType>VWT_SUV</wheelType>
 			<trailers>
 				<Item>trailercar</Item>
+				<Item>ctrailer</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>

@@ -93,6 +93,7 @@
 				<Item>thauler</Item>
 				<Item>shauler</Item>
 				<Item>trailercar</Item>
+				<Item>ctrailer</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>

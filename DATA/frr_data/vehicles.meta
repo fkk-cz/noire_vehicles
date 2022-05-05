@@ -89,6 +89,7 @@
 			<wheelType>VWT_LOWRIDER</wheelType>
 			<trailers>
 				<Item>trailercar</Item>
+				<Item>ctrailer</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>

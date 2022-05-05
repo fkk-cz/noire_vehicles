@@ -111,6 +111,7 @@
 				<Item>cotrailer</Item>
 				<Item>codestacker</Item>
 				<Item>trailercar</Item>
+				<Item>ctrailer</Item>
 			</trailers>
 			<additionalTrailers>
 				<Item>thauler</Item>
