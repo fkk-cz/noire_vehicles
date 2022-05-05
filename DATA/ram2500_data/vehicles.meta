@@ -81,13 +81,13 @@
 			<steerWheelMult value="1.000000"/>
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
-        15.000000
-        30.000000
-        70.000000
-        140.000000
-        500.000000
-        500.000000
-      </lodDistances>
+				15.000000
+				30.000000
+				70.000000
+				140.000000
+				500.000000
+				500.000000
+			</lodDistances>
 			<minSeatHeight value="0.931"/>
 			<identicalModelSpawnDistance value="100"/>
 			<maxNumOfSameColor value="10"/>
@@ -109,6 +109,7 @@
 				<Item>boattrailer</Item>
 				<Item>trailersmall</Item>
 				<Item>trailercar</Item>
+				<Item>ctrailer</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers>

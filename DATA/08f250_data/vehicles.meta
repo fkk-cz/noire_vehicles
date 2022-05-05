@@ -101,6 +101,7 @@
 				<Item>trailercar</Item>
 				<Item>boattrailer</Item>
 				<Item>trailersmall</Item>
+				<Item>ctrailer</Item>
 			</trailers>
 			<additionalTrailers>
 				<Item>trailersmall2</Item>
