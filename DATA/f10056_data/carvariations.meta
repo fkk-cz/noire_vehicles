@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>f10056c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Raven Black -->
+            0
+            0
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Vermilion Red -->
+            28
+            28
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Nocturne Blue -->
+            62
+            62
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Diamond Blue -->
+            127
+            127
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Colonial White -->
+            198
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Meadow Green -->
+            170
+            170
+            0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Medowmist Green -->
+            222
+            222
+            0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Goldenglow Yellow -->
+            207
+            207
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Platinum Gray -->
+            6
+            6
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Raven Black / White -->
+            0
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Vermilion Red / White -->
+            28
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Nocturne Blue / White -->
+            62
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Diamond Blue / White -->
+            127
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Meadow Green / White -->
+            170
+            198
+            0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Medowmist Green / White -->
+            222
+            198
+            0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Goldenglow Yellow / White -->
+            207
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Platinum Gray / White -->
+            6
+            198
+            0
+            1
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+     <Item>
+      <modelName>f10056s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Raven Black -->
+            0
+            0
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Vermilion Red -->
+            28
+            28
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Nocturne Blue -->
+            62
+            62
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Diamond Blue -->
+            127
+            127
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Colonial White -->
+            198
+            198
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Meadow Green -->
+            170
+            170
+            0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Medowmist Green -->
+            222
+            222
+            0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Goldenglow Yellow -->
+            207
+            207
+            0
+            1
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Platinum Gray -->
+            6
+            6
+            0
+            1
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
