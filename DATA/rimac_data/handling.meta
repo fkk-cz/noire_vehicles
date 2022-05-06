@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>RIMAC</handlingName>
 			<fMass value="1800.000000"/>
-			<fInitialDragCoeff value="5.0000"/>
+			<fInitialDragCoeff value="2.0000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="-0.0000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.400000"/>
@@ -18,9 +18,9 @@
 			<fBrakeForce value="1.20000"/>
 			<fBrakeBiasFront value="0.450000"/>
 			<fHandBrakeForce value="0.500000"/>
-			<fSteeringLock value="40.000000"/>
+			<fSteeringLock value="35.000000"/>
 			<fTractionCurveMax value="2.550000"/>
-			<fTractionCurveMin value="2.275000"/>
+			<fTractionCurveMin value="2.375000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="1.00000"/>
