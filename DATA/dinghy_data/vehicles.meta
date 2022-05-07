@@ -3,8 +3,7 @@
 	<residentTxd>vehshare</residentTxd>
 	<residentAnims/>
 	<InitDatas>
-	<HandlingData>
-		<Item type="CHandlingData">
+		<Item>
    <modelName>dinghy</modelName>
       <txdName>dinghy</txdName>
       <handlingId>DINGHY</handlingId>
