@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CHandlingDataMgr>
+<CVehicleModelInfo__InitDataList>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims/>
+	<InitDatas>
 	<HandlingData>
 		<Item type="CHandlingData">
    <modelName>dinghy</modelName>
@@ -222,6 +225,8 @@
         <Item>BOAT_FRONT_RIGHT</Item>
       </firstPersonDrivebyData>
 	  <numSeatsOverride value="2" />
-    </Item>
-	</HandlingData>
-</CHandlingDataMgr>
+	</InitDatas>
+	<txdRelationships>
+		</Item>
+	</txdRelationships>
+</CVehicleModelInfo__InitDataList>
