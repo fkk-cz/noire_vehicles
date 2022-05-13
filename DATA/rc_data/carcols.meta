@@ -4,8 +4,8 @@
    
   <Kits>
     <Item>
-      <kitName>999_rc_modkit</kitName>
-      <id value="999" />	 	  
+      <kitName>1237_rc_modkit</kitName>
+      <id value="1237" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods> 
         <Item>
