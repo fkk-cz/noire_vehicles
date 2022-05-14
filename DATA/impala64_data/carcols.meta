@@ -615,6 +615,34 @@
           <weight value="0"/>
           <type>VMT_HORN</type>
         </Item>
+		<Item>
+		  <identifier />
+		  <modifier value="25" />
+		  <audioApply value="0.250000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+		<Item>
+		  <identifier />
+		  <modifier value="50" />
+		  <audioApply value="0.500000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+		<Item>
+		  <identifier />
+		  <modifier value="25" />
+		  <audioApply value="0.750000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
+		<Item>
+		  <identifier />
+		  <modifier value="50" />
+		  <audioApply value="1.000000" />
+		  <weight value="0" />
+		  <type>VMT_WHEELS_REAR_OR_HYDRAULICS</type>
+		</Item>
       </statMods>
     </Item>
   </Kits>
