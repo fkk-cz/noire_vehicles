@@ -81,7 +81,7 @@
 			<frequency value="40"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="3"/>
-			<flags>FLAG_AVERAGE_CAR</flags>
+			<flags>FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_HAS_LOWRIDER_HYDRAULICS FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_RECESSED_TAILLIGHT_CORONAS FLAG_INCREASE_PED_COMMENTS FLAG_EXTRAS_RARE</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_PEYOTE</dashboardType>
