@@ -48,7 +48,7 @@
 			<wheelScale value="0.276000"/>
 			<wheelScaleRear value="0.276000"/>
 			<dirtLevelMin value="0.000000"/>
-			<dirtLevelMax value="0.300000"/>
+			<dirtLevelMax value="0.000000"/>
 			<envEffScaleMin value="0.000000"/>
 			<envEffScaleMax value="1.000000"/>
 			<envEffScaleMin2 value="0.000000"/>
@@ -77,7 +77,7 @@
 			<frequency value="10"/>
 			<swankness>SWANKNESS_5</swankness>
 			<maxNum value="5"/>
-			<flags>FLAG_EXTRAS_REQUIRE FLAG_HAS_LIVERY FLAG_SPORTS FLAG_RICH_CAR FLAG_NO_BROKEN_DOWN_SCENARIO</flags>
+			<flags>FLAG_EXTRAS_REQUIRE FLAG_HAS_LIVERY FLAG_SPORTS FLAG_RICH_CAR</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_BANSHEE</dashboardType>
