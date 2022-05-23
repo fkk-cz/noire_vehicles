@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
     <Item>
-      <kitName>3573_wrx15_modkit</kitName>
-      <id value="3573"/>
+      <kitName>1923_wrx15_modkit</kitName>
+      <id value="1923"/>
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
