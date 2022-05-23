@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>CONTENDER</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_AT38</layout>
 			<coverBoundOffsets>SADLER_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
