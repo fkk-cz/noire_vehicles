@@ -91,13 +91,15 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_3</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY</flags>
+			<flags>FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_ATTACH_TRAILER_ON_HIGHWAY FLAG_ATTACH_TRAILER_IN_CITY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
 			<vehicleClass>VC_OFF_ROAD</vehicleClass>
 			<wheelType>VWT_OFFROAD</wheelType>
-			<trailers/>
+			<trailers>	
+				<Item>trailercar</Item>
+			</trailers>
 			<additionalTrailers/>
 			<drivers/>
 			<extraIncludes/>
