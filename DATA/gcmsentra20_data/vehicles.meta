@@ -3,21 +3,11 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-
-
-
-
-
-
-
-
-
-
     <Item>
       <modelName>gcmsentra20</modelName>
       <txdName>gcmsentra20</txdName>
       <handlingId>GCMSENTRA20</handlingId>
-      <gameName>GCM Sentra20</gameName>
+      <gameName>gcmsentra20</gameName>
       <vehicleMakeName>GCM</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
