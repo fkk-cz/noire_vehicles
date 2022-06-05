@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>956_focus2003_modkit</kitName>
-			<id value="956"/>
+			<kitName>1263_focus2003_modkit</kitName>
+			<id value="1263"/>
 			<kitType>MKT_STANDARD</kitType>
 			<visibleMods/>
 			<linkMods/>
