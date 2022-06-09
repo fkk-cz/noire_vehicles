@@ -6,7 +6,7 @@
     <Item>
       <modelName>gcmsentra20</modelName>
       <txdName>gcmsentra20</txdName>
-      <handlingId>GCMSENTRA20</handlingId>
+      <handlingId>gcmsentra20</handlingId>
       <gameName>gcmsentra20</gameName>
       <vehicleMakeName>GCM</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -81,7 +81,7 @@
       <frequency value="90" />
       <swankness>SWANKNESS_2</swankness>
       <maxNum value="20" />
-      <flags>FLAG_RECESSED_HEADLIGHT_CORONAS FLAG_HAS_LIVERY FLAG_SPAWN_ON_TRAILER FLAG_AVERAGE_CAR FLAG_HAS_INTERIOR_EXTRAS FLAG_PARKING_SENSORS FLAG_EXTRAS_ALL FLAG_EXTRAS_STRONG</flags>
+      <flags>FLAG_RECESSED_HEADLIGHT_CORONAS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_BACK_PLATES</plateType>
       <dashboardType>VDT_SCHAFTER</dashboardType>
