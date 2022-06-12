@@ -4,14 +4,14 @@
 		<Item type="CHandlingData">
 			<handlingName>porcgt03</handlingName>
 			<fMass value="1300.000000"/>
-			<fInitialDragCoeff value="3.227200"/>
+			<fInitialDragCoeff value="5.227200"/>
 			<fDownforceModifier value="2.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.217600" z="0.440000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.300000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.352500"/>
+			<fInitialDriveForce value="0.280000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="2.200000"/>
 			<fClutchChangeRateScaleDownShift value="2.200000"/>
@@ -19,7 +19,7 @@
 			<fBrakeForce value="1.375000"/>
 			<fBrakeBiasFront value="0.620000"/>
 			<fHandBrakeForce value="0.530000"/>
-			<fSteeringLock value="40.000000"/>
+			<fSteeringLock value="37.500000"/>
 			<fTractionCurveMax value="2.090000"/>
 			<fTractionCurveMin value="1.960000"/>
 			<fTractionCurveLateral value="18.860008"/>

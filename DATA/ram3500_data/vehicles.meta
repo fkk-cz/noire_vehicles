@@ -94,6 +94,8 @@
 				<Item>cartrailer</Item>
 				<Item>shauler</Item>
 				<Item>cotrailer</Item>
+				<Item>trailercar</Item>
+				<Item>pjtrailer</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>

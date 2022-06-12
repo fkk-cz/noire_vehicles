@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>800_gxa90_modkit</kitName>
-			<id value="800"/>
+			<kitName>1374_gxa90_modkit</kitName>
+			<id value="1374"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
