@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>f4090</handlingName>
 			<!-- 4.1s 324kmh -->
-			<fMass value="1100"/>
+			<fMass value="1400"/>
 			<fInitialDragCoeff value="4.7"/>			
 			<fPercentSubmerged value="85"/>
 			<vecCentreOfMassOffset x="0" y="-0.05" z="-0.1"/>
@@ -16,12 +16,12 @@
 			<fClutchChangeRateScaleUpShift value="2"/>
 			<fClutchChangeRateScaleDownShift value="2"/>
 			<fInitialDriveMaxFlatVel value="210.00000"/>
-			<fBrakeForce value="1.0"/>
+			<fBrakeForce value="1.1"/>
 			<fBrakeBiasFront value="0.45"/>
 			<fHandBrakeForce value="0.60"/>
-			<fSteeringLock value="38"/>
-			<fTractionCurveMax value="2.2"/>
-			<fTractionCurveMin value="2.0"/>
+			<fSteeringLock value="35"/>
+			<fTractionCurveMax value="2.4"/>
+			<fTractionCurveMin value="2.2"/>
 			<fTractionCurveLateral value="22.5"/>
 			<fTractionSpringDeltaMax value="0.1"/>
 			<fLowSpeedTractionLossMult value="0.8"/>
