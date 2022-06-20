@@ -336,7 +336,7 @@
 			<flags>FLAG_EXTRAS_STRONG FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY FLAG_HAS_INTERIOR_EXTRAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-			<vehicleClass>VC_OFF_ROAD</vehicleClass>
+			<vehicleClass>VC_COMPACT</vehicleClass>
 			<dashboardType>VDT_SPEEDO</dashboardType>
 			<wheelType>VWT_OFFROAD</wheelType>
 			<trailers/>
