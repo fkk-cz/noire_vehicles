@@ -48,7 +48,7 @@
 			<fSeatOffsetDistY value="0.000000"/>
 			<fSeatOffsetDistZ value="0.100000"/>
 			<nMonetaryValue value="150000"/>
-			<strModelFlags>4400104</strModelFlags>
+			<strModelFlags>440010</strModelFlags>
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>SPORTS_CAR</AIHandling>
