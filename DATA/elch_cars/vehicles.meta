@@ -3291,6 +3291,7 @@
 			<trailers>
 				<Item>boattrailer</Item>
 				<Item>trailersmall</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers/>
 			<drivers/>
