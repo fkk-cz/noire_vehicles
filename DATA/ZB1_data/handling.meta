@@ -119,7 +119,7 @@
 			<fCollisionDamageMult value="1.000000"/>
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="1.000000"/>
-			<fEngineDamageMult value="1.000000"/>
+			<fEngineDamageMult value="0.700000"/>
 			<fPetrolTankVolume value="65.000000"/>
 			<fOilVolume value="5.000000"/>
 			<fSeatOffsetDistX value="0.000000"/>
