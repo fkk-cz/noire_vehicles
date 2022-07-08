@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>GT2RS</handlingName>
 			<fMass value="1550.000000"/>
-			<fInitialDragCoeff value="5.100000"/>
+			<fInitialDragCoeff value="4.000000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.100000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="7"/>
-			<fInitialDriveForce value="0.360000"/>
+			<fInitialDriveForce value="0.370000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="4.100000"/>
 			<fClutchChangeRateScaleDownShift value="4.100000"/>
