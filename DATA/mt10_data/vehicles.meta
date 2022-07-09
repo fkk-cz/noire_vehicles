@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>mt10</modelName>
 			<txdName>mt10</txdName>
-			<handlingId>BATI</handlingId>
+			<handlingId>mt10</handlingId>
 			<gameName>MT10</gameName>
 			<vehicleMakeName>YAMAHA</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>BATI</audioNameHash>
+			<audioNameHash>ktm1290</audioNameHash>
 			<layout>LAYOUT_BIKE_SPORT_BATI</layout>
 			<coverBoundOffsets>BIKE_COVER_OFFSET_INFO</coverBoundOffsets>
 			<POVTuningInfo>BATI_POV_TUNING</POVTuningInfo>
