@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>LASDCVPI1</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+				  0
+				  0
+				  0
+				  29
+				  53
+				  54
+			   </indices>
+					<liveries/>
+				</Item>
+			</colors>
+			<kits>
+				<Item>890_lasdnewcvpi_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="96368940210"/>
+		</Item>
+		<Item>
+			<modelName>LASDCVPI2</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+				  0
+				  0
+				  0
+				  29
+				  53
+				  54
+			   </indices>
+					<liveries/>
+				</Item>
+			</colors>
+			<kits>
+				<Item>890_lasdnewcvpi_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="96368940210"/>
+		</Item>
+		<Item>
+			<modelName>LASDCVPI3</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+				  0
+				  0
+				  0
+				  29
+				  53
+				  54
+			   </indices>
+					<liveries/>
+				</Item>
+			</colors>
+			<kits>
+				<Item>890_lasdnewcvpi_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="96368940210"/>
+		</Item>
+		<Item>
+			<modelName>LASDSTCVPI1</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+				  0
+				  0
+				  0
+				  29
+				  53
+				  54
+			   </indices>
+					<liveries/>
+				</Item>
+			</colors>
+			<kits>
+				<Item>890_lasdnewcvpi_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="697256491"/>
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>
