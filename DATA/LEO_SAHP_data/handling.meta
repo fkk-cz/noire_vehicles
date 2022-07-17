@@ -66,6 +66,7 @@
 			<handlingName>CHPchar</handlingName>
 			<fMass value="1910.000000"/>
 			<fInitialDragCoeff value="3.250000"/>
+			<fDownforceModifier value="1.860000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.050000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
