@@ -26,8 +26,8 @@
 			<rightTailLight>
 				<sequencer value="0"/>
 			</rightTailLight>
-			<leftHeadLightmultiples value="2"/>
-			<rightHeadLightmultiples value="2"/>
+			<leftHeadLightMultiples value="2"/>
+			<rightHeadLightMultiples value="2"/>
 			<leftTailLightMultiples value="2"/>
 			<rightTailLightMultiples value="2"/>
 			<useRealLights value="true"/>
@@ -732,7 +732,6 @@
 					<scaleFactor value="10"/>
 					<flash value="true"/>
 					<light value="true"/>
-					<spotlight value="true"/>
 					<castShadows value="false"/>
 				</Item>
 				<!---police-siren20-->
