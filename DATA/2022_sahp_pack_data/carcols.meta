@@ -48,9 +48,9 @@
 						<start value="0.00000000"/>
 						<speed value="1.00000000"/>
 						<sequencer value="4294967295"/>
-						<multiples value="2"/>
+						<multiples value="1"/>
 						<direction value="true"/>
-						<syncToBpm value="true"/>
+						<syncToBpm value="false"/>
 					</flashiness>
 					<corona>
 						<intensity value="25.00000000"/>
