@@ -823,12 +823,12 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFFFF0300"/>
-					<intensity value="0.5"/>
+					<intensity value="1"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
@@ -860,7 +860,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -897,7 +897,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -934,7 +934,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -971,7 +971,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>

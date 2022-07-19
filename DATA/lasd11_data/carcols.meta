@@ -753,7 +753,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -790,7 +790,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -827,7 +827,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -864,7 +864,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -901,7 +901,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -938,7 +938,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -975,7 +975,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -1012,7 +1012,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -1049,7 +1049,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -1086,7 +1086,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="80"/>
-						<size value="0.05"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
