@@ -52,7 +52,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -89,7 +89,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -274,7 +274,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -311,7 +311,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -348,7 +348,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -385,7 +385,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -422,7 +422,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -459,7 +459,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -496,7 +496,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -533,7 +533,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -570,7 +570,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -607,7 +607,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -644,7 +644,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -681,7 +681,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -718,7 +718,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -755,7 +755,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="10"/>
-						<size value="0.001"/>
+						<size value="2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
