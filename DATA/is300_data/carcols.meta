@@ -1,0 +1,3814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>
+	<Kits>
+		<Item>
+			<kitName>3594_is300_modkit</kitName>
+			<id value="3594"/>
+			<kitType>MKT_SPORT</kitType>
+			<visibleMods>
+				<Item>
+					<modelName>is300_2jz</modelName>
+					<modShopLabel>2JZ-GTE Engine Swap</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+					</turnOffBones>
+					<type>VMT_ENGINEBAY1</type>
+					<bone>chasis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_body</modelName>
+					<modShopLabel>Carbon Front Fender</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_INTERIOR2</type>
+					<bone>chasis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Trim</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>						
+					</turnOffBones>
+					<type>VMT_ENGINEBAY2</type>
+					<bone>chasis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_spliter_1</modelName>
+					<modShopLabel>Spliter</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_ENGINEBAY3</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_spliter_2</modelName>
+					<modShopLabel>Spliter</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_ENGINEBAY3</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_spliter_3</modelName>
+					<modShopLabel>Spliter</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_ENGINEBAY3</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hb_1</modelName>
+					<modShopLabel>Hand Brake</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_HYDRO</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hb_2</modelName>
+					<modShopLabel>Painted Hand Brake</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_HYDRO</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_debadge</modelName>
+					<modShopLabel>Rear Debadge</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>						
+					</turnOffBones>
+					<type>VMT_PLTVANITY</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Rear Debadge</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_PLTVANITY</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_trunk_1</modelName>
+					<modShopLabel>Boot (Paint 2)</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_TRUNK</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_trunk_2</modelName>
+					<modShopLabel>Boot (Carbon)</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_TRUNK</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Boot</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_TRUNK</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_fender_1</modelName>
+					<modShopLabel>BN Rear Arch</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_WING_R</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_fender_2</modelName>
+					<modShopLabel>BN Rear Arch</modShopLabel>
+					<linkedModels>
+						<item>is300_fender_1</item>
+					</linkedModels>
+					<turnOffBones/>
+					<type>VMT_WING_R</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_fender_3</modelName>
+					<modShopLabel>Arch</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_WING_R</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_fender_4</modelName>
+					<modShopLabel>Arch</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_WING_R</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_eyelid_1</modelName>
+					<modShopLabel>Eyelid</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_eyelid_2</modelName>
+					<modShopLabel>Eyelid</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hl_cover_r</modelName>
+					<modShopLabel>Right Headlight Cover</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hl_cover_l</modelName>
+					<modShopLabel>Left Headlight Cover</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hl_cover</modelName>
+					<modShopLabel>Headlight Cover</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hl_coverc</modelName>
+					<modShopLabel>Carbon Headlight Cover</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS2</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_shift_1</modelName>
+					<modShopLabel>Manual Transmission</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_KNOB</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_shift_2</modelName>
+					<modShopLabel>Blitz Shift knob</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_KNOB</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_shift_3</modelName>
+					<modShopLabel>Sequencial Shifter</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_KNOB</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Windows 1</modShopLabel>
+					<linkedModels>
+						<item>is300_win_1</item>
+						<item>is300_winr_1</item>
+						<item>is300_winrf_1</item>
+						<item>is300_winlf_1</item>
+						<item>is300_winrr_1</item>
+						<item>is300_winlr_1</item>
+					</linkedModels>
+					<turnOffBones/>
+					<type>VMT_WING_L</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Windows 2</modShopLabel>
+					<linkedModels>
+						<item>is300_win_2</item>
+						<item>is300_winr_2</item>
+						<item>is300_winrf_2</item>
+						<item>is300_winlf_2</item>
+						<item>is300_winrr_2</item>
+						<item>is300_winlr_2</item>
+					</linkedModels>
+					<turnOffBones/>
+					<type>VMT_WING_L</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Windows 3</modShopLabel>
+					<linkedModels>
+						<item>is300_win_3</item>
+						<item>is300_winr_3</item>
+						<item>is300_winrf_3</item>
+						<item>is300_winlf_3</item>
+						<item>is300_winrr_3</item>
+						<item>is300_winlr_3</item>
+					</linkedModels>
+					<turnOffBones/>
+					<type>VMT_WING_L</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Right Seat</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_1_l</modelName>
+					<modShopLabel>Recaro Seats</modShopLabel>
+					<linkedModels>
+						<item>is300_seat_1_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_1_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_1_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_2_l</modelName>
+					<modShopLabel>Recaro Seats</modShopLabel>
+					<linkedModels>
+						<item>is300_seat_2_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_2_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_2_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_3_l</modelName>
+					<modShopLabel>Recaro Seats</modShopLabel>
+					<linkedModels>
+						<item>is300_seat_3_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_3_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_3_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_4_l</modelName>
+					<modShopLabel>Recaro Seats</modShopLabel>
+					<linkedModels>
+						<item>is300_seat_4_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_4_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_4_l</modelName>
+					<modShopLabel>Left Recaro Seats</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_5_l</modelName>
+					<modShopLabel>Bride X Vertex Zeta III Seats</modShopLabel>
+					<linkedModels>
+						<item>is300_seat_5_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_5_l</modelName>
+					<modShopLabel>Left Bride X Vertex Zeta III</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_5_l</modelName>
+					<modShopLabel>Left Bride X Vertex Zeta III</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_6_l</modelName>
+					<modShopLabel>Recaro Seats</modShopLabel>
+					<linkedModels>
+						<item>is300_seat_6_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_6_l</modelName>
+					<modShopLabel>Left Recaro Seat</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_6_l</modelName>
+					<modShopLabel>Left Recaro Seat</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="1"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_chair</modelName>
+					<modShopLabel>no question</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SEATS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hks</modelName>
+					<modShopLabel>HKS Intercooler</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS5</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_intercooler</modelName>
+					<modShopLabel>Intercooler</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS5</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="4"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>air_freshener_black</modelName>
+					<modShopLabel>Black Air Freshener</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_INTERIOR5</type>
+					<bone>bobble_head</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>air_freshener_lavender</modelName>
+					<modShopLabel>Lavender Air Freshener</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_INTERIOR5</type>
+					<bone>bobble_head</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>air_freshener_spice</modelName>
+					<modShopLabel>Spice Air Freshener</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_INTERIOR5</type>
+					<bone>bobble_head</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_rollcage_1</modelName>
+					<modShopLabel>Roll Cage (Paint 1)</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="30"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_rollcage_2</modelName>
+					<modShopLabel>Roll Cage (Paint 2)</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="30"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_rollcage_3</modelName>
+					<modShopLabel>Roll Cage</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="30"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_1</modelName>
+					<modShopLabel>Purple Nismo Steering Wheel</modShopLabel>
+					<linkedModels>
+			</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_2</modelName>
+					<modShopLabel>ATC Steering Wheel</modShopLabel>
+					<linkedModels>
+			</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_3</modelName>
+					<modShopLabel>Key's Racing Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_4</modelName>
+					<modShopLabel>Pro Spats Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_5</modelName>
+					<modShopLabel>Nardi Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_6</modelName>
+					<modShopLabel>Nardi Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_7</modelName>
+					<modShopLabel>Nardi Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_8</modelName>
+					<modShopLabel>Nardi DriftWorks Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_9</modelName>
+					<modShopLabel>Red Vertex Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_10</modelName>
+					<modShopLabel>Blue Vertex Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_11</modelName>
+					<modShopLabel>Vertex Checker Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_12</modelName>
+					<modShopLabel>Vertex Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_13</modelName>
+					<modShopLabel>Vertex Of Vertex Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_14</modelName>
+					<modShopLabel>Yellow Vertex Speed Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_15</modelName>
+					<modShopLabel>Purple Vertex Speed Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_steering_16</modelName>
+					<modShopLabel>Sukudo Chasers Vertex Steering Wheel</modShopLabel>
+					<linkedModels>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_STEERING</type>
+					<bone>steeringwheel</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_trucknos</modelName>
+					<modShopLabel>Trunk Nos</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_PLAQUE</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_doormat_1</modelName>
+					<modShopLabel>Checker Doormat</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_INTERIOR1</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_doormat_2</modelName>
+					<modShopLabel>Checker Doormat (Paint 2)</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_INTERIOR1</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Doormat</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_INTERIOR1</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_1</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_2</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_3</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_4</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_5</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_6</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_7</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_8</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_exh_9</modelName>
+					<modShopLabel>Custom Exhaust</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>engineblock</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_roofwing_1</modelName>
+					<modShopLabel>Roof Spoiler</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_CHASSIS4</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_lg_1</modelName>
+					<modShopLabel>White Rear Light Cover</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS3</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_lg_2</modelName>
+					<modShopLabel>Black Rear Light Cover</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_CHASSIS3</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_mirror_1_l</modelName>
+					<modShopLabel>Custom Mirror</modShopLabel>
+					<linkedModels>
+						<item>is300_mirror_1_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_DOOR_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_mirror_2_l</modelName>
+					<modShopLabel>Custom Mirror</modShopLabel>
+					<linkedModels>
+						<item>is300_mirror_2_r</item>
+					</linkedModels>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_DOOR_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_mirror_2_l</modelName>
+					<modShopLabel>Custom Mirror</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_DOOR_L</type>
+					<bone>door_dside_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Left Mirror</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_DOOR_L</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Mirror</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_DOOR_L</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_hl_1</modelName>
+					<modShopLabel>Yellow Headlight</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_GRILL</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_1</modelName>
+					<modShopLabel>Top Secret Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_2</modelName>
+					<modShopLabel>Veilside Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_3</modelName>
+					<modShopLabel>Erebuni Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_4</modelName>
+					<modShopLabel>Custom Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_5</modelName>
+					<modShopLabel>Erebuni Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_6</modelName>
+					<modShopLabel>Kaminari Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_7</modelName>
+					<modShopLabel>C-West Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_8</modelName>
+					<modShopLabel>TRD Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_9</modelName>
+					<modShopLabel>ED Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_10</modelName>
+					<modShopLabel>Custom Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_11</modelName>
+					<modShopLabel>BN Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_skirt_12</modelName>
+					<modShopLabel>Vertex Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Side Skirt</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_roof_5</modelName>
+					<modShopLabel>Sunroof</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_roof_1</modelName>
+					<modShopLabel>Custom Roof</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_roof_2</modelName>
+					<modShopLabel>Custom Roof</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_roof_3</modelName>
+					<modShopLabel>Custom Roof</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_roof_4</modelName>
+					<modShopLabel>Custom Roof</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_ROOF</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_plt_1</modelName>
+					<modShopLabel>Front Plate Forward</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_PLTHOLDER</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_plt_2</modelName>
+					<modShopLabel>Front Plate Forward</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_PLTHOLDER</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_plt_4</modelName>
+					<modShopLabel>Front Plate Forward</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_PLTHOLDER</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_plt_3</modelName>
+					<modShopLabel>Windshield Front Plate</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_PLTHOLDER</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Front Plate</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_PLTHOLDER</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_1</modelName>
+					<modShopLabel>Erebuni Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_2</modelName>
+					<modShopLabel>Kaminari Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_3</modelName>
+					<modShopLabel>ED Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_4</modelName>
+					<modShopLabel>Oem Aero Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_5</modelName>
+					<modShopLabel>Top Secret Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_6</modelName>
+					<modShopLabel>Veilside Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_7</modelName>
+					<modShopLabel>Custom Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_8</modelName>
+					<modShopLabel>Erebuni Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_9</modelName>
+					<modShopLabel>C-West Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_10</modelName>
+					<modShopLabel>BN Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_13</modelName>
+					<modShopLabel>BN Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_11</modelName>
+					<modShopLabel>Vertex Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_12</modelName>
+					<modShopLabel>Vertex Endurance Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_14</modelName>
+					<modShopLabel>Vertex Endurance Front Bumper</modShopLabel>
+					<linkedModels>
+						<item>is300_bumf_12</item>
+					</linkedModels>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_12c</modelName>
+					<modShopLabel>Vertex Endurance Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_14</modelName>
+					<modShopLabel>Vertex Endurance Front Bumper</modShopLabel>
+					<linkedModels>
+						<item>is300_bumf_12c</item>
+					</linkedModels>
+					<turnOffBones>
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>bumper_f</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Front Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+						
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_1</modelName>
+					<modShopLabel>Kaminari Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_2</modelName>
+					<modShopLabel>C-West Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_3</modelName>
+					<modShopLabel>Erebuni Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_4</modelName>
+					<modShopLabel>Erebuni Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_5</modelName>
+					<modShopLabel>Erebuni Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_6</modelName>
+					<modShopLabel>Top Secret Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_7</modelName>
+					<modShopLabel>Custom Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_8</modelName>
+					<modShopLabel>ED Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_9</modelName>
+					<modShopLabel>Veilside Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_10</modelName>
+					<modShopLabel>BN Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumr_11</modelName>
+					<modShopLabel>Vertex Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones/>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>bumper_r</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Rear Bumper</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bonnet_4</modelName>
+					<modShopLabel>Carbon Hood</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bonnet_1</modelName>
+					<modShopLabel>C-West Hood</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bonnet_5</modelName>
+					<modShopLabel>C-West Carbon Hood</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bonnet_2</modelName>
+					<modShopLabel>Custom Hood</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_bonnet_3</modelName>
+					<modShopLabel>ED Hood</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Hood</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_1</modelName>
+					<modShopLabel>ED Low Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_2</modelName>
+					<modShopLabel>ED Mid Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_3</modelName>
+					<modShopLabel>Kaminari Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="2"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_4</modelName>
+					<modShopLabel>Erebuni Mid Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="4"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_5</modelName>
+					<modShopLabel>Erebuni High Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="4"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_6</modelName>
+					<modShopLabel>326Power Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="6"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_7</modelName>
+					<modShopLabel>Veilside Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="7"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_8</modelName>
+					<modShopLabel>Drag Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="9"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_21</modelName>
+					<modShopLabel>Drag Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="9"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_9</modelName>
+					<modShopLabel>ED Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="8"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_10</modelName>
+					<modShopLabel>C-West Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="8"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_11</modelName>
+					<modShopLabel>C-West Carbon Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="8"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_12</modelName>
+					<modShopLabel>WINGS WEST Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="9"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_13</modelName>
+					<modShopLabel>WINGS WEST Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="13"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_14</modelName>
+					<modShopLabel>Erebuni Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_4</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="9"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_15</modelName>
+					<modShopLabel>Do-Luck Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_16</modelName>
+					<modShopLabel>Carbon Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_5</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_17</modelName>
+					<modShopLabel>Carbon Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_7</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="14"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_18</modelName>
+					<modShopLabel>C-West Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="7"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_19</modelName>
+					<modShopLabel>C-West Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_6</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="3"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_20</modelName>
+					<modShopLabel>ED Carbon Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_3</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_22</modelName>
+					<modShopLabel>Voltex Circuit III Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_8</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_23</modelName>
+					<modShopLabel>Big Country Labs Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_9</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="30"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_24</modelName>
+					<modShopLabel>Big Country Labs Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_9</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="30"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>is300_wing_25</modelName>
+					<modShopLabel>Big Country Labs Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>mod_col_9</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="30"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+				<Item>
+					<modelName>null</modelName>
+					<modShopLabel>Remove Wing</modShopLabel>
+					<linkedModels/>
+					<turnOffBones>
+						
+					</turnOffBones>
+					<type>VMT_SPOILER</type>
+					<bone>boot</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<turnOffExtra value="false"/>
+					<disableBonnetCamera value="false"/>
+					<allowBonnetSlide value="true"/>
+				</Item>
+			</visibleMods>
+			<linkMods>
+				<Item>
+					<modelName>is300_mirror_1_r</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_mirror_2_r</modelName>
+					<bone>door_pside_f</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_1_r</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_1_l</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_2_r</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_2_l</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_3_r</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_3_l</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_4_r</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_4_l</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_5_r</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_5_l</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_6_r</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_seat_6_l</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winlr_1</modelName>
+					<bone>window_lr</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winrr_1</modelName>
+					<bone>window_rr</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winrf_1</modelName>
+					<bone>window_rf</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winlf_1</modelName>
+					<bone>window_lf</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winr_1</modelName>
+					<bone>windscreen_r</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_win_1</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winlr_2</modelName>
+					<bone>window_lr</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winrr_2</modelName>
+					<bone>window_rr</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winrf_2</modelName>
+					<bone>window_rf</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winlf_2</modelName>
+					<bone>window_lf</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winr_2</modelName>
+					<bone>windscreen_r</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_win_2</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winlr_3</modelName>
+					<bone>window_lr</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winrr_3</modelName>
+					<bone>window_rr</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winrf_3</modelName>
+					<bone>window_rf</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winlf_3</modelName>
+					<bone>window_lf</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_winr_3</modelName>
+					<bone>windscreen_r</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_win_3</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_fender_1</modelName>
+					<bone>chassis</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_12</modelName>
+					<bone>bumper_f</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+				<Item>
+					<modelName>is300_bumf_12c</modelName>
+					<bone>bumper_f</bone>
+					<turnOffExtra value="false"/>
+				</Item>
+			</linkMods>
+			<statMods>
+				<Item>
+					<identifier/>
+					<modifier value="69"/>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="158"/>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="210"/>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="325"/>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="410"/>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="32"/>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="64"/>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="121"/>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="34"/>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="67"/>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="126"/>
+					<audioApply value="1.00000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="20"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="40"/>
+					<audioApply value="1.00000000"/>
+					<weight value="10"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="60"/>
+					<audioApply value="1.00000000"/>
+					<weight value="20"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="80"/>
+					<audioApply value="1.00000000"/>
+					<weight value="30"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="100"/>
+					<audioApply value="1.00000000"/>
+					<weight value="40"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier>HORN_TRUCK</identifier>
+					<modifier value="1766676233"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_COP</identifier>
+					<modifier value="2904189469"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_CLOWN</identifier>
+					<modifier value="2543206147"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_1</identifier>
+					<modifier value="1732399718"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_2</identifier>
+					<modifier value="2046162893"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_3</identifier>
+					<modifier value="2194999691"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_4</identifier>
+					<modifier value="2508304100"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_MUSICAL_5</identifier>
+					<modifier value="3707223535"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HORN_SAD_TROMBONE</identifier>
+					<modifier value="632950117"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="11"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="31"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="43"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="71"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+					<modifier value="3628534289"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+					<modifier value="3892554122"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+					<modifier value="4112892878"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+					<modifier value="116877169"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+					<modifier value="2684983719"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+					<modifier value="2982690084"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+					<modifier value="3203290992"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+					<modifier value="771284519"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+					<modifier value="2586621229"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+					<modifier value="283386134"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+					<modifier value="3884502400"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+					<modifier value="265723083"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+					<modifier value="1746883687"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+					<modifier value="1919870950"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+					<modifier value="1085277077"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_1</identifier>
+					<modifier value="444549672"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_2</identifier>
+					<modifier value="1603064898"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_3</identifier>
+					<modifier value="240366033"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>HIPSTER_HORN_4</identifier>
+					<modifier value="960137118"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_1</identifier>
+					<modifier value="3572144790"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_2</identifier>
+					<modifier value="3801396714"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_3</identifier>
+					<modifier value="2843657151"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>INDEP_HORN_4</identifier>
+					<modifier value="3341811489"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_1</identifier>
+					<modifier value="3199657341"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_2</identifier>
+					<modifier value="2900378064"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXE_HORN_3</identifier>
+					<modifier value="3956195248"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXORY_HORN_1</identifier>
+					<modifier value="676333254"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXURY_HORN_2</identifier>
+					<modifier value="2099578296"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LUXURY_HORN_3</identifier>
+					<modifier value="1373384483"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_01</identifier>
+					<modifier value="2916775806"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+					<modifier value="3714706952"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_02</identifier>
+					<modifier value="2611860261"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+					<modifier value="3206770359"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_1</identifier>
+					<modifier value="310529291"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+					<modifier value="2965568987"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_2</identifier>
+					<modifier value="55291550"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+					<modifier value="965054819"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_01</identifier>
+					<modifier value="55862314"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_01_PREVIEW</identifier>
+					<modifier value="2156743178"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_02</identifier>
+					<modifier value="400002352"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_02_PREVIEW</identifier>
+					<modifier value="897484282"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_03</identifier>
+					<modifier value="560832604"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>XM15_HORN_03_PREVIEW</identifier>
+					<modifier value="314232747"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_01</identifier>
+					<modifier value="3851180092"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_01_Preview</identifier>
+					<modifier value="246182814"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_02</identifier>
+					<modifier value="3412861948"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_02_Preview</identifier>
+					<modifier value="1804608241"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_03</identifier>
+					<modifier value="3374260066"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+				<Item>
+					<identifier>DLC_AW_Airhorn_03_Preview</identifier>
+					<modifier value="2798044638"/>
+					<audioApply value="1.00000000"/>
+					<weight value="0"/>
+					<type>VMT_HORN</type>
+				</Item>
+			</statMods>
+			<slotNames>
+				<Item>
+					<slot>VMT_CHASSIS</slot>
+					<name>TOP_CAGE</name>
+				</Item>
+			</slotNames>
+			<liveryNames/>
+			<livery2Names/>
+		</Item>
+	</Kits>
+	<Lights>
+    
+  </Lights>
+</CVehicleModelInfoVarGlobal>
