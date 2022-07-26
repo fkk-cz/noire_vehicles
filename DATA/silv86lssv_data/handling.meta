@@ -1,55 +1,55 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CHandlingDataMgr>
 	<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>SILV86LSSV</handlingName>
-			<fMass value="2200"/>
-			<fInitialDragCoeff value="5.4"/>
-			<fPercentSubmerged value="76.50"/>
-			<vecCentreOfMassOffset x="0.0" y="0.00" z="0.000"/>
-			<vecInertiaMultiplier x="0.89" y="0.91" z="1.09"/>
-			<fDriveBiasFront value="0.50"/>
-			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.15"/>
-			<fDriveInertia value="0.870"/>
-			<fClutchChangeRateScaleUpShift value="1.440"/>
-			<fClutchChangeRateScaleDownShift value="1.320"/>
-			<fInitialDriveMaxFlatVel value="170.0"/>
-			<fBrakeForce value="0.61"/>
-			<fBrakeBiasFront value="0.500"/>
-			<fHandBrakeForce value="1.40"/>
-			<fSteeringLock value="35"/>
-			<fTractionCurveMax value="1.530"/>
-			<fTractionCurveMin value="1.330"/>
-			<fTractionCurveLateral value="30"/>
-			<fTractionSpringDeltaMax value="0.10"/>
-			<fLowSpeedTractionLossMult value="0.80"/>
-			<fCamberStiffnesss value="0.0"/>
-			<fTractionBiasFront value="0.500"/>
-			<fTractionLossMult value="0.550"/>
-			<fSuspensionForce value="2.00"/>
-			<fSuspensionCompDamp value="1.25"/>
-			<fSuspensionReboundDamp value="0.75"/>
-			<fSuspensionUpperLimit value="0.20"/>
-			<fSuspensionLowerLimit value="-0.120"/>
-			<fSuspensionRaise value="0.125"/>
-			<fSuspensionBiasFront value="0.5000"/>
-			<fAntiRollBarForce value="0.45"/>
-			<fAntiRollBarBiasFront value="0.00"/>
-			<fRollCentreHeightFront value="0.125"/>
-			<fRollCentreHeightRear value="-0.075"/>
-			<fCollisionDamageMult value="1.00"/>
-			<fWeaponDamageMult value="1.00"/>
-			<fDeformationDamageMult value="1.0"/>
-			<fEngineDamageMult value="1.30"/>
-			<fPetrolTankVolume value="70.0"/>
-			<fOilVolume value="6.50"/>
-			<fSeatOffsetDistX value="0.20"/>
-			<fSeatOffsetDistY value="0.0"/>
-			<fSeatOffsetDistZ value="0.0"/>
-			<nMonetaryValue value="35000"/>
-			<strModelFlags>00222011</strModelFlags>
-			<strHandlingFlags>08141404</strHandlingFlags>
+			<fMass value="3900.000000"/>
+			<fInitialDragCoeff value="5.700000"/>
+			<fPercentSubmerged value="100.000000"/>
+			<vecCentreOfMassOffset x="0.000000" y="0.360000" z="-0.534000"/>
+			<vecInertiaMultiplier x="0.450000" y="0.450000" z="0.580000"/>
+			<fDriveBiasFront value="0.50000000"/>
+			<nInitialDriveGears value="5"/>
+			<fInitialDriveForce value="0.200000"/>
+			<fDriveInertia value="0.800000"/>
+			<fClutchChangeRateScaleUpShift value="2.200000"/>
+			<fClutchChangeRateScaleDownShift value="1.800000"/>
+			<fInitialDriveMaxFlatVel value="182.900000"/>
+			<fBrakeForce value="0.765000"/>
+			<fBrakeBiasFront value="0.562500"/>
+			<fHandBrakeForce value="0.750000"/>
+			<fSteeringLock value="36.000000"/>
+			<fTractionCurveMax value="2.000000"/>
+			<fTractionCurveMin value="1.900000"/>
+			<fTractionCurveLateral value="17.000000"/>
+			<fTractionSpringDeltaMax value="0.230000"/>
+			<fLowSpeedTractionLossMult value="0.00000"/>
+			<fCamberStiffnesss value="0.000000"/>
+			<fTractionBiasFront value="0.50000"/>
+			<fTractionLossMult value="0.0000"/>
+			<fSuspensionForce value="0.800000"/>
+			<fSuspensionCompDamp value="0.60000"/>
+			<fSuspensionReboundDamp value="0.100000"/>
+			<fSuspensionUpperLimit value="0.450000"/>
+			<fSuspensionLowerLimit value="-0.270000"/>
+			<fSuspensionRaise value="0.000000"/>
+			<fSuspensionBiasFront value="0.575000"/>
+			<fAntiRollBarForce value="0.000000"/>
+			<fAntiRollBarBiasFront value="0.500000"/>
+			<fRollCentreHeightFront value="0.5000000"/>
+			<fRollCentreHeightRear value="0.500000"/>
+			<fCollisionDamageMult value="1.200000"/>
+			<fWeaponDamageMult value="1.100000"/>
+			<fDeformationDamageMult value="1.200000"/>
+			<fEngineDamageMult value="1.600000"/>
+			<fPetrolTankVolume value="80.000000"/>
+			<fOilVolume value="8.000000"/>
+			<fSeatOffsetDistX value="0.000000"/>
+			<fSeatOffsetDistY value="0.000000"/>
+			<fSeatOffsetDistZ value="0.000000"/>
+			<nMonetaryValue value="50000"/>
+			<strModelFlags>220010</strModelFlags>
+			<strHandlingFlags>420100</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>TRUCK</AIHandling>
 			<SubHandlingData>

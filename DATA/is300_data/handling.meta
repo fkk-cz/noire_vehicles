@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>IS300</handlingName>
 			<fMass value="1800"/>
-			<fInitialDragCoeff value="5.5"/>
+			<fInitialDragCoeff value="3.7"/>
 			<fPercentSubmerged value="85"/>
 			<vecCentreOfMassOffset x="0" y="0" z="0.05"/>
 			<vecInertiaMultiplier x="1" y="1.1" z="1.85"/>
 			<fDriveBiasFront value="0.0"/>
 			<nInitialDriveGears value="5"/>
-			<fInitialDriveForce value="0.225"/>
+			<fInitialDriveForce value="0.30"/>
 			<fDriveInertia value="1.0"/>
 			<fClutchChangeRateScaleUpShift value="2.3"/>
 			<fClutchChangeRateScaleDownShift value="2.3"/>
