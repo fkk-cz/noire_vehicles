@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>TOWTRUCK</audioNameHash>
+      <audioNameHash>guardian</audioNameHash>
       <layout>LAYOUT_BISON</layout>
       <coverBoundOffsets>TOWTRUCK2_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
