@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CVehicleModelInfoVarGlobal>
   <Kits>
-    <Item><!--726_F10M5_MODKIT-->
-      <kitName>726_f10m5_modkit</kitName>
-      <id value="726"/>
+    <Item><!--1482_F10M5_MODKIT-->
+      <kitName>1482_f10m5_modkit</kitName>
+      <id value="1482"/>
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 		<Item><!--ANTENNAS START HERE-->
