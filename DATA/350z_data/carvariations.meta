@@ -2,16 +2,6 @@
 
 <CVehicleModelInfoVariation>
   <variationData> 
-
-
-
-
-
-
-
-
-
-
     <Item>
       <modelName>350z</modelName>
       <colors>
@@ -35,7 +25,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>1012_350z_modkit</Item>
+        <Item>1874_350z_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
