@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>688_infinitig35_modkit</kitName>
-			<id value="688"/>
+			<kitName>1294_infinitig35_modkit</kitName>
+			<id value="1294"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
