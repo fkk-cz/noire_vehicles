@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>krieger</audioNameHash>
+			<audioNameHash>lfasound</audioNameHash>
 			<layout>LAYOUT_LOW_RESTRICTED</layout>
 			<coverBoundOffsets>811_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
