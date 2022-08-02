@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal> 
-
-
-
-
-
-
-
-
-
   <Kits>
     <Item>
-      <kitName>1012_350z_modkit</kitName>
-      <id value="1012" />	 	  
+      <kitName>1874_350z_modkit</kitName>
+      <id value="1874" />	 	  
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
 	     <Item>

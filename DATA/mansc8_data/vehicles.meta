@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>mansc8</modelName>
 			<txdName>mansc8</txdName>
-			<handlingId>c8</handlingId>
+			<handlingId>MANSC8</handlingId>
 			<gameName>mansc8</gameName>
 			<vehicleMakeName>CHEVROLET</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
