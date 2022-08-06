@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_CAN_HAVE_NEONS FLAG_HAS_LIVERY FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
+			<flags>FLAG_CAN_HAVE_NEONS FLAG_RECESSED_TAILLIGHT_CORONAS</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_ZTYPE</dashboardType>
