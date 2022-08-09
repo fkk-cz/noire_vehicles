@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>1647_765lt_modkit</kitName>
-			<id value="1647"/>
+			<kitName>1483_765lt_modkit</kitName>
+			<id value="1483"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
