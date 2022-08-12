@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>TYRUS</audioNameHash>
+			<audioNameHash>T20</audioNameHash>
 			<layout>LAYOUT_LOW_INFERNUS</layout>
 			<coverBoundOffsets>TYRUS_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
