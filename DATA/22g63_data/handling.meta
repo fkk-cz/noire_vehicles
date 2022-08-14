@@ -5,10 +5,10 @@
 			<!--22G63 HANDLING STARTS HERE-->
 			<handlingName>22G63</handlingName>
 			<fMass value="2200.000000"/>
-			<fInitialDragCoeff value="4.499979"/>
+			<fInitialDragCoeff value="2.499979"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
-			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.250000"/>
+			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.30000"/>
 			<fDriveBiasFront value="0.500000"/>
 			<nInitialDriveGears value="5"/>
 			<fInitialDriveForce value="0.260000"/>
