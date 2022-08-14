@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>p1gtr</modelName>
 			<txdName>p1gtr</txdName>
-			<handlingId>TYRUS</handlingId>
+			<handlingId>p1gtr</handlingId>
 			<gameName>p1gtr</gameName>
 			<vehicleMakeName>MCLAREN</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>TYRUS</audioNameHash>
+			<audioNameHash>T20</audioNameHash>
 			<layout>LAYOUT_LOW_INFERNUS</layout>
 			<coverBoundOffsets>TYRUS_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
