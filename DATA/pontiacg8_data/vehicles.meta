@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>pontiacg8</modelName>
 			<txdName>pontiacg8</txdName>
-			<handlingId>NINEF</handlingId>
+			<handlingId>pontiacg8</handlingId>
 			<gameName>pontiacg8</gameName>
 			<vehicleMakeName>PONTIAC</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>FUGITIVE</audioNameHash>
+			<audioNameHash>c6v8sound</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>NINEF_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
