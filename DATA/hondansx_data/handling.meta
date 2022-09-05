@@ -52,6 +52,7 @@
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
+			<fPopUpLightRotation value="21"/>
 			<SubHandlingData>
 				<Item type="CCarHandlingData">
 					<fBackEndPopUpCarImpulseMult value="0.075000"/>
