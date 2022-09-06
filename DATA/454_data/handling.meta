@@ -32,7 +32,7 @@
 			<fSuspensionReboundDamp value="3.3000000"/>
 			<fSuspensionUpperLimit value="0.030000"/>
 			<fSuspensionLowerLimit value="-0.040000"/>
-			<fSuspensionRaise value="-0.100000"/>
+			<fSuspensionRaise value="0.00000"/>
 			<fSuspensionBiasFront value="0.500000"/>
 			<fAntiRollBarForce value="0.200000"/>
 			<fAntiRollBarBiasFront value="0.500000"/>
