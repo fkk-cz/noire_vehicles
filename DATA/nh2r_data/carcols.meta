@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal> 
   <Kits>
     <Item>
-      <kitName>1020_nh2r_modkit</kitName>
-      <id value="1020" />	 	  
+      <kitName>1420_nh2r_modkit</kitName>
+      <id value="1420" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 		<Item>
