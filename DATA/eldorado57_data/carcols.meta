@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal> 
-   
-   
-   
    <Kits>
   </Kits>
-  
    <Lights>
     <Item>
-      <id value="499"/>
+      <kitName>1499_eldorado57_modkit</kitName>
+      <id value="1499"/>
       <indicator>
         <intensity value="0.3"/>
         <falloffMax value="2.5"/>
