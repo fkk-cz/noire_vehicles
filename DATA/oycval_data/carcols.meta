@@ -3,7 +3,7 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>1648_oycvla_modkit</kitName>
+      <kitName>1648_oycval_modkit</kitName>
       <id value="1648" />	 	  
       <kitType>MKT_SPECIAL</kitType>
             <visibleMods>
