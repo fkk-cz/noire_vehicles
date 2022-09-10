@@ -12,7 +12,7 @@
 			<fDriveBiasFront value="0.0"/>
 			<nInitialDriveGears value="4"/>
 			<!--- GM Controlled Coupling Hydra-Matic -->
-			<fInitialDriveForce value="0.13"/>
+			<fInitialDriveForce value="0.20"/>
 			<fDriveInertia value="0.4"/>
 			<fClutchChangeRateScaleUpShift value="1.3"/>
 			<fClutchChangeRateScaleDownShift value="1.2"/>
