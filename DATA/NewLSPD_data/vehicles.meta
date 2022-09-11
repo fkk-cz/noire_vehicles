@@ -138,7 +138,7 @@
 		<Item>
 			<modelName>14lspdcharger</modelName>
 			<txdName>14lspdcharger</txdName>
-			<handlingId>14lspdcharger</handlingId>
+			<handlingId>14pdcharger</handlingId>
 			<gameName>14lspdcharger</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -405,7 +405,7 @@
 		<Item>
 			<modelName>10lspdcharger</modelName>
 			<txdName>10lspdcharger</txdName>
-			<handlingId>10lspdcharger</handlingId>
+			<handlingId>14pdcharger</handlingId>
 			<gameName>10lspdcharger</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
