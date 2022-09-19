@@ -1,6 +1,6 @@
 name: 🐞 Vehicle Issue
 description: Report an issue with a vehicle
-title: "Exact name of vehicle, as displayed in game"
+title: "[Exact name of vehicle, as displayed in game]: "
 body:
 - type: checkboxes
   attributes:
