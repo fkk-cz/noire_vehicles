@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>916_gmt900escalade_modkit</kitName>
-			<id value="916"/>
+			<kitName>1834_gmt900escalade_modkit</kitName>
+			<id value="1834"/>
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 			</visibleMods>
