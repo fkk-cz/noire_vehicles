@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims/>
+	<InitDatas>
+		<Item>
+			<modelName>sheriffmav</modelName>
+			<txdName>sheriffmav</txdName>
+			<handlingId>sheriffmav</handlingId>
+			<gameName>sheriffmav</gameName>
+			<vehicleMakeName/>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected/>
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash/>
+			<layout>LAYOUT_HELI_SWIFT</layout>
+			<coverBoundOffsets>ANNIHILATOR_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout/>
+			<cameraName>FOLLOW_HELI_CAMERA</cameraName>
+			<aimCameraName>HELI_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>ANNIHILATOR_BONNET_CAMERA</bonnetCameraName>
+			<povCameraName>ANNIHILATOR_POV_CAMERA</povCameraName>
+			<FirstPersonDriveByIKOffset x="0.035000" y="-0.215000" z="-0.018000"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.040000" z="-0.128000"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.050000" z="-0.035000"/>
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.040000" z="-0.128000"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonMobilePhoneOffset x="0.190000" y="0.345000" z="0.490000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.190000" y="0.283000" z="0.448000"/>
+			<FirstPersonMobilePhoneSeatIKOffset>
+				<Item>
+					<Offset x="-0.504000" y="-0.143000" z="0.478000"/>
+					<SeatIndex value="2"/>
+				</Item>
+				<Item>
+					<Offset x="0.599000" y="-0.448000" z="0.466000"/>
+					<SeatIndex value="3"/>
+				</Item>
+			</FirstPersonMobilePhoneSeatIKOffset>
+			<PovCameraOffset x="0.000000" y="-0.050000" z="0.625000"/>
+			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
+			<PovPassengerCameraOffset x="0.000000" y="0.030000" z="0.055000"/>
+			<PovRearPassengerCameraOffset x="0.000000" y="0.030000" z="0.055000"/>
+			<vfxInfoName>VFXVEHICLEINFO_HELI_ANNIHILATOR</vfxInfoName>
+			<shouldUseCinematicViewMode value="true"/>
+			<shouldCameraTransitionOnClimbUpDown value="false"/>
+			<shouldCameraIgnoreExiting value="false"/>
+			<AllowPretendOccupants value="false"/>
+			<AllowJoyriding value="true"/>
+			<AllowSundayDriving value="true"/>
+			<AllowBodyColorMapping value="true"/>
+			<wheelScale value="0.200100"/>
+			<wheelScaleRear value="0.117600"/>
+			<dirtLevelMin value="0.000000"/>
+			<dirtLevelMax value="0.450000"/>
+			<envEffScaleMin value="0.000000"/>
+			<envEffScaleMax value="0.200000"/>
+			<envEffScaleMin2 value="0.000000"/>
+			<envEffScaleMax2 value="0.200000"/>
+			<damageMapScale value="0.300000"/>
+			<damageOffsetScale value="1.000000"/>
+			<diffuseTint value="0x00FFFFFF"/>
+			<steerWheelMult value="1.000000"/>
+			<HDTextureDist value="5.000000"/>
+			<lodDistances content="float_array">
+				25.000000
+				35.000000
+				100.000000
+				200.000000
+				1000.000000
+				1000.000000
+			</lodDistances>
+			<minSeatHeight value="0.969"/>
+			<identicalModelSpawnDistance value="20"/>
+			<maxNumOfSameColor value="10"/>
+			<defaultBodyHealth value="1000.000000"/>
+			<pretendOccupantsScale value="1.000000"/>
+			<visibleSpawnDistScale value="1.500000"/>
+			<trackerPathWidth value="2.000000"/>
+			<weaponForceMult value="1.000000"/>
+			<frequency value="100"/>
+			<swankness>SWANKNESS_4</swankness>
+			<maxNum value="999"/>
+			<flags>FLAG_NO_BOOT FLAG_LAW_ENFORCEMENT FLAG_DRIVER_NO_DRIVE_BY FLAG_NO_RESPRAY FLAG_ALLOWS_RAPPEL FLAG_DONT_SPAWN_IN_CARGEN FLAG_DONT_SPAWN_AS_AMBIENT FLAG_DONT_TIMESLICE_WHEELS FLAG_DISABLE_WEAPON_WHEEL_IN_FIRST_PERSON FLAG_USE_PILOT_HELMET</flags>
+			<type>VEHICLE_TYPE_HELI</type>
+			<plateType>VPT_NONE</plateType>
+			<dashboardType>VDT_MAVERICK</dashboardType>
+			<vehicleClass>VC_HELICOPTER</vehicleClass>
+			<wheelType>VWT_SPORT</wheelType>
+			<trailers/>
+			<additionalTrailers/>
+			<drivers>
+				<Item>
+					<driverName>s_m_y_swat_01</driverName>
+					<npcName/>
+				</Item>
+			</drivers>
+			<extraIncludes/>
+			<doorsWithCollisionWhenClosed/>
+			<driveableDoors/>
+			<bumpersNeedToCollideWithMap value="false"/>
+			<needsRopeTexture value="true"/>
+			<requiredExtras/>
+			<rewards>
+				<Item>REWARD_WEAPON_SNIPERRIFLE</Item>
+				<Item>REWARD_AMMO_SNIPERRIFLE</Item>
+				<Item>REWARD_STAT_WEAPON</Item>
+			</rewards>
+			<cinematicPartCamera>
+				<Item>HELI_REAR_ROTOR_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet/>
+			<buoyancySphereOffset x="0.000000" y="0.000000" z="-0.500000"/>
+			<buoyancySphereSizeScale value="0.900000"/>
+			<pOverrideRagdollThreshold type="NULL"/>
+			<firstPersonDrivebyData>
+				<Item>STD_FRONT_LEFT</Item>
+				<Item>HELI_ANNIHILATOR_FRONT_RIGHT</Item>
+				<Item>HELI_LEFT_SIDE_PASSENGER</Item>
+				<Item>HELI_RIGHT_SIDE_PASSENGER</Item>
+				<Item>HELI_FROGGER_REAR_LEFT</Item>
+				<Item>HELI_FROGGER_REAR_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
+	</InitDatas>
+	<txdRelationships>
+		<Item>
+			<parent>vehicles_jet_interior</parent>
+			<child>kj2000</child>
+		</Item>
+	</txdRelationships>
+</CVehicleModelInfo__InitDataList>
