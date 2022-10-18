@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>lspdunm</modelName>
 			<txdName>lspdunm</txdName>
-			<handlingId>CHPchar</handlingId>
+			<handlingId>lspdunm</handlingId>
 			<gameName>lspdunm</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
