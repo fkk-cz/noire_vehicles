@@ -6,7 +6,7 @@
 		<Item>
 			<modelName>lapd16</modelName>
 			<txdName>lapd16</txdName>
-			<handlingId>LASDE</handlingId>
+			<handlingId>lapd16</handlingId>
 			<gameName>lapd16</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -105,12 +105,15 @@
 					<npcName/>
 				</Item>
 			</drivers>
-			<extraIncludes/>
+			<extraIncludes>
+				<Item>EXTRA_1</Item>
+				<Item>EXTRA_2</Item>
+			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras/>
+			<requiredExtras>EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
