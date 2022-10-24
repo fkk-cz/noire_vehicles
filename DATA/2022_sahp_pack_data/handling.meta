@@ -246,9 +246,9 @@
 			<fSteeringLock value="40.000000"/>
 			<fTractionCurveMax value="2.650000"/>
 			<fTractionCurveMin value="2.150000"/>
-			<fTractionCurveLateral value="26.000000"/>
+			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.130000"/>
-			<fLowSpeedTractionLossMult value="0.800000"/>
+			<fLowSpeedTractionLossMult value="0.3500000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.490000"/>
 			<fTractionLossMult value="0.200000"/>
