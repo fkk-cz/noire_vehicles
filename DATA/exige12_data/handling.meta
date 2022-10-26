@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>exige12</handlingName>
 			<fMass value="1800.0" />
-			<fInitialDragCoeff value="8.1" />
+			<fInitialDragCoeff value="3.0" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />
