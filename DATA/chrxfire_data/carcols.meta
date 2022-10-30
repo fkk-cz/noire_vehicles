@@ -7,66 +7,6 @@
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
-          <modelName>chrxfire_livery1</modelName>
-          <modShopLabel>chrxfire_livery1</modShopLabel>
-          <linkedModels />
-          <turnOffBones />
-          <type>VMT_LIVERY_MOD</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-        <Item>
-          <modelName>chrxfire_livery2</modelName>
-          <modShopLabel>chrxfire_livery2</modShopLabel>
-          <linkedModels />
-          <turnOffBones />
-          <type>VMT_LIVERY_MOD</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-        <Item>
-          <modelName>chrxfire_livery3</modelName>
-          <modShopLabel>chrxfire_livery3</modShopLabel>
-          <linkedModels />
-          <turnOffBones />
-          <type>VMT_LIVERY_MOD</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-        <Item>
-          <modelName>chrxfire_livery4</modelName>
-          <modShopLabel>chrxfire_livery4</modShopLabel>
-          <linkedModels />
-          <turnOffBones />
-          <type>VMT_LIVERY_MOD</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <turnOffExtra value="false" />
-          <disableBonnetCamera value="false" />
-          <allowBonnetSlide value="true" />
-        </Item>
-        <Item>
           <modelName>chrxfire_skirt</modelName>
           <modShopLabel>chrxfire_skirt</modShopLabel>
           <linkedModels/>

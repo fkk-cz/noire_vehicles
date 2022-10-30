@@ -7,36 +7,6 @@
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
-					<modelName>mazrx7fb_liv1</modelName>
-					<modShopLabel>mazrx7fb_liv1</modShopLabel>
-					<linkedModels/>
-					<turnOffBones/>
-					<type>VMT_LIVERY_MOD</type>
-					<bone>chassis</bone>
-					<collisionBone>chassis</collisionBone>
-					<cameraPos>VMCP_DEFAULT</cameraPos>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<turnOffExtra value="false"/>
-					<disableBonnetCamera value="false"/>
-					<allowBonnetSlide value="true"/>
-				</Item>
-				<Item>
-					<modelName>mazrx7fb_liv2</modelName>
-					<modShopLabel>mazrx7fb_liv2</modShopLabel>
-					<linkedModels/>
-					<turnOffBones/>
-					<type>VMT_LIVERY_MOD</type>
-					<bone>chassis</bone>
-					<collisionBone>chassis</collisionBone>
-					<cameraPos>VMCP_DEFAULT</cameraPos>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<turnOffExtra value="false"/>
-					<disableBonnetCamera value="false"/>
-					<allowBonnetSlide value="true"/>
-				</Item>
-				<Item>
 					<modelName>mazrx7fb_bumf1</modelName>
 					<modShopLabel>mazrx7fb_bumf1</modShopLabel>
 					<linkedModels/>

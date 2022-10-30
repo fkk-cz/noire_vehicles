@@ -7,36 +7,6 @@
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
-					<modelName>audquattros_livery1</modelName>
-					<modShopLabel>audquattros_livery1</modShopLabel>
-					<linkedModels/>
-					<turnOffBones/>
-					<type>VMT_LIVERY_MOD</type>
-					<bone>chassis</bone>
-					<collisionBone>chassis</collisionBone>
-					<cameraPos>VMCP_DEFAULT</cameraPos>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<turnOffExtra value="false"/>
-					<disableBonnetCamera value="false"/>
-					<allowBonnetSlide value="true"/>
-				</Item>
-				<Item>
-					<modelName>audquattros_livery2</modelName>
-					<modShopLabel>audquattros_livery2</modShopLabel>
-					<linkedModels/>
-					<turnOffBones/>
-					<type>VMT_LIVERY_MOD</type>
-					<bone>chassis</bone>
-					<collisionBone>chassis</collisionBone>
-					<cameraPos>VMCP_DEFAULT</cameraPos>
-					<audioApply value="1.000000"/>
-					<weight value="0"/>
-					<turnOffExtra value="false"/>
-					<disableBonnetCamera value="false"/>
-					<allowBonnetSlide value="true"/>
-				</Item>
-				<Item>
 					<modelName>audquattros_seats</modelName>
 					<modShopLabel>audquattros_seats</modShopLabel>
 					<linkedModels/>
