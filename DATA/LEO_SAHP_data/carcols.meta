@@ -291,7 +291,7 @@
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
 			<textureName>VehicleLight_sirenlight</textureName>
-			<sequencerBpm value="170"/>
+			<sequencerBpm value="200"/>
 			<leftHeadLight>
 				<sequencer value="0"/>
 			</leftHeadLight>
@@ -1062,7 +1062,7 @@
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
 			<textureName>VehicleLight_sirenlight</textureName>
-			<sequencerBpm value="170"/>
+			<sequencerBpm value="200"/>
 			<leftHeadLight>
 				<sequencer value="0"/>
 			</leftHeadLight>
@@ -1833,7 +1833,7 @@
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
 			<textureName>VehicleLight_sirenlight</textureName>
-			<sequencerBpm value="170"/>
+			<sequencerBpm value="200"/>
 			<leftHeadLight>
 				<sequencer value="0"/>
 			</leftHeadLight>
@@ -2604,7 +2604,7 @@
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
 			<textureName>VehicleLight_sirenlight</textureName>
-			<sequencerBpm value="170"/>
+			<sequencerBpm value="200"/>
 			<leftHeadLight>
 				<sequencer value="0"/>
 			</leftHeadLight>
@@ -3375,7 +3375,7 @@
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
 			<textureName>VehicleLight_sirenlight</textureName>
-			<sequencerBpm value="170"/>
+			<sequencerBpm value="200"/>
 			<leftHeadLight>
 				<sequencer value="0"/>
 			</leftHeadLight>

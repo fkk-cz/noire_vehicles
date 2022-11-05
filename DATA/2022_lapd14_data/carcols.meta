@@ -13,7 +13,7 @@
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
 			<textureName>VehicleLight_sirenlight</textureName>
-			<sequencerBpm value="550"/>
+			<sequencerBpm value="500"/>
 			<leftHeadLight>
 				<sequencer value="0"/>
 			</leftHeadLight>
