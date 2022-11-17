@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+     <Item>
+      <modelName>willys50w</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">  <!-- Tunisian Red -->
+            167
+            33
+            0
+            167
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Emerald Green -->
+            51
+            51
+            0
+            51
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">  <!-- Copper Bronze Metallic -->
+            103
+            97
+            94
+            103
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

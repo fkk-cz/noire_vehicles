@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>chevette</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Wimbledon White -->
+            111
+            0
+            3
+			111
+            3
+			3
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Arcadian Blue -->
+            67
+            0
+            3
+            67
+			98
+			127
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Frost -->
+            4
+            0
+            0
+            4
+			94
+			3
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Raven Black -->
+            0 
+            0
+            0
+			0
+            27
+			27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Nightmist Blue -->
+            157
+            0
+            63
+			157
+            73
+			73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sauterne Gold -->
+            159
+            0
+            3
+			159
+            94
+			94
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Tahoe Turquoise -->
+            74
+            0
+            111
+			74
+            3
+			3
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Silver Blue -->
+            7
+            0
+            3
+			7
+            73
+			73
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Antique Bronze -->
+            165
+            0
+            165
+            165
+			99
+			99
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Ivy Green -->
+            49
+            0
+            3
+			49
+            94
+			94
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Rangoon Red -->
+            27
+            0
+            1
+			27
+            27
+			27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Vintage Burgundy -->
+            31
+            0
+            3
+			31
+            27
+			27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sahara Beige -->
+            107
+            0
+            3
+			107
+            104
+			104
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Raven Black w/ red interior -->
+            0
+            0
+            0
+			0
+            27
+			27
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Triple Raven Black -->
+            0
+            0
+            0
+			0
+            0
+			27
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>726_chevette_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
