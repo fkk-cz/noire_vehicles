@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+<Item>
+      <modelName>nhp2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1652" />
+   </Item>
+<Item>
+      <modelName>nhp2s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1653" />
+   </Item>
+<Item>
+      <modelName>nhp3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1654" />
+   </Item>
+<Item>
+      <modelName>nhp3s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1655" />
+	  </Item>
+   <Item>
+      <modelName>nhp1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			28
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1656" />
+   </Item>
+<Item>
+      <modelName>nhp1s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			28
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1657" />
+   </Item>
+<Item>
+      <modelName>nhp8</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1658" />
+   </Item>
+     <Item>
+      <modelName>nhp8s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1659" />
+   </Item>
+   <Item>
+      <modelName>nhp9</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1660" />
+   </Item>
+      <Item>
+      <modelName>nhp4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1661" />
+   </Item>
+   <Item>
+      <modelName>nhp4s</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1662" />
+   </Item>
+    <Item>
+      <modelName>nhp10</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+			111
+			0
+			1
+			0
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1669" />
+   </Item>
+
+   <Item>
+      <modelName>nhp41</modelName>
+      <colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate 2</Name>
+            <Value value="50"/>
+          </Item>
+          <Item>
+            <Name>Police guv plate 3</Name>
+            <Value value="50"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="2000"/>
+</Item>
+<Item>
+      <modelName>nhp42</modelName>
+      <colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		67
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>		
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate 2</Name>
+            <Value value="50"/>
+          </Item>
+          <Item>
+            <Name>Police guv plate 3</Name>
+            <Value value="50"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="2000"/>
+</Item>
+<Item>
+	<modelName>nhp43</modelName>
+	<colors>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		111
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		112
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0	
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		5
+		</indices>
+		<liveries />
+	</Item>	
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		3
+		</indices>
+		<liveries />
+	</Item>
+	<Item>
+		<indices content="char_array">
+		0
+		0
+		0
+		0
+		107
+		</indices>
+		<liveries />
+	</Item>
+	</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+	<windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="10"/>
+          </Item>		
+          <Item>
+            <Name>Police guv plate 2</Name>
+            <Value value="90"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+	<lightSettings value="1" />
+	<sirenSettings value="2000" />
+</Item>
+    </variationData>
+</CVehicleModelInfoVariation>
