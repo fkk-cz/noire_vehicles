@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
 	<Sirens>
 		<Item>
-			<id value="1652"/>
+			<id value="11652"/>
 			<!--Custom siren 16 Explorer-->
 			<name>2016explorer</name>
 			<timeMultiplier value="1.00000000"/>
@@ -1546,7 +1546,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="1654"/>
+			<id value="11654"/>
 			<!--Custom siren 15 Explorer-->
 			<name>2015explorer</name>
 			<timeMultiplier value="1.00000000"/>
@@ -5406,7 +5406,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="1659"/>
+			<id value="11659"/>
 			<!--Custom siren 2010 Charger Slick-->
 			<name>2010chargers</name>
 			<timeMultiplier value="1.00000000"/>
@@ -6950,7 +6950,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="1661"/>
+			<id value="11661"/>
 			<!--Custom siren 2011 CVPI-->
 			<name>2011CVPI</name>
 			<timeMultiplier value="1.00000000"/>
@@ -8494,7 +8494,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="1669"/>
+			<id value="11669"/>
 			<!--Custom siren mustang-->
 			<name>chpmustang</name>
 			<timeMultiplier value="1.00000000"/>
