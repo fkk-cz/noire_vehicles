@@ -38,7 +38,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="1652" />
+      <sirenSettings value="11652" />
    </Item>
 <Item>
       <modelName>nhp2s</modelName>
@@ -116,7 +116,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="1654" />
+      <sirenSettings value="11654" />
    </Item>
 <Item>
       <modelName>nhp3s</modelName>
@@ -235,45 +235,6 @@
       <lightSettings value="1" />
       <sirenSettings value="1657" />
    </Item>
-<Item>
-      <modelName>nhp8</modelName>
-      <colors>
-        <Item>
-          <indices content="char_array">
-            0
-			111
-			0
-			1
-			0
-			0
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-      </colors>
-      <kits>
-        <Item>0_default_modkit</Item>
-      </kits>
-      <windowsWithExposedEdges />
-      <plateProbabilities>
-        <Probabilities>
-          <Item>
-            <Name>Police guv plate</Name>
-            <Value value="100" />
-          </Item>
-        </Probabilities>
-      </plateProbabilities>
-      <lightSettings value="1" />
-      <sirenSettings value="1658" />
-   </Item>
      <Item>
       <modelName>nhp8s</modelName>
       <colors>
@@ -311,46 +272,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="1659" />
-   </Item>
-   <Item>
-      <modelName>nhp9</modelName>
-      <colors>
-        <Item>
-          <indices content="char_array">
-            0
-			111
-			0
-			1
-			0
-			0
-          </indices>
-          <liveries>
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-            <Item value="false" />
-          </liveries>
-        </Item>
-      </colors>
-      <kits>
-        <Item>0_default_modkit</Item>
-      </kits>
-      <windowsWithExposedEdges />
-      <plateProbabilities>
-        <Probabilities>
-          <Item>
-            <Name>Police guv plate</Name>
-            <Value value="100" />
-          </Item>
-        </Probabilities>
-      </plateProbabilities>
-      <lightSettings value="1" />
-      <sirenSettings value="1660" />
+      <sirenSettings value="11659" />
    </Item>
       <Item>
       <modelName>nhp4</modelName>
@@ -389,7 +311,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="1661" />
+      <sirenSettings value="11661" />
    </Item>
    <Item>
       <modelName>nhp4s</modelName>
@@ -467,7 +389,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="1669" />
+      <sirenSettings value="11669" />
    </Item>
 
    <Item>
