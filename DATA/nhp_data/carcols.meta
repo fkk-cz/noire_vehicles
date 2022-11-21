@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
 	<Sirens>
 		<Item>
-			<id value="11652"/>
+			<id value="6521"/>
 			<!--Custom siren 16 Explorer-->
 			<name>2016explorer</name>
 			<timeMultiplier value="1.00000000"/>
@@ -1546,7 +1546,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="11654"/>
+			<id value="6541"/>
 			<!--Custom siren 15 Explorer-->
 			<name>2015explorer</name>
 			<timeMultiplier value="1.00000000"/>
@@ -5406,7 +5406,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="11659"/>
+			<id value="6591"/>
 			<!--Custom siren 2010 Charger Slick-->
 			<name>2010chargers</name>
 			<timeMultiplier value="1.00000000"/>
