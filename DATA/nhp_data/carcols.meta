@@ -5406,7 +5406,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="6159"/>
+			<id value="248"/>
 			<!--Custom siren 2010 Charger Slick-->
 			<name>2010chargers</name>
 			<timeMultiplier value="1.00000000"/>
@@ -6950,7 +6950,7 @@
 			</sirens>
 		</Item>
 		<Item>
-			<id value="11661"/>
+			<id value="273"/>
 			<!--Custom siren 2011 CVPI-->
 			<name>2011CVPI</name>
 			<timeMultiplier value="1.00000000"/>
