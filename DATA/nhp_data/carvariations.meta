@@ -272,7 +272,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="248" />
+      <sirenSettings value="1248" />
    </Item>
       <Item>
       <modelName>nhp4</modelName>
@@ -311,7 +311,7 @@
         </Probabilities>
       </plateProbabilities>
       <lightSettings value="1" />
-      <sirenSettings value="273" />
+      <sirenSettings value="1273" />
    </Item>
    <Item>
       <modelName>nhp4s</modelName>
