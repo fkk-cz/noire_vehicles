@@ -103,13 +103,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_10 EXTRA_1</Item>
+				<Item>EXTRA_10 EXTRA_1 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_10 EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_10 EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -230,13 +230,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6 EXTRA_2 EXTRA_4 EXTRA_5</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6 EXTRA_2 EXTRA_4 EXTRA_5</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -357,13 +357,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_10 EXTRA_1</Item>
+				<Item>EXTRA_10 EXTRA_1 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_10 EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_10 EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -484,13 +484,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_6 EXTRA_1</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_6 EXTRA_1 EXTRA_2 EXTRA_4 EXTRA_5</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_6 EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_6 EXTRA_1 EXTRA_2 EXTRA_4 EXTRA_5</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -611,13 +611,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_10 EXTRA_1</Item>
+				<Item>EXTRA_10 EXTRA_1 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_10 EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_10 EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -738,13 +738,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_1 EXTRA_6 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -865,13 +865,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_1 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -896,7 +896,7 @@
 			<modelName>nhp4</modelName>
 			<!--2011 cvpi with lightbar-->
 			<txdName>nhp4</txdName>
-			<handlingId>CHPcvpi</handlingId>
+			<handlingId>CHPcvpi2</handlingId>
 			<gameName>nhp4</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -992,13 +992,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_10 EXTRA_4 EXTRA_5</Item>
+				<Item>EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_10 EXTRA_4 EXTRA_5</requiredExtras>
+			<requiredExtras>EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -1023,7 +1023,7 @@
 			<modelName>nhp4s</modelName>
 			<!--2011 cvpi slicktop-->
 			<txdName>nhp4s</txdName>
-			<handlingId>CHPcvpi</handlingId>
+			<handlingId>CHPcvpi2</handlingId>
 			<gameName>nhp4s</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -1119,13 +1119,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -1258,7 +1258,7 @@
 			<modelName>nhp41</modelName>
 			<!--1991/92 cvpi rotator-->
 			<txdName>nhp41</txdName>
-			<handlingId>CHPcvpi</handlingId>
+			<handlingId>CHPcvpi2</handlingId>
 			<gameName>SAHP21</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -1358,13 +1358,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_1</Item>
+				<Item>EXTRA_1 EXTRA_12 EXTRA_8</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_1 EXTRA_12 EXTRA_8</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -1391,7 +1391,7 @@
 			<modelName>nhp42</modelName>
 			<!--1997 cvpi rotator-->
 			<txdName>nhp42</txdName>
-			<handlingId>CHPcvpi</handlingId>
+			<handlingId>CHPcvpi2</handlingId>
 			<gameName>nhp42</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -1491,13 +1491,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_1</Item>
+				<Item>EXTRA_1 EXTRA_12 EXTRA_4</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_1 EXTRA_12 EXTRA_4</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -1524,7 +1524,7 @@
 			<modelName>nhp43</modelName>
 			<!--early 2000s cvpi rotator-->
 			<txdName>nhp43</txdName>
-			<handlingId>CHPcvpi</handlingId>
+			<handlingId>CHPcvpi2</handlingId>
 			<gameName>nhp43</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -1624,13 +1624,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_1</Item>
+				<Item>EXTRA_1 EXTRA_12</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_1</requiredExtras>
+			<requiredExtras>EXTRA_1 EXTRA_12</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
