@@ -89,13 +89,13 @@
         </Item>
       </colors>
       <kits>
-        <Item>1511_toyotasj_modkit</Item>
+        <Item>1599_toyotasj_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
         <Probabilities />
       </plateProbabilities>
-      <lightSettings value="2" />
+      <lightSettings value="1" />
       <sirenSettings value="0" />
     </Item>
 
