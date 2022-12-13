@@ -11,8 +11,8 @@
 
   <Kits>
     <Item>
-      <kitName>1511_toyotasj_modkit</kitName>
-      <id value="1511" />	 	  
+      <kitName>1599_toyotasj_modkit</kitName>
+      <id value="1599" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
 	<Item>
