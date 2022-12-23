@@ -150,6 +150,8 @@
 					<fBikeOnStandSteerAngle value="0.3"/>
 					<fJumpForce value="0.0"/>
 				</Item>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
 			</SubHandlingData>
 		</Item>
 		<Item type="CHandlingData">
