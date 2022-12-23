@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>veyronsound</audioNameHash>
+			<audioNameHash>adder</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>NERO_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
