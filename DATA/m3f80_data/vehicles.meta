@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>SC1</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>SCHAFTER_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

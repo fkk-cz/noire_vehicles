@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>DUBSTA2</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -1256,7 +1256,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>ALPHA</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>FQ2_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -1504,7 +1504,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>SERRANO</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>SERRANO_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -2069,7 +2069,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>GRESLEY</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -2476,7 +2476,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>gresley</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

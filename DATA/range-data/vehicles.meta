@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>BALLER3</audioNameHash>
-      <layout>LAYOUT_STD_HIGHWINDOW</layout>
+      <layout>LAYOUT_DELTA_DEMO</layout>
       <coverBoundOffsets>BISON_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />

@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>stafford</audioNameHash>
-			<layout>LAYOUT_STD_HIGHWINDOW</layout>
+			<layout>LAYOUT_DELTA_DEMO</layout>
 			<coverBoundOffsets>STAFFORD_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
