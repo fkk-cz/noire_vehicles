@@ -3,51 +3,52 @@
 	<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>SSTI</handlingName>
-			<fMass value="1500.000000"/>
-			<fInitialDragCoeff value="9.500000"/>
-			<fPercentSubmerged value="85.000000"/>
-			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="-0.200000"/>
-			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.600000"/>
-			<fDriveBiasFront value="0.500000"/>
-			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.335000"/>
-			<fDriveInertia value="0.900000"/>
-			<fClutchChangeRateScaleUpShift value="1.500000"/>
-			<fClutchChangeRateScaleDownShift value="1.500000"/>
-			<fInitialDriveMaxFlatVel value="164.630000"/>
-			<fBrakeForce value="1.500000"/>
-			<fBrakeBiasFront value="0.60000"/>
-			<fHandBrakeForce value="0.700000"/>
-			<fSteeringLock value="39.000000"/>
-			<fTractionCurveMax value="2.650000"/>
-			<fTractionCurveMin value="2.500000"/>
-			<fTractionCurveLateral value="22.500000"/>
-			<fTractionSpringDeltaMax value="0.150000"/>
-			<fLowSpeedTractionLossMult value="1.100000"/>
-			<fCamberStiffnesss value="0.000000"/>
-			<fTractionBiasFront value="0.485000"/>
-			<fTractionLossMult value="0.000000"/>
-			<fSuspensionForce value="2.900000"/>
-			<fSuspensionCompDamp value="1.400000"/>
-			<fSuspensionReboundDamp value="2.500000"/>
-			<fSuspensionUpperLimit value="0.130000"/>
-			<fSuspensionLowerLimit value="-0.100000"/>
-			<fSuspensionRaise value="0.000000"/>
-			<fSuspensionBiasFront value="0.500000"/>
-			<fAntiRollBarForce value="0.35000"/>
-			<fAntiRollBarBiasFront value="0.5750000"/>
-			<fRollCentreHeightFront value="0.210000"/>
-			<fRollCentreHeightRear value="0.250000"/>
-			<fCollisionDamageMult value="1.000000"/>
-			<fWeaponDamageMult value="1.000000"/>
-			<fDeformationDamageMult value="1.000000"/>
-			<fEngineDamageMult value="1.000000"/>
-			<fPetrolTankVolume value="65.000000"/>
-			<fOilVolume value="5.000000"/>
-			<fSeatOffsetDistX value="0.000000"/>
-			<fSeatOffsetDistY value="-0.025000"/>
-			<fSeatOffsetDistZ value="0.050000"/>
-			<nMonetaryValue value="35000"/>
+			<fMass value="1500.0" />
+			<fInitialDragCoeff value="9.5" />
+			<fDownforceModifier value="0.0" />
+			<fPercentSubmerged value="85.0" />
+			<vecCentreOfMassOffset x="0.0" y="0.0" z="-0.20000000298023" />
+			<vecInertiaMultiplier x="1.0" y="1.2000000476837" z="1.6000000238419" />
+			<fDriveBiasFront value="0.5" />
+			<nInitialDriveGears value="6" />
+			<fInitialDriveForce value="0.27" />
+			<fDriveInertia value="0.9" />
+			<fClutchChangeRateScaleUpShift value="1.5" />
+			<fClutchChangeRateScaleDownShift value="1.5" />
+			<fInitialDriveMaxFlatVel value="155.0" />
+			<fBrakeForce value="1.5" />
+			<fBrakeBiasFront value="0.6" />
+			<fHandBrakeForce value="0.7" />
+			<fSteeringLock value="39.0" />
+			<fTractionCurveMax value="2.65" />
+			<fTractionCurveMin value="2.5" />
+			<fTractionCurveLateral value="22.5" />
+			<fTractionSpringDeltaMax value="0.15" />
+			<fLowSpeedTractionLossMult value="1.1" />
+			<fCamberStiffnesss value="0.0" />
+			<fTractionBiasFront value="0.485" />
+			<fTractionLossMult value="0.0" />
+			<fSuspensionForce value="2.9" />
+			<fSuspensionCompDamp value="1.4" />
+			<fSuspensionReboundDamp value="2.5" />
+			<fSuspensionUpperLimit value="0.13" />
+			<fSuspensionLowerLimit value="-0.1" />
+			<fSuspensionRaise value="0.0" />
+			<fSuspensionBiasFront value="0.5" />
+			<fAntiRollBarForce value="0.35" />
+			<fAntiRollBarBiasFront value="0.575" />
+			<fRollCentreHeightFront value="0.21" />
+			<fRollCentreHeightRear value="0.25" />
+			<fCollisionDamageMult value="1.0" />
+			<fWeaponDamageMult value="1.0" />
+			<fDeformationDamageMult value="1.0" />
+			<fEngineDamageMult value="1.0" />
+			<fPetrolTankVolume value="65.0" />
+			<fOilVolume value="5.0" />
+			<fSeatOffsetDistX value="0.0" />
+			<fSeatOffsetDistY value="-0.025" />
+			<fSeatOffsetDistZ value="0.05" />
+			<nMonetaryValue value="35000" />
 			<strModelFlags>440010</strModelFlags>
 			<strHandlingFlags>0</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
