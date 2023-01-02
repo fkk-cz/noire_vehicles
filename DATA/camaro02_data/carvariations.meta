@@ -135,7 +135,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>camaro70_modkit</Item>
+        <Item>camaro02_1601_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -150,7 +150,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="2" />
+      <lightSettings value="0" />
       <sirenSettings value="0" />
     </Item>
   </variationData>
