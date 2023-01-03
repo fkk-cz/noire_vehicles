@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfo__InitDataList>
 	<residentTxd>vehshare</residentTxd>
 	<residentAnims/>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>GAUNTLET</audioNameHash>
+			<audioNameHash>npolcharciv</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>GAUNTLET_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
 	    <Item>
-      <kitName>camaro02_modkit</kitName>
-      <id value="1600" />	 	  
+      <kitName>camaro02_1601_modkit</kitName>
+      <id value="1601" />	 	  
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
         <Item>
