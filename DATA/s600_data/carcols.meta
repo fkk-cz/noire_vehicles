@@ -2,8 +2,8 @@
 <CVehicleModelInfoVarGlobal>
 	<Kits>
 		<Item>
-			<kitName>1504_s600_modkit</kitName>
-			<id value="1504"/>
+			<kitName>1460_s600_modkit</kitName>
+			<id value="1460"/>
 			<kitType>MKT_SUV</kitType>
 			<visibleMods>
 				<Item>
