@@ -11,11 +11,11 @@
 			<vecInertiaMultiplier x="1.0" y="1.5" z="1.5" />
 			<fDriveBiasFront value="0.5" />
 			<nInitialDriveGears value="5" />
-			<fInitialDriveForce value="0.23" />
+			<fInitialDriveForce value="0.2" />
 			<fDriveInertia value="1.5" />
 			<fClutchChangeRateScaleUpShift value="3.3" />
 			<fClutchChangeRateScaleDownShift value="3.3" />
-			<fInitialDriveMaxFlatVel value="190.0" />
+			<fInitialDriveMaxFlatVel value="145.0" />
 			<fBrakeForce value="1.0" />
 			<fBrakeBiasFront value="0.425" />
 			<fHandBrakeForce value="0.45" />
@@ -42,7 +42,7 @@
 			<fCollisionDamageMult value="1.0" />
 			<fWeaponDamageMult value="1.0" />
 			<fDeformationDamageMult value="0.8" />
-			<fEngineDamageMult value="1.2754" />
+			<fEngineDamageMult value="1.1571" />
 			<fPetrolTankVolume value="54.0" />
 			<fOilVolume value="7.0" />
 			<fSeatOffsetDistX value="0.0" />
