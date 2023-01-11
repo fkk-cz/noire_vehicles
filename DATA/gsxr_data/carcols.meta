@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal> 
   <Kits>
     <Item>
-      <kitName>1016_gsxr_modkit</kitName>
-      <id value="1016" />	 	  
+      <kitName>5452_gsxr_modkit</kitName>
+      <id value="5452" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods> 
         <Item>
