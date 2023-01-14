@@ -865,13 +865,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_1 EXTRA_2</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_8 EXTRA_1 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_1 EXTRA_2</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_8 EXTRA_1 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
@@ -1119,13 +1119,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_2</Item>
+				<Item>EXTRA_9 EXTRA_10 EXTRA_8 EXTRA_2</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_4 EXTRA_5 EXTRA_8 EXTRA_2</requiredExtras>
+			<requiredExtras>EXTRA_9 EXTRA_10 EXTRA_8 EXTRA_2</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
