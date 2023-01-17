@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>GRESLEY</audioNameHash>
-      <layout>LAYOUT_DELTA_DEMO</layout>
+      <layout>LAYOUT_DELTA_SUV</layout>
       <coverBoundOffsets>RSVR16_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />

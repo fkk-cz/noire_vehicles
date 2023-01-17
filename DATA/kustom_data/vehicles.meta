@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>DUKES2</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>DOMINATOR_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

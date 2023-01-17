@@ -278,7 +278,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>BALLER2</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -677,7 +677,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>SCHAFTER4</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -814,7 +814,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>BALLER2</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>SHERIFF_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

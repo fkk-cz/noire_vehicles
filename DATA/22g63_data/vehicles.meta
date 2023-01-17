@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>DUBSTA</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>BISON_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

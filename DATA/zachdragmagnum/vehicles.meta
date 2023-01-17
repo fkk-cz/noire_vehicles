@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>virgo</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>SANDKING_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>SCHLAGEN</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>STREITER_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>

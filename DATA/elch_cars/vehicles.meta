@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>DUBSTA2</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -1256,7 +1256,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>ALPHA</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>FQ2_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -1377,7 +1377,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>brawler</audioNameHash>
-			<layout>LAYOUT_RANGER_SWAT</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>SHERIFF2_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -1504,7 +1504,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>SERRANO</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>SERRANO_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -2069,7 +2069,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>GRESLEY</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -2190,7 +2190,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>BISON</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>BISON_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -2476,7 +2476,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>gresley</audioNameHash>
-			<layout>LAYOUT_DELTA_DEMO</layout>
+			<layout>LAYOUT_DELTA_SUV</layout>
 			<coverBoundOffsets>GRESLEY_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
@@ -2950,7 +2950,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>BISON</audioNameHash>
-			<layout>LAYOUT_BISON</layout>
+			<layout>LAYOUT_DELTA_PICKUP</layout>
 			<coverBoundOffsets>BISON_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
