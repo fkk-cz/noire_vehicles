@@ -2,6 +2,85 @@
 <CVehicleModelInfoVariation>
 	<variationData>
 		<Item>
+			<modelName>00pdtahoe</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						0
+						111
+						0
+						1
+						0
+						70
+						73
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0"/>
+			<sirenSettings value="814"/>
+		</Item>
+		<Item>
+			<modelName>08pdcvpi</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						0
+						111
+						0
+						1
+						0
+						0
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="2"/>
+			<sirenSettings value="800"/>
+		</Item>
+		<Item>
 			<modelName>11pdcvpi</modelName>
 			<colors>
 				<Item>
@@ -39,6 +118,45 @@
 			</plateProbabilities>
 			<lightSettings value="1"/>
 			<sirenSettings value="801"/>
+		</Item>
+		<Item>
+			<modelName>11pdcvpis</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						0
+						111
+						0
+						1
+						0
+						0
+					</indices>
+					<liveries>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+						<Item value="false"/>
+					</liveries>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Police guv plate</Name>
+						<Value value="100"/>
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="1"/>
+			<sirenSettings value="806"/>
 		</Item>
 		<Item>
 			<modelName>14pdcharger</modelName>
@@ -123,13 +241,13 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0
-			111
-			0
-			1
-			70
-			73
-          </indices>
+						0
+						111
+						0
+						1
+						70
+						73
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
@@ -201,13 +319,13 @@
 			<colors>
 				<Item>
 					<indices content="char_array">
-            0
-			0
-			0
-			1
-			70
-			73
-          </indices>
+						0
+						0
+						0
+						1
+						70
+						73
+					</indices>
 					<liveries>
 						<Item value="false"/>
 						<Item value="false"/>
