@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>ford36r</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            87
+            60
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            85
+            46
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            48
+            21
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            21
+            113
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            22
+            58
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            113
+            87
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            23
+            123
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            123
+            130
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            115
+            46
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            133
+            47
+            1
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>ford34</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            161
+            177
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            172
+            189
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            1
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            169
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            35
+            184
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            53
+            3
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            107
+            68
+            0
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            145
+            5
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145
+            191
+            5
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            143
+            27
+            27
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            195
+            177
+            1
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+     <Item>
+      <modelName>ford34r</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            87
+            60
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            85
+            46
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            48
+            21
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            21
+            113
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            22
+            58
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            113
+            87
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            23
+            123
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            123
+            130
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            115
+            46
+            1
+            156
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            133
+            47
+            1
+            156
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims/>
+	<InitDatas>
+		<Item>
+			<modelName>ford34</modelName>
+			<txdName>ford34</txdName>
+			<handlingId>ford34</handlingId>
+			<gameName>ford34</gameName>
+			<vehicleMakeName>FORD</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected/>
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash>VIRGO</audioNameHash>
+			<layout>LAYOUT_LOW_RESTRICTED</layout>
+			<coverBoundOffsets>HOTKNIFE_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout/>
+			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_NEAR</bonnetCameraName>
+			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+			<FirstPersonDriveByIKOffset x="-0.1" y="-0.02" z="-0.03"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0" y="-0.1" z="0"/>
+			<FirstPersonProjectileDriveByIKOffset x="0" y="-0.12" z="-0.01"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.06" y="-0.11" z="-0.03"/>
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0" y="0" z="0"/>
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByLeftPassengerIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.12" y="-0.02" z="-0.03"/>
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0" y="-0.1" z="0"/>
+			<FirstPersonMobilePhoneOffset x="0.128000" y="0.218000" z="0.546000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000"/>
+			<PovCameraOffset x="0" y="-0.14" z="0.6"/>
+			<PovCameraVerticalAdjustmentForRollCage value="0"/>
+			<PovPassengerCameraOffset x="0" y="-0.13" z="0"/>
+			<PovRearPassengerCameraOffset x="0" y="0" z="0"/>
+			<vfxInfoName>VFXVEHICLEINFO_CAR_HOTKNIFE</vfxInfoName>
+			<shouldUseCinematicViewMode value="true"/>
+			<shouldCameraTransitionOnClimbUpDown value="false"/>
+			<shouldCameraIgnoreExiting value="false"/>
+			<AllowPretendOccupants value="true"/>
+			<AllowJoyriding value="true"/>
+			<AllowSundayDriving value="true"/>
+			<AllowBodyColorMapping value="true"/>
+			<wheelScale value="0.21"/>
+			<wheelScaleRear value="0.22"/>
+			<dirtLevelMin value="0"/>
+			<dirtLevelMax value="1"/>
+			<envEffScaleMin value="0"/>
+			<envEffScaleMax value="1"/>
+			<envEffScaleMin2 value="0"/>
+			<envEffScaleMax2 value="1"/>
+			<damageMapScale value="0.3"/>
+			<damageOffsetScale value="1"/>
+			<diffuseTint value="0x00FFFFFF"/>
+			<steerWheelMult value="1"/>
+			<HDTextureDist value="5"/>
+			<lodDistances content="float_array">
+				15
+				30
+				60	
+				120	
+				300	
+				300
+			</lodDistances>
+			<minSeatHeight value="0.793"/>
+			<identicalModelSpawnDistance value="20"/>
+			<maxNumOfSameColor value="5"/>
+			<defaultBodyHealth value="1000"/>
+			<pretendOccupantsScale value="1"/>
+			<visibleSpawnDistScale value="1"/>
+			<trackerPathWidth value="2"/>
+			<weaponForceMult value="1"/>
+			<frequency value="30"/>
+			<swankness>SWANKNESS_3</swankness>
+			<maxNum value="5"/>
+			<flags>FLAG_SPORTS FLAG_INCREASE_PED_COMMENTS FLAG_HAS_LIVERY</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_ZTYPE</dashboardType>
+			<vehicleClass>VC_MUSCLE</vehicleClass>
+			<wheelType>VWT_MUSCLE</wheelType>
+			<trailers/>
+			<additionalTrailers/>
+			<drivers/>
+			<extraIncludes>
+			</extraIncludes>
+			<doorsWithCollisionWhenClosed/>
+			<driveableDoors/>
+			<bumpersNeedToCollideWithMap value="false"/>
+			<needsRopeTexture value="false"/>
+			<requiredExtras/>
+			<rewards/>
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet/>
+			<buoyancySphereOffset x="0" y="0" z="0"/>
+			<buoyancySphereSizeScale value="1"/>
+			<pOverrideRagdollThreshold type="NULL"/>
+			<firstPersonDrivebyData>
+				<Item>LOW_HOTKNIFE_FRONT_LEFT</Item>
+				<Item>LOW_HOTKNIFE_FRONT_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
+		<Item>
+			<modelName>ford34r</modelName>
+			<txdName>ford34r</txdName>
+			<handlingId>ford34</handlingId>
+			<gameName>ford34r</gameName>
+			<vehicleMakeName>FORD</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected/>
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash>VIRGO</audioNameHash>
+			<layout>LAYOUT_LOW_RESTRICTED</layout>
+			<coverBoundOffsets>HOTKNIFE_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout/>
+			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+			<aimCameraName>DEFAULT_THIRD_PERSON_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_NEAR</bonnetCameraName>
+			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+			<FirstPersonDriveByIKOffset x="-0.1" y="-0.02" z="-0.03"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0" y="-0.1" z="0"/>
+			<FirstPersonProjectileDriveByIKOffset x="0" y="-0.12" z="-0.01"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.06" y="-0.11" z="-0.03"/>
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0" y="0" z="0"/>
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByLeftPassengerIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.12" y="-0.02" z="-0.03"/>
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0" y="0" z="0"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0" y="-0.1" z="0"/>
+			<FirstPersonMobilePhoneOffset x="0.128000" y="0.218000" z="0.546000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000"/>
+			<PovCameraOffset x="0" y="-0.14" z="0.6"/>
+			<PovCameraVerticalAdjustmentForRollCage value="0"/>
+			<PovPassengerCameraOffset x="0" y="-0.13" z="0"/>
+			<PovRearPassengerCameraOffset x="0" y="0" z="0"/>
+			<vfxInfoName>VFXVEHICLEINFO_CAR_HOTKNIFE</vfxInfoName>
+			<shouldUseCinematicViewMode value="true"/>
+			<shouldCameraTransitionOnClimbUpDown value="false"/>
+			<shouldCameraIgnoreExiting value="false"/>
+			<AllowPretendOccupants value="true"/>
+			<AllowJoyriding value="true"/>
+			<AllowSundayDriving value="true"/>
+			<AllowBodyColorMapping value="true"/>
+			<wheelScale value="0.21"/>
+			<wheelScaleRear value="0.22"/>
+			<dirtLevelMin value="0"/>
+			<dirtLevelMax value="1"/>
+			<envEffScaleMin value="0"/>
+			<envEffScaleMax value="1"/>
+			<envEffScaleMin2 value="0"/>
+			<envEffScaleMax2 value="1"/>
+			<damageMapScale value="0.3"/>
+			<damageOffsetScale value="1"/>
+			<diffuseTint value="0x00FFFFFF"/>
+			<steerWheelMult value="1"/>
+			<HDTextureDist value="5"/>
+			<lodDistances content="float_array">
+        15
+        30
+        60	
+        120	
+        300	
+        300
+      </lodDistances>
+			<minSeatHeight value="0.793"/>
+			<identicalModelSpawnDistance value="20"/>
+			<maxNumOfSameColor value="5"/>
+			<defaultBodyHealth value="1000"/>
+			<pretendOccupantsScale value="1"/>
+			<visibleSpawnDistScale value="1"/>
+			<trackerPathWidth value="2"/>
+			<weaponForceMult value="1"/>
+			<frequency value="30"/>
+			<swankness>SWANKNESS_3</swankness>
+			<maxNum value="5"/>
+			<flags>FLAG_SPORTS FLAG_INCREASE_PED_COMMENTS FLAG_HAS_LIVERY</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_ZTYPE</dashboardType>
+			<vehicleClass>VC_MUSCLE</vehicleClass>
+			<wheelType>VWT_MUSCLE</wheelType>
+			<trailers/>
+			<additionalTrailers/>
+			<drivers/>
+			<extraIncludes>
+      </extraIncludes>
+			<doorsWithCollisionWhenClosed/>
+			<driveableDoors/>
+			<bumpersNeedToCollideWithMap value="false"/>
+			<needsRopeTexture value="false"/>
+			<requiredExtras/>
+			<rewards/>
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet/>
+			<buoyancySphereOffset x="0" y="0" z="0"/>
+			<buoyancySphereSizeScale value="1"/>
+			<pOverrideRagdollThreshold type="NULL"/>
+			<firstPersonDrivebyData>
+				<Item>LOW_HOTKNIFE_FRONT_LEFT</Item>
+				<Item>LOW_HOTKNIFE_FRONT_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
+	</InitDatas>
+	<txdRelationships>
+		<Item>
+			<parent>vehicles_btype_interior</parent>
+			<child>ford34</child>
+		</Item>
+		<Item>
+			<parent>vehicles_btype_interior</parent>
+			<child>ford34r</child>
+		</Item>
+	</txdRelationships>
+</CVehicleModelInfo__InitDataList>
