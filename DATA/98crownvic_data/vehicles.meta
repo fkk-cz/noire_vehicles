@@ -15,8 +15,8 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected />
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>TAXI</audioNameHash>
-			<layout>LAYOUT_STANDARD</layout>
+			<audioNameHash>POLICE</audioNameHash>
+			<layout>LAYOUT_DELTA_STD</layout>
 			<coverBoundOffsets>WASHINGTON_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout />
