@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>s85b50</audioNameHash>
-			<layout>LAYOUT_DELTA_SUV</layout>
+			<layout>LAYOUT_DELTA_STD</layout>
 			<coverBoundOffsets>SCHAFTER_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
