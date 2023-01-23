@@ -4,15 +4,15 @@
 		<Item type="CHandlingData">
 			<handlingName>r820</handlingName>
 			<fMass value="1600.0" />
-			<fInitialDragCoeff value="1.5" />
+			<fInitialDragCoeff value="2.5" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.050000000745058" z="0.0" />
 			<vecInertiaMultiplier x="1.0" y="1.6000000238419" z="1.7000000476837" />
 			<fDriveBiasFront value="0.5" />
 			<nInitialDriveGears value="7" />
-			<fInitialDriveForce value="0.32" />
-			<fDriveInertia value="1.2" />
+			<fInitialDriveForce value="0.3" />
+			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="5.0" />
 			<fClutchChangeRateScaleDownShift value="5.0" />
 			<fInitialDriveMaxFlatVel value="180.0" />
@@ -24,7 +24,7 @@
 			<fTractionCurveMin value="2.54" />
 			<fTractionCurveLateral value="22.5" />
 			<fTractionSpringDeltaMax value="0.15" />
-			<fLowSpeedTractionLossMult value="1.3" />
+			<fLowSpeedTractionLossMult value="1.0" />
 			<fCamberStiffnesss value="0.0" />
 			<fTractionBiasFront value="0.485" />
 			<fTractionLossMult value="1.0" />
@@ -42,7 +42,7 @@
 			<fCollisionDamageMult value="1.0" />
 			<fWeaponDamageMult value="1.0" />
 			<fDeformationDamageMult value="1.0" />
-			<fEngineDamageMult value="0.8073" />
+			<fEngineDamageMult value="0.8795" />
 			<fPetrolTankVolume value="65.0" />
 			<fOilVolume value="5.0" />
 			<fSeatOffsetDistX value="0.0" />
