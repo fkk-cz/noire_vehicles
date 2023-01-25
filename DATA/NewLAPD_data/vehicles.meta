@@ -355,7 +355,7 @@
 		<Item>
 			<modelName>11pdcvpis</modelName>
 			<txdName>11pdcvpis</txdName>
-			<handlingId>11pdcvpi</handlingId>
+			<handlingId>pdcvpi</handlingId>
 			<gameName>11pdcvpis</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
