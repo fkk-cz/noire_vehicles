@@ -6,8 +6,8 @@
 		<Item>
 			<modelName>priustaxi</modelName>
 			<txdName>priustaxi</txdName>
-			<handlingId>dilettante</handlingId>
-			<gameName>TAXI</gameName>
+			<handlingId>priustaxi</handlingId>
+			<gameName>priustaxi</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
