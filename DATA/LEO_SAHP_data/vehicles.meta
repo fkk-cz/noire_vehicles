@@ -911,7 +911,7 @@
 		<Item>
 			<modelName>HP7</modelName>
 			<txdName>HP7</txdName>
-			<handlingId>CHPfpiu20</handlingId>
+			<handlingId>CHPfpiu14</handlingId>
 			<gameName>hp7</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -920,7 +920,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>ecoboostv6</audioNameHash>
+			<audioNameHash>SENTINEL</audioNameHash>
 			<layout>LAYOUT_STD_EXITFIXUP</layout>
 			<coverBoundOffsets>POLICE3_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
