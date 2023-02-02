@@ -9,7 +9,7 @@
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.400000" z="1.600000"/>
 			<fDriveBiasFront value="0.500000"/>
-			<nInitialDriveGears value="6"/>
+			<nInitialDriveGears value="1"/>
 			<fInitialDriveForce value="0.230000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="1.800000"/>
@@ -49,7 +49,7 @@
 			<fSeatOffsetDistZ value="0.050000"/>
 			<nMonetaryValue value="35000"/>
 			<strModelFlags>440010</strModelFlags>
-			<strHandlingFlags>0</strHandlingFlags>
+			<strHandlingFlags>21002</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
