@@ -38,7 +38,7 @@
 			<fAntiRollBarBiasFront value="0.530000"/>
 			<fRollCentreHeightFront value="0.240000"/>
 			<fRollCentreHeightRear value="0.250000"/>
-			<fCollisionDamageMult value="0.700000"/>
+			<fCollisionDamageMult value="1.000000"/>
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="0.700000"/>
 			<fEngineDamageMult value="1.500000"/>
@@ -48,7 +48,7 @@
 			<fSeatOffsetDistY value="0.000000"/>
 			<fSeatOffsetDistZ value="0.050000"/>
 			<nMonetaryValue value="35000"/>
-			<strModelFlags>440010</strModelFlags>
+			<strModelFlags>441010</strModelFlags>
 			<strHandlingFlags>21002</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
