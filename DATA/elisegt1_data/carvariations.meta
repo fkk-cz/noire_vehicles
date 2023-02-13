@@ -13,7 +13,7 @@
 </Item>
 </colors>
       <kits>
-        <Item>1010_elisegt1</Item>
+        <Item>1382_elisegt1</Item>
       </kits>
       <plateProbabilities>
         <Probabilities>
@@ -23,7 +23,7 @@
           </Item>
         </Probabilities>
 		</plateProbabilities>
-<lightSettings value="1382" />
+<lightSettings value="1" />
 </Item>
   </variationData>
 </CVehicleModelInfoVariation>
