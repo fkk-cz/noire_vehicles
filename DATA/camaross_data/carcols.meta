@@ -31,7 +31,7 @@
 				</Item>
 				<Item>
 					<identifier/>
-					<modifier value="200"/>
+					<modifier value="100"/>
 					<audioApply value="1.000000"/>
 					<weight value="20"/>
 					<type>VMT_ENGINE</type>
@@ -73,7 +73,7 @@
 				</Item>
 				<Item>
 					<identifier/>
-					<modifier value="200"/>
+					<modifier value="100"/>
 					<audioApply value="1.000000"/>
 					<weight value="5"/>
 					<type>VMT_GEARBOX</type>
