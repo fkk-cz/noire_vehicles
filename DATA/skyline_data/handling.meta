@@ -10,11 +10,11 @@
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.300000"/>
 			<fDriveBiasFront value="0.300000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.330000"/>
+			<fInitialDriveForce value="0.285000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="2.200000"/>
 			<fClutchChangeRateScaleDownShift value="2.200000"/>
-			<fInitialDriveMaxFlatVel value="189.000000"/>
+			<fInitialDriveMaxFlatVel value="159.000000"/>
 			<fBrakeForce value="0.500000"/>
 			<fBrakeBiasFront value="0.700000"/>
 			<fHandBrakeForce value="0.600000"/>
@@ -23,7 +23,7 @@
 			<fTractionCurveMin value="2.500000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
-			<fLowSpeedTractionLossMult value="1.800000"/>
+			<fLowSpeedTractionLossMult value="1.400000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.500000"/>
 			<fTractionLossMult value="1.000000"/>
@@ -41,7 +41,7 @@
 			<fCollisionDamageMult value="1.000000"/>
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="1.000000"/>
-			<fEngineDamageMult value="1.000000"/>
+			<fEngineDamageMult value="1.200000"/>
 			<fPetrolTankVolume value="65.000000"/>
 			<fOilVolume value="5.000000"/>
 			<fSeatOffsetDistX value="0.050000"/>
