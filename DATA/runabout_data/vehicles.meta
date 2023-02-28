@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims/>
+	<InitDatas>
+		<Item>
+			<modelName>runabout</modelName>
+			<txdName>runabout</txdName>
+			<handlingId>RUNABOUT</handlingId>
+			<gameName>RUNABOUT</gameName>
+			<vehicleMakeName>UNK</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected/>
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash>TRACTOR</audioNameHash>
+			<layout>LAYOUT_STD_TECHNICAL</layout>
+			<coverBoundOffsets>REBEL_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout/>
+			<cameraName>FOLLOW_JEEP_CAMERA</cameraName>
+			<aimCameraName>JEEP_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_NEAR_LOW</bonnetCameraName>
+			<povCameraName>DEFAULT_POV_CAMERA</povCameraName>
+			<povTurretCameraName>POV_TURRET_CAMERA_TECHNICAL</povTurretCameraName>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.040000" z="-0.020000"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.043000"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.053000" z="-0.048000"/>
+			<FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.040000" z="-0.020000"/>
+			<FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonMobilePhoneOffset x="0.140000" y="0.175000" z="0.528000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.190000" y="0.179000" z="0.403000"/>
+			<PovCameraOffset x="0.000000" y="-0.200000" z="0.650000"/>
+			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
+			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<vfxInfoName>VFXVEHICLEINFO_CAR_OFFROAD</vfxInfoName>
+			<shouldUseCinematicViewMode value="true"/>
+			<shouldCameraTransitionOnClimbUpDown value="false"/>
+			<shouldCameraIgnoreExiting value="false"/>
+			<AllowPretendOccupants value="true"/>
+			<AllowJoyriding value="true"/>
+			<AllowSundayDriving value="true"/>
+			<AllowBodyColorMapping value="true"/>
+			<wheelScale value="0.271500"/>
+			<wheelScaleRear value="0.271500"/>
+			<dirtLevelMin value="0.500000"/>
+			<dirtLevelMax value="0.800000"/>
+			<envEffScaleMin value="0.500000"/>
+			<envEffScaleMax value="1.000000"/>
+			<envEffScaleMin2 value="0.000000"/>
+			<envEffScaleMax2 value="1.000000"/>
+			<damageMapScale value="0.600000"/>
+			<damageOffsetScale value="1.000000"/>
+			<diffuseTint value="0x00FFFFFF"/>
+			<steerWheelMult value="0.700000"/>
+			<lodDistances content="float_array">
+				20.000000	
+				90.000000	
+				130.000000	
+				260.000000	
+				750.000000	
+				750.000000	
+			</lodDistances>
+			<identicalModelSpawnDistance value="20"/>
+			<maxNumOfSameColor value="10"/>
+			<defaultBodyHealth value="1000.000000"/>
+			<pretendOccupantsScale value="1.000000"/>
+			<visibleSpawnDistScale value="1.000000"/>
+			<trackerPathWidth value="2.000000"/>
+			<weaponForceMult value="1.000000"/>
+			<frequency value="50"/>
+			<swankness>SWANKNESS_1</swankness>
+			<maxNum value="10"/>
+			<flags>FLAG_NO_BOOT FLAG_AVERAGE_CAR FLAG_POOR_CAR FLAG_IS_OFFROAD_VEHICLE FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS FLAG_IS_BULKY FLAG_HAS_TURRET_SEAT_ON_VEHICLE FLAG_DISABLE_AUTO_VAULT_ON_VEHICLE FLAG_HAS_REAR_MOUNTED_TURRET</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<dashboardType>VDT_BOBCAT</dashboardType>
+			<plateType>VPT_NONE</plateType>
+			<vehicleClass>VC_VAN</vehicleClass>
+			<wheelType>VWT_OFFROAD</wheelType>
+			<trailers>
+				<Item>boattrailer</Item>
+				<Item>trailersmall</Item>
+				<Item>caravana</Item>
+				<Item>caravana2</Item>
+				<Item>cartrail2</Item>
+				<Item>cartrail</Item>
+				<Item>cannona</Item>
+				<Item>cannonb</Item>
+				<Item>cannold</Item>
+				<Item>trailsm</Item>
+				<Item>baletrailer</Item>
+				<Item>modtrailer1</Item>
+				<Item>modtrailer2</Item>
+				<Item>modtrailer3</Item>
+				<Item>modtrailer4</Item>
+				<Item>modtrailer5</Item>
+				<Item>modtrailer6</Item>
+				<Item>modtrailer7</Item>
+				<Item>modtrailer8</Item>
+				<Item>modtrailer9</Item>
+				<Item>modtrailer10</Item>
+				<Item>modtrailer11</Item>
+				<Item>modtrailer12</Item>
+				<Item>modtrailer13</Item>
+				<Item>modtrailer14</Item>
+				<Item>modtrailer15</Item>
+				<Item>modtrailer16</Item>
+				<Item>modtrailer17</Item>
+				<Item>modtrailer18</Item>
+				<Item>modtrailer19</Item>
+				<Item>modtrailer20</Item>
+				<Item>modtrailer21</Item>
+				<Item>modtrailer22</Item>
+				<Item>modtrailer23</Item>
+				<Item>modtrailer24</Item>
+				<Item>modtrailer25</Item>
+				<Item>modtrailer26</Item>
+				<Item>modtrailer27</Item>
+				<Item>modtrailer28</Item>
+				<Item>modtrailer29</Item>
+				<Item>modtrailer30</Item>
+			</trailers>
+			<additionalTrailers/>
+			<drivers/>
+			<extraIncludes/>
+			<doorsWithCollisionWhenClosed>
+				<Item>VEH_EXT_BOOT</Item>
+			</doorsWithCollisionWhenClosed>
+			<driveableDoors/>
+			<bumpersNeedToCollideWithMap value="false"/>
+			<needsRopeTexture value="false"/>
+			<requiredExtras/>
+			<rewards/>
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet>Truck</NmBraceOverrideSet>
+			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<buoyancySphereSizeScale value="1.000000"/>
+			<pOverrideRagdollThreshold type="NULL"/>
+			<firstPersonDrivebyData>
+				<Item>RANGER_GUARDIAN_FRONT_LEFT</Item>
+				<Item>RANGER_GUARDIAN_FRONT_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
+	</InitDatas>
+	<txdRelationships>
+		<Item>
+			<parent>vehicles_cav_interior</parent>
+			<child>runabout</child>
+		</Item>
+	</txdRelationships>
+</CVehicleModelInfo__InitDataList>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
