@@ -217,7 +217,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>impala64_modkit</Item>
+        <Item>510_impala64_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
