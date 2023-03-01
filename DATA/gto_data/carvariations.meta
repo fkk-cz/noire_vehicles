@@ -205,7 +205,7 @@
         </Item>
       </colors>
       <kits>
-        <Item>505_gto_modkit</Item>
+        <Item>1383_gto_modkit</Item>
       </kits>
       <windowsWithExposedEdges />
       <plateProbabilities>
@@ -228,7 +228,7 @@
           </Item>
         </Probabilities>
       </plateProbabilities>
-      <lightSettings value="1383" />
+      <lightSettings value="1" />
       <sirenSettings value="0" />
     </Item>
   </variationData>
