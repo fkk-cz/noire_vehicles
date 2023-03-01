@@ -5,7 +5,7 @@
 			<!--22G63 HANDLING STARTS HERE-->
 			<handlingName>22G63</handlingName>
 			<fMass value="2200.000000"/>
-			<fInitialDragCoeff value="2.499979"/>
+			<fInitialDragCoeff value="5.100000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.200000" z="1.30000"/>
@@ -15,7 +15,7 @@
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="1.300000"/>
 			<fClutchChangeRateScaleDownShift value="1.300000"/>
-			<fInitialDriveMaxFlatVel value="189.000015"/>
+			<fInitialDriveMaxFlatVel value="175.000000"/>
 			<fBrakeForce value="1.600000"/>
 			<fBrakeBiasFront value="0.550000"/>
 			<fHandBrakeForce value="0.300000"/>
