@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
   <Kits>
 		<Item>
-      <kitName>impala64_modkit</kitName>
+      <kitName>510_impala64_modkit</kitName>
       <id value="510" />          
       <kitType>MKT_SPORT</kitType>
       <visibleMods>
