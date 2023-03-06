@@ -1,0 +1,3254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal> 
+<VehiclePlates>
+    <Textures>
+      <Item>
+        <TextureSetName>Standard White</TextureSetName>
+        <DiffuseMapName>plate01</DiffuseMapName>
+        <NormalMapName>plate01_n</NormalMapName>
+        <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>
+        <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>
+        <FontColor value="0xFF0F2352"/>
+        <FontOutlineColor value="0x00FFFFFF"/>
+        <IsFontOutlineEnabled value="false"/>
+        <FontOutlineMinMaxDepth x="0.47500000" y="0.50000000"/>
+      </Item>
+      <Item>
+        <TextureSetName>Yellow Plate</TextureSetName>
+        <DiffuseMapName>plate02</DiffuseMapName>
+        <NormalMapName>plate02_n</NormalMapName>
+        <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>
+        <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>
+        <FontColor value="0xFFCF9E00"/>
+        <FontOutlineColor value="0x00FFFFFF"/>
+        <IsFontOutlineEnabled value="false"/>
+        <FontOutlineMinMaxDepth x="0.47500000" y="0.50000000"/>
+      </Item>
+      <Item>
+        <TextureSetName>Blue Plate</TextureSetName>
+        <DiffuseMapName>plate03</DiffuseMapName>
+        <NormalMapName>plate03_n</NormalMapName>
+        <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>
+        <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>
+        <FontColor value="0xFFBD7121"/>
+        <FontOutlineColor value="0x00FFFFFF"/>
+        <IsFontOutlineEnabled value="false"/>
+        <FontOutlineMinMaxDepth x="0.47500000" y="0.50000000"/>
+      </Item>
+      <Item>
+        <TextureSetName>White Plate 2</TextureSetName>
+        <DiffuseMapName>plate04</DiffuseMapName>
+        <NormalMapName>plate04_n</NormalMapName>
+        <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>
+        <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>
+        <FontColor value="0xFF0F2352"/>
+        <FontOutlineColor value="0xFFFF0000"/>
+        <IsFontOutlineEnabled value="false"/>
+        <FontOutlineMinMaxDepth x="0.10000000" y="0.50000000"/>
+      </Item>
+      <Item>
+        <TextureSetName>Police guv plate</TextureSetName>
+        <DiffuseMapName>plate05</DiffuseMapName>
+        <NormalMapName>plate05_n</NormalMapName>
+        <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>
+        <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>
+        <FontColor value="0xFF0F2352"/>
+        <FontOutlineColor value="0x00FFFFFF"/>
+        <IsFontOutlineEnabled value="false"/>
+        <FontOutlineMinMaxDepth x="0.47500000" y="0.50000000"/>
+      </Item>
+      <Item>
+        <TextureSetName>yankton plate</TextureSetName>
+        <DiffuseMapName>yankton_plate</DiffuseMapName>
+        <NormalMapName>yankton_plate_n</NormalMapName>
+        <FontExtents x="0.08000000" y="0.35500000" z="0.92000000" w="0.81600000"/>
+        <MaxLettersOnPlate x="7.00000000" y="1.00000000"/>
+        <FontColor value="0xFF000000"/>
+        <FontOutlineColor value="0xFF2BFF05"/>
+        <IsFontOutlineEnabled value="false"/>
+        <FontOutlineMinMaxDepth x="0.47500000" y="0.50000000"/>
+      </Item>
+    </Textures>
+    <DefaultTexureIndex value="4"/>
+    <NumericOffset value="0"/>
+    <AlphabeticOffset value="10"/>
+    <SpaceOffset value="63"/>
+    <RandomCharOffset value="36"/>
+    <NumRandomChar value="4"/>
+  </VehiclePlates>
+  <Colors>
+    <Item>
+      <color value="0xFF080808"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3850041493"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 0 Metallic Black				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0F0F0F"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_graphite</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1345033317"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 1 Metallic Graphite Black 				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1C1E21"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 2 Metallic Black Steal			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF292C2E"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 3 Metallic Dark Silver		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF5A5E66"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 4 Metallic Silver			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF777C87"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 5 Metallic Blue Silver		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF515459"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 6 Metallic Steel Gray		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF323B47"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 7 Metallic Shadow Silver			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF333333"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 8 Metallic Stone Silver	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1F2226"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 9 Metallic Midnight Silver	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF23292E"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 10 Metallic Gun Metal			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF121110"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_graphite</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="1345033317"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 11 Metallic Anthracite Grey	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF050505"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3850041493"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 12 Matte Black			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF121212"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 13 Matte Gray				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF2F3233"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 14 Matte Light Grey</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF080808"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3850041493"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 15 Util Black			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF121212"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_graphite</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="1345033317"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 16 Util Black Poly	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF202224"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_graphite</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1345033317"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 17 Util Dark silver	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF575961"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 18 Util Silver		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF23292E"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 19 Util Gun Metal			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF323B47"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 20 Util Shadow Silver		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0F1012"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3850041493"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 21 Worn Black			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF212121"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_graphite</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1345033317"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 22 Worn Graphite			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF5B5D5E"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 23 Worn Silver Grey		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF888A99"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 24 Worn Silver			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF697187"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_silver</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="607306136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 25 Worn Blue Silver		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B4654"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 26 Worn 	Shadow Silver		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF690000"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 27 Metallic Red				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF8A0B00"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 28 Metallic Torino Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF6B0000"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 29 Metallic Formula Red			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF611009"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 30 Metallic Blaze Red				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF4A0A0A"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 31 Metallic Graceful Red			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF470E0E"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 32 Metallic Garnet Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF380C00"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 33 Metallic Desert Red				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF26030B"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 34 Metallic Cabernet Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF630012"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 35 Metallic Candy Red			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF802800"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 36 Metallic Sunrise Orange		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF6E4F2D"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 37 Metallic Classic Gold			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFBD4800"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 38 Metallic Orange	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF780000"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 39 Matte Red</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF360000"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 40 Matte Dark Red			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFAB3F00"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 41 Matte Orange</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFDE7E00"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_yellow</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3440150791"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 42 Matte Yellow		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF520000"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 43 Util Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF8C0404"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 44 Util Bright Red				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF4A1000"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 45 Util Garnet Red</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF592525"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 46 Worn Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF754231"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 47 Worn Golden Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF210804"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 48 Worn Dark Red		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF001207"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 49 Metallic Dark Green	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF001A0B"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 50 Metallic Racing Green				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF00211E"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 51 Metallic Sea Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1F261E"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 52 Metallic Olive Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF003805"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 53 Metallic Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0B4145"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 54 Metallic Gasoline Blue Green		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF418503"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 55 Matte Lime Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0F1F15"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 56 Util Dark Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF023613"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 57 Util Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF162419"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 58 Worn Dark Green 	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF2A3625"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 59 Worn Green			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF455C56"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 60 Worn Sea Wash		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF000D14"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 61 Metallic Midnight Blue			 </colorName>
+    </Item>
+    <Item>
+      <color value="0xFF001029"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 62 Metallic Dark Blue			 </colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1C2F4F"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 63 Metallic Saxony Blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF001B57"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 64 Metallic Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B4E78"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 65 Metallic Mariner Blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF272D3B"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 66 Metallic Harbor Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF95B2DB"/>
+      <metallicID>EVehicleModelColorMetallic_2</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 67 Metallic Diamond Blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3E627A"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 68 Metallic Surf Blue				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1C3140"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 69 Metallic Nautical Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0055C4"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 70 Metallic Bright Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1A182E"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 71 Metallic Purple Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF161629"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 72 Metallic Spinnaker Blue</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0E316D"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 73 Metallic Ultra Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF395A83"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 74 Metallic Bright Blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF09142E"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 75 Util Dark Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0F1021"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 76 Util Midnight Blue</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF152A52"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 77 Util Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF324654"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 78 Util Sea Foam Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF152563"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 79 Uil Lightning blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF223BA1"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 80 Util Maui Blue Poly			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1F1FA1"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 81 Util Bright Blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF030E2E"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 82 Matte Dark Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF0F1E73"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 83 Matte Blue				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF001C32"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 84 Matte Midnight Blue		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF2A3754"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 85 Worn Dark blue	</colorName>
+    </Item>
+    <Item>
+      <color value="0xA0303C5E"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 86 Worn Blue</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B6796"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 87 Worn Light blue	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFF5890F"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_yellow</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3440150791"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 88 Metallic Taxi Yellow			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFD9A600"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_yellow</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3440150791"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 89 Metallic Race Yellow		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF4A341B"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 90 Metallic Bronze		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFA2A827"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_yellow</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="3440150791"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 91 Metallic Yellow Bird			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF568F00"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 92 Metallic Lime			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF57514B"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 93 Metallic Champagne				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF291B06"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 94 Metallic Pueblo Beige			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF262117"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 95 Metallic Dark Ivory			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF120D07"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 96 Metallic Choco Brown			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF332111"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 97 Metallic Golden Brown		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3D3023"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 98 Metallic Light Brown		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF5E5343"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 99 Metallic Straw Beige		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF37382B"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 100 Metallic Moss Brown		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF221918"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 101 Metallic Biston Brown			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF575036"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 102 Metallic Beechwood			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF241309"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 103 Metallic Dark Beechwood			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B1700"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 104 Metallic Choco Orange			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF6E6246"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 105 Metallic Beach Sand		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFB998D73"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 106 Metallic Sun Bleeched Sand		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFCFC0A5"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 107 Metallic Cream	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1F1709"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 108 Util Brown	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFB3D311D"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 109 Util Medium Brown		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF665847"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 110 Util Light Brown	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFF0F0F0"/>
+      <metallicID>EVehicleModelColorMetallic_2</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 111 Metallic White				</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFB3B9C9"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 112 Metallic Frost White		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF615F55"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 113 Worn Honey Beige		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF241E1A"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 114 Worn Brown			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF171413"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 115 Worn Dark Brown		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B372F"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 116 Worn straw beige		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B4045"/>
+      <metallicID>EVehicleModelColorMetallic_6</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 117 Brushed Steel			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF1A1E21"/>
+      <metallicID>EVehicleModelColorMetallic_6</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 118 Brushed Black steel	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF5E646B"/>
+      <metallicID>EVehicleModelColorMetallic_6</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 119 Brushed Aluminium	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF000000"/>
+      <metallicID>EVehicleModelColorMetallic_7</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 120 Chrome		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFB0B0B0"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 121 Worn Off White			 </colorName>
+    </Item>
+    <Item>
+      <color value="0xFF999999"/>
+      <metallicID>EVehicleModelColorMetallic_4</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 122 Util Off White			 </colorName>
+    </Item>
+    <Item>
+      <color value="0xFFB56519"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 123 Worn Orange	</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFC45C33"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 124 Worn Light Orange			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF47783C"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 125 Metallic Securicor Green		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFBA8425"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_yellow</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3440150791"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 126 Worn Taxi Yellow			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF2A77A1"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 127police car blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF243022"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 128 Matte Green		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF6B5F54"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_brown</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2201497177"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 129 Matte Brown		</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFC96E34"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 130 Worn Orange</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFD9D9D9"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 131 Matte White</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFF0F0F0"/>
+      <metallicID>EVehicleModelColorMetallic_5</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 132 Worn White</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3F4228"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 133 Worn Olive Army Green</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFFFFFFF"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_white</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="4066575219"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 134 Pure White</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFB01259"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_pink</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="2019367074"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 135 Hot Pink</colorName>
+    </Item>
+    <Item>
+      <color value="0x00F69799"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_pink</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="2019367074"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 136 Salmon pink</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF8F2F55"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_pink</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_bright</audioPrefix>
+      <audioColorHash value="2019367074"/>
+      <audioPrefixHash value="1815504495"/>
+      <colorName> 137 Metallic Vermillion Pink</colorName>
+    </Item>
+    <Item>
+      <color value="0x00C26610"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_orange</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="2639756769"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 138 Orange</colorName>
+    </Item>
+    <Item>
+      <color value="0x0069BD45"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 139 Green</colorName>
+    </Item>
+    <Item>
+      <color value="0x0000AEEF"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 140 Blue</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF000108"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 141 Mettalic Black Blue</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF050008"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 142 Metallic Black Purple</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF080000"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 143 Metallic Black Red</colorName>
+    </Item>
+    <Item>
+      <color value="0x00565751"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 144 hunter green</colorName>
+    </Item>
+    <Item>
+      <color value="0x00320642"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName> 145 Metallic Purple</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF00080F"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 146 Metaillic V Dark Blue</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF080808"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_black</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="3850041493"/>
+      <audioPrefixHash value="0"/>
+      <colorName>147 MODSHOP BLACK1</colorName>
+    </Item>
+    <Item>
+      <color value="0x00320642"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName>148 Matte Purple</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF050008"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName>149 Matte Dark Purple</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF6B0B00"/>
+      <metallicID>EVehicleModelColorMetallic_normal</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_red</audioColor>
+      <audioPrefix>none</audioPrefix>
+      <audioColorHash value="1585269136"/>
+      <audioPrefixHash value="0"/>
+      <colorName>150 Metallic Lava Red</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF121710"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 151 Matte Forest Green</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF323325"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 152 Matte Olive Drab</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF3B352D"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 153 Matte Desert Brown</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF706656"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 154 Matte Desert Tan</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF2B302B"/>
+      <metallicID>EVehicleModelColorMetallic_3</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_green</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_dark</audioPrefix>
+      <audioColorHash value="306110198"/>
+      <audioPrefixHash value="1169689894"/>
+      <colorName> 155 Matte Foilage Green</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF414347"/>
+      <metallicID>EVehicleModelColorMetallic_1</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_grey</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="807368168"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 156 DEFAULT ALLOY COLOR</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF6690B5"/>
+      <metallicID>EVehicleModelColorMetallic_2</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_blue</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="3826758445"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 157 Epsilon Blue			</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF47391B"/>
+      <metallicID>EVehicleModelColorMetallic_8</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 158 MP100 GOLD</colorName>
+    </Item>
+    <Item>
+      <color value="0xFF47391B"/>
+      <metallicID>EVehicleModelColorMetallic_9</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 159 MP100 GOLD SATIN</colorName>
+    </Item>
+    <Item>
+      <color value="0xFFFFD859"/>
+      <metallicID>EVehicleModelColorMetallic_8</metallicID>
+      <audioColor>POLICE_SCANNER_COLOUR_beige</audioColor>
+      <audioPrefix>POLICE_SCANNER_PREFIX_light</audioPrefix>
+      <audioColorHash value="1325014621"/>
+      <audioPrefixHash value="3089268592"/>
+      <colorName> 160 MP100 GOLD SPEC</colorName>
+    </Item>
+  </Colors>
+  <MetallicSettings>
+    <Item>
+      <specInt value="0.80000000"/>
+      <specFalloff value="510.00000000"/>
+      <specFresnel value="0.96000000"/>
+    </Item>
+    <Item>
+      <specInt value="0.50000000"/>
+      <specFalloff value="500.00000000"/>
+      <specFresnel value="0.96000000"/>
+    </Item>
+    <Item>
+      <specInt value="1.00000000"/>
+      <specFalloff value="510.00000000"/>
+      <specFresnel value="0.95000000"/>
+    </Item>
+    <Item>
+      <specInt value="0.50000000"/>
+      <specFalloff value="5.00000000"/>
+      <specFresnel value="0.96000000"/>
+    </Item>
+    <Item>
+      <specInt value="0.40000000"/>
+      <specFalloff value="500.00000000"/>
+      <specFresnel value="0.93000000"/>
+    </Item>
+    <Item>
+      <specInt value="1.00000000"/>
+      <specFalloff value="20.00000000"/>
+      <specFresnel value="0.96000000"/>
+    </Item>
+    <Item>
+      <specInt value="1.00000000"/>
+      <specFalloff value="160.00000000"/>
+      <specFresnel value="0.78000000"/>
+    </Item>
+    <Item>
+      <specInt value="1.00000000"/>
+      <specFalloff value="512.00000000"/>
+      <specFresnel value="0.05000000"/>
+    </Item>
+    <Item>
+      <specInt value="1.00000000"/>
+      <specFalloff value="300.00000000"/>
+      <specFresnel value="0.80000000"/>
+    </Item>
+    <Item>
+      <specInt value="1.00000000"/>
+      <specFalloff value="100.00000000"/>
+      <specFresnel value="0.80000000"/>
+    </Item>
+  </MetallicSettings>
+  <WindowColors>
+    <Item>
+      <color value="0x04FFFFFF"/>
+      <name>standard windows</name>
+    </Item>
+    <Item>
+      <color value="0xD1000000"/>
+      <name>Limo Black</name>
+    </Item>
+    <Item>
+      <color value="0xC4000000"/>
+      <name>Dark Smoke</name>
+    </Item>
+    <Item>
+      <color value="0xA2000000"/>
+      <name>Light Smoke</name>
+    </Item>
+    <Item>
+      <color value="0x00000000"/>
+      <name>0x8DB8E889</name>
+    </Item>
+  </WindowColors>   
+  <Kits>
+    <Item>
+      <kitName>4280_saleens7_modkit</kitName>
+      <id value="4280"/>
+      <kitType>MKT_SPECIAL</kitType>
+      <visibleMods>
+        <Item>
+          <modelName>sal_wing_1</modelName>
+          <modShopLabel>MNU_WING4</modShopLabel>
+          <linkedModels/>
+          <turnOffBones>
+            <Item>extra_1</Item>
+          </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>boot</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <turnOffExtra value="false"/>
+          <disableBonnetCamera value="false"/>
+          <allowBonnetSlide value="true"/>
+        </Item>
+      </visibleMods>
+      <linkMods/>
+      <statMods>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="75"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="40"/>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="60"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="80"/>
+          <audioApply value="1.00000000"/>
+          <weight value="30"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="40"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="5"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="10"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="15"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames/>
+      <liveryNames/>
+    </Item>
+  </Kits>
+    <Lights>
+			<Item>
+      <id value="4280"/>
+      <indicator>
+        <intensity value="0.37500000"/>
+        <falloffMax value="2.50000000"/>
+        <falloffExponent value="8.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="50.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF7300"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </indicator>
+      <rearIndicatorCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </rearIndicatorCorona>
+      <frontIndicatorCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </frontIndicatorCorona>
+      <tailLight>
+        <intensity value="0.25000000"/>
+        <falloffMax value="4.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="45.00000000"/>
+        <outerConeAngle value="90.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFF0000"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </tailLight>
+      <tailLightCorona>
+        <size value="1.20000000"/>
+        <size_far value="2.50000000"/>
+        <intensity value="5.00000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0xFFFF0F05"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightCorona>
+      <tailLightMiddleCorona>
+        <size value="0.00000000"/>
+        <size_far value="0.00000000"/>
+        <intensity value="0.00000000"/>
+        <intensity_far value="0.00000000"/>
+        <color value="0x00000000"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </tailLightMiddleCorona>
+      <headLight>
+        <intensity value="1.50000000"/>
+        <falloffMax value="35.00000000"/>
+        <falloffExponent value="16.00000000"/>
+        <innerConeAngle value="0.00000000"/>
+        <outerConeAngle value="60.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFF7FA7E3"/>
+        <textureName>VehicleLight_car_LED1</textureName>
+        <mirrorTexture value="false"/>
+      </headLight>
+      <headLightCorona>
+        <size value="0.10000000"/>
+        <size_far value="7.00000000"/>
+        <intensity value="7.00000000"/>
+        <intensity_far value="5.00000000"/>
+        <color value="0xFF61A5FF"/>
+        <numCoronas value="2"/>
+        <distBetweenCoronas value="34"/>
+        <distBetweenCoronas_far value="41"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.19972600"/>
+        <zRotation value="0.32825000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </headLightCorona>
+      <reversingLight>
+        <intensity value="0.50000000"/>
+        <falloffMax value="7.20000000"/>
+        <falloffExponent value="32.00000000"/>
+        <innerConeAngle value="20.00000000"/>
+        <outerConeAngle value="78.00000000"/>
+        <emmissiveBoost value="false"/>
+        <color value="0xFFFFFFFF"/>
+        <textureName/>
+        <mirrorTexture value="true"/>
+      </reversingLight>
+      <reversingLightCorona>
+        <size value="0.80000000"/>
+        <size_far value="2.00000000"/>
+        <intensity value="1.50000000"/>
+        <intensity_far value="1.00000000"/>
+        <color value="0x00F7F7F7"/>
+        <numCoronas value="1"/>
+        <distBetweenCoronas value="128"/>
+        <distBetweenCoronas_far value="255"/>
+        <xRotation value="0.00000000"/>
+        <yRotation value="0.00000000"/>
+        <zRotation value="0.00000000"/>
+        <zBias value="0.25000000"/>
+        <pullCoronaIn value="false"/>
+      </reversingLightCorona>
+      <name>saleens7</name>
+    </Item>
+   </Lights>
+	 <Wheels>
+    <Item>
+      <Item>
+        <wheelName>wheel_spt_01</wheelName>
+        <wheelVariation>wheel_spt_01w</wheelVariation>
+        <modShopLabel>SPT_01</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_02</wheelName>
+        <wheelVariation>wheel_spt_02w</wheelVariation>
+        <modShopLabel>SPT_02</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_03</wheelName>
+        <wheelVariation>wheel_spt_03w</wheelVariation>
+        <modShopLabel>SPT_03</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_04</wheelName>
+        <wheelVariation>wheel_spt_04w</wheelVariation>
+        <modShopLabel>SPT_04</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_05</wheelName>
+        <wheelVariation>wheel_spt_05w</wheelVariation>
+        <modShopLabel>SPT_05</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_06</wheelName>
+        <wheelVariation>wheel_spt_06w</wheelVariation>
+        <modShopLabel>SPT_06</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_07</wheelName>
+        <wheelVariation>wheel_spt_07w</wheelVariation>
+        <modShopLabel>SPT_07</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_08</wheelName>
+        <wheelVariation>wheel_spt_08w</wheelVariation>
+        <modShopLabel>SPT_08</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_09</wheelName>
+        <wheelVariation>wheel_spt_09w</wheelVariation>
+        <modShopLabel>SPT_09</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_10</wheelName>
+        <wheelVariation>wheel_spt_10w</wheelVariation>
+        <modShopLabel>SPT_10</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_11</wheelName>
+        <wheelVariation>wheel_spt_11w</wheelVariation>
+        <modShopLabel>SPT_11</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_12</wheelName>
+        <wheelVariation>wheel_spt_12w</wheelVariation>
+        <modShopLabel>SPT_12</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_13</wheelName>
+        <wheelVariation>wheel_spt_13w</wheelVariation>
+        <modShopLabel>SPT_13</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_14</wheelName>
+        <wheelVariation>wheel_spt_14w</wheelVariation>
+        <modShopLabel>SPT_14</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_15</wheelName>
+        <wheelVariation>wheel_spt_15w</wheelVariation>
+        <modShopLabel>SPT_15</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_16</wheelName>
+        <wheelVariation>wheel_spt_16w</wheelVariation>
+        <modShopLabel>SPT_16</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_17</wheelName>
+        <wheelVariation>wheel_spt_17w</wheelVariation>
+        <modShopLabel>SPT_17</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_18</wheelName>
+        <wheelVariation>wheel_spt_18w</wheelVariation>
+        <modShopLabel>SPT_18</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_19</wheelName>
+        <wheelVariation>wheel_spt_19w</wheelVariation>
+        <modShopLabel>SPT_19</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_20</wheelName>
+        <wheelVariation>wheel_spt_20w</wheelVariation>
+        <modShopLabel>SPT_20</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_21</wheelName>
+        <wheelVariation>wheel_spt_21w</wheelVariation>
+        <modShopLabel>SPT_21</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_22</wheelName>
+        <wheelVariation>wheel_spt_22w</wheelVariation>
+        <modShopLabel>SPT_22</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_23</wheelName>
+        <wheelVariation>wheel_spt_23w</wheelVariation>
+        <modShopLabel>SPT_23</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_24</wheelName>
+        <wheelVariation>wheel_spt_24w</wheelVariation>
+        <modShopLabel>SPT_24</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_spt_25</wheelName>
+        <wheelVariation>wheel_spt_25w</wheelVariation>
+        <modShopLabel>SPT_25</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_musc_01</wheelName>
+        <wheelVariation>wheel_musc_01w</wheelVariation>
+        <modShopLabel>MUSC_01</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_02</wheelName>
+        <wheelVariation>wheel_musc_02w</wheelVariation>
+        <modShopLabel>MUSC_02</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_03</wheelName>
+        <wheelVariation>wheel_musc_03w</wheelVariation>
+        <modShopLabel>MUSC_03</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_04</wheelName>
+        <wheelVariation>wheel_musc_04w</wheelVariation>
+        <modShopLabel>MUSC_04</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_05</wheelName>
+        <wheelVariation>wheel_musc_05w</wheelVariation>
+        <modShopLabel>MUSC_05</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_06</wheelName>
+        <wheelVariation>wheel_musc_06w</wheelVariation>
+        <modShopLabel>MUSC_06</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_07</wheelName>
+        <wheelVariation>wheel_musc_07w</wheelVariation>
+        <modShopLabel>MUSC_07</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_08</wheelName>
+        <wheelVariation>wheel_musc_08w</wheelVariation>
+        <modShopLabel>MUSC_08</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_09</wheelName>
+        <wheelVariation>wheel_musc_09w</wheelVariation>
+        <modShopLabel>MUSC_09</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_10</wheelName>
+        <wheelVariation>wheel_musc_10w</wheelVariation>
+        <modShopLabel>MUSC_10</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_11</wheelName>
+        <wheelVariation>wheel_musc_11w</wheelVariation>
+        <modShopLabel>MUSC_11</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_12</wheelName>
+        <wheelVariation>wheel_musc_12w</wheelVariation>
+        <modShopLabel>MUSC_12</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_13</wheelName>
+        <wheelVariation>wheel_musc_13w</wheelVariation>
+        <modShopLabel>MUSC_13</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_14</wheelName>
+        <wheelVariation>wheel_musc_14w</wheelVariation>
+        <modShopLabel>MUSC_14</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_15</wheelName>
+        <wheelVariation>wheel_musc_15w</wheelVariation>
+        <modShopLabel>MUSC_15</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_16</wheelName>
+        <wheelVariation>wheel_musc_16w</wheelVariation>
+        <modShopLabel>MUSC_16</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_17</wheelName>
+        <wheelVariation>wheel_musc_17w</wheelVariation>
+        <modShopLabel>MUSC_17</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_musc_20</wheelName>
+        <wheelVariation>wheel_musc_20w</wheelVariation>
+        <modShopLabel>MUSC_20</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_loride_01</wheelName>
+        <wheelVariation>wheel_loride_01w</wheelVariation>
+        <modShopLabel>LORIDE_01</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_02</wheelName>
+        <wheelVariation>wheel_loride_02w</wheelVariation>
+        <modShopLabel>LORIDE_02</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_03</wheelName>
+        <wheelVariation>wheel_loride_03w</wheelVariation>
+        <modShopLabel>LORIDE_03</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_04</wheelName>
+        <wheelVariation>wheel_loride_04w</wheelVariation>
+        <modShopLabel>LORIDE_04</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_05</wheelName>
+        <wheelVariation>wheel_loride_05w</wheelVariation>
+        <modShopLabel>LORIDE_05</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_06</wheelName>
+        <wheelVariation>wheel_loride_06w</wheelVariation>
+        <modShopLabel>LORIDE_06</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_07</wheelName>
+        <wheelVariation>wheel_loride_07w</wheelVariation>
+        <modShopLabel>LORIDE_07</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_08</wheelName>
+        <wheelVariation>wheel_loride_08w</wheelVariation>
+        <modShopLabel>LORIDE_08</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_09</wheelName>
+        <wheelVariation>wheel_loride_09w</wheelVariation>
+        <modShopLabel>LORIDE_09</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_10</wheelName>
+        <wheelVariation>wheel_loride_10w</wheelVariation>
+        <modShopLabel>LORIDE_10</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_11</wheelName>
+        <wheelVariation>wheel_loride_11w</wheelVariation>
+        <modShopLabel>LORIDE_11</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_12</wheelName>
+        <wheelVariation>wheel_loride_12w</wheelVariation>
+        <modShopLabel>LORIDE_12</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_13</wheelName>
+        <wheelVariation>wheel_loride_13w</wheelVariation>
+        <modShopLabel>LORIDE_13</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_14</wheelName>
+        <wheelVariation>wheel_loride_14w</wheelVariation>
+        <modShopLabel>LORIDE_14</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_loride_15</wheelName>
+        <wheelVariation>wheel_loride_15w</wheelVariation>
+        <modShopLabel>LORIDE_15</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_suv_01</wheelName>
+        <wheelVariation>wheel_suv_01w</wheelVariation>
+        <modShopLabel>SUV_01</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_02</wheelName>
+        <wheelVariation>wheel_suv_02w</wheelVariation>
+        <modShopLabel>SUV_02</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_03</wheelName>
+        <wheelVariation>wheel_suv_03w</wheelVariation>
+        <modShopLabel>SUV_03</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_04</wheelName>
+        <wheelVariation>wheel_suv_04w</wheelVariation>
+        <modShopLabel>SUV_04</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_05</wheelName>
+        <wheelVariation>wheel_suv_05w</wheelVariation>
+        <modShopLabel>SUV_05</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_06</wheelName>
+        <wheelVariation>wheel_suv_06w</wheelVariation>
+        <modShopLabel>SUV_06</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_07</wheelName>
+        <wheelVariation>wheel_suv_07w</wheelVariation>
+        <modShopLabel>SUV_07</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_08</wheelName>
+        <wheelVariation>wheel_suv_08w</wheelVariation>
+        <modShopLabel>SUV_08</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_09</wheelName>
+        <wheelVariation>wheel_suv_09w</wheelVariation>
+        <modShopLabel>SUV_09</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_10</wheelName>
+        <wheelVariation>wheel_suv_10w</wheelVariation>
+        <modShopLabel>SUV_10</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_11</wheelName>
+        <wheelVariation>wheel_suv_11w</wheelVariation>
+        <modShopLabel>SUV_11</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_12</wheelName>
+        <wheelVariation>wheel_suv_12w</wheelVariation>
+        <modShopLabel>SUV_12</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_13</wheelName>
+        <wheelVariation>wheel_suv_13w</wheelVariation>
+        <modShopLabel>SUV_13</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_14</wheelName>
+        <wheelVariation>wheel_suv_14w</wheelVariation>
+        <modShopLabel>SUV_14</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_15</wheelName>
+        <wheelVariation>wheel_suv_15w</wheelVariation>
+        <modShopLabel>SUV_15</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_16</wheelName>
+        <wheelVariation>wheel_suv_16w</wheelVariation>
+        <modShopLabel>SUV_16</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_17</wheelName>
+        <wheelVariation>wheel_suv_17w</wheelVariation>
+        <modShopLabel>SUV_17</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_18</wheelName>
+        <wheelVariation>wheel_suv_18w</wheelVariation>
+        <modShopLabel>SUV_18</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_suv_19</wheelName>
+        <wheelVariation>wheel_suv_19w</wheelVariation>
+        <modShopLabel>SUV_19</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_off_01</wheelName>
+        <wheelVariation>wheel_off_01w</wheelVariation>
+        <modShopLabel>OFFR_01</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_02</wheelName>
+        <wheelVariation>wheel_off_02w</wheelVariation>
+        <modShopLabel>OFFR_02</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_03</wheelName>
+        <wheelVariation>wheel_off_03w</wheelVariation>
+        <modShopLabel>OFFR_03</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_04</wheelName>
+        <wheelVariation>wheel_off_04w</wheelVariation>
+        <modShopLabel>OFFR_04</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_05</wheelName>
+        <wheelVariation>wheel_off_05w</wheelVariation>
+        <modShopLabel>OFFR_05</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_06</wheelName>
+        <wheelVariation>wheel_off_06w</wheelVariation>
+        <modShopLabel>OFFR_06</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_07</wheelName>
+        <wheelVariation>wheel_off_07w</wheelVariation>
+        <modShopLabel>OFFR_07</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_08</wheelName>
+        <wheelVariation>wheel_off_08w</wheelVariation>
+        <modShopLabel>OFFR_08</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_09</wheelName>
+        <wheelVariation>wheel_off_09w</wheelVariation>
+        <modShopLabel>OFFR_09</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_off_10</wheelName>
+        <wheelVariation>wheel_off_10w</wheelVariation>
+        <modShopLabel>OFFR_10</modShopLabel>
+        <rimRadius value="0.31620000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_drft_01</wheelName>
+        <wheelVariation>wheel_drft_01w</wheelVariation>
+        <modShopLabel>DRFT_01</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_02</wheelName>
+        <wheelVariation>wheel_drft_02w</wheelVariation>
+        <modShopLabel>DRFT_02</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_03</wheelName>
+        <wheelVariation>wheel_drft_03w</wheelVariation>
+        <modShopLabel>DRFT_03</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_04</wheelName>
+        <wheelVariation>wheel_drft_04w</wheelVariation>
+        <modShopLabel>DRFT_04</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_05</wheelName>
+        <wheelVariation>wheel_drft_05w</wheelVariation>
+        <modShopLabel>DRFT_05</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_06</wheelName>
+        <wheelVariation>wheel_drft_06w</wheelVariation>
+        <modShopLabel>DRFT_06</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_07</wheelName>
+        <wheelVariation>wheel_drft_07w</wheelVariation>
+        <modShopLabel>DRFT_07</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_08</wheelName>
+        <wheelVariation>wheel_drft_08w</wheelVariation>
+        <modShopLabel>DRFT_08</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_09</wheelName>
+        <wheelVariation>wheel_drft_09w</wheelVariation>
+        <modShopLabel>DRFT_09</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_10</wheelName>
+        <wheelVariation>wheel_drft_10w</wheelVariation>
+        <modShopLabel>DRFT_10</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_11</wheelName>
+        <wheelVariation>wheel_drft_11w</wheelVariation>
+        <modShopLabel>DRFT_11</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_12</wheelName>
+        <wheelVariation>wheel_drft_12w</wheelVariation>
+        <modShopLabel>DRFT_12</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_13</wheelName>
+        <wheelVariation>wheel_drft_13w</wheelVariation>
+        <modShopLabel>DRFT_13</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_14</wheelName>
+        <wheelVariation>wheel_drft_14w</wheelVariation>
+        <modShopLabel>DRFT_14</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_15</wheelName>
+        <wheelVariation>wheel_drft_15w</wheelVariation>
+        <modShopLabel>DRFT_15</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_16</wheelName>
+        <wheelVariation>wheel_drft_16w</wheelVariation>
+        <modShopLabel>DRFT_16</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_17</wheelName>
+        <wheelVariation>wheel_drft_17w</wheelVariation>
+        <modShopLabel>DRFT_17</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_18</wheelName>
+        <wheelVariation>wheel_drft_18w</wheelVariation>
+        <modShopLabel>DRFT_18</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_19</wheelName>
+        <wheelVariation>wheel_drft_19w</wheelVariation>
+        <modShopLabel>DRFT_19</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_20</wheelName>
+        <wheelVariation>wheel_drft_20w</wheelVariation>
+        <modShopLabel>DRFT_20</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_21</wheelName>
+        <wheelVariation>wheel_drft_21w</wheelVariation>
+        <modShopLabel>DRFT_21</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_22</wheelName>
+        <wheelVariation>wheel_drft_22w</wheelVariation>
+        <modShopLabel>DRFT_22</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_23</wheelName>
+        <wheelVariation>wheel_drft_23w</wheelVariation>
+        <modShopLabel>DRFT_23</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_drft_24</wheelName>
+        <wheelVariation>wheel_drft_24w</wheelVariation>
+        <modShopLabel>DRFT_24</modShopLabel>
+        <rimRadius value="0.34850000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_bkf_01</wheelName>
+        <wheelVariation>wheel_bkf_01w</wheelVariation>
+        <modShopLabel>BIKEW_01</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_02</wheelName>
+        <wheelVariation>wheel_bkf_02w</wheelVariation>
+        <modShopLabel>BIKEW_02</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_03</wheelName>
+        <wheelVariation>wheel_bkf_03w</wheelVariation>
+        <modShopLabel>BIKEW_03</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_04</wheelName>
+        <wheelVariation>wheel_bkf_04w</wheelVariation>
+        <modShopLabel>BIKEW_04</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_05</wheelName>
+        <wheelVariation>wheel_bkf_05w</wheelVariation>
+        <modShopLabel>BIKEW_05</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_06</wheelName>
+        <wheelVariation>wheel_bkf_06w</wheelVariation>
+        <modShopLabel>BIKEW_06</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_07</wheelName>
+        <wheelVariation>wheel_bkf_07w</wheelVariation>
+        <modShopLabel>BIKEW_07</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_08</wheelName>
+        <wheelVariation>wheel_bkf_08w</wheelVariation>
+        <modShopLabel>BIKEW_08</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_09</wheelName>
+        <wheelVariation>wheel_bkf_09w</wheelVariation>
+        <modShopLabel>BIKEW_09</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_10</wheelName>
+        <wheelVariation>wheel_bkf_10w</wheelVariation>
+        <modShopLabel>BIKEW_10</modShopLabel>
+        <rimRadius value="0.30990000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_11</wheelName>
+        <wheelVariation>wheel_bkf_11w</wheelVariation>
+        <modShopLabel>BIKEW_11</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_12</wheelName>
+        <wheelVariation>wheel_bkf_12w</wheelVariation>
+        <modShopLabel>BIKEW_12</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkf_13</wheelName>
+        <wheelVariation>wheel_bkf_13w</wheelVariation>
+        <modShopLabel>BIKEW_13</modShopLabel>
+        <rimRadius value="0.36450000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_01</wheelName>
+        <wheelVariation>wheel_bkr_01w</wheelVariation>
+        <modShopLabel>BIKEW_01</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_02</wheelName>
+        <wheelVariation>wheel_bkr_02w</wheelVariation>
+        <modShopLabel>BIKEW_02</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_03</wheelName>
+        <wheelVariation>wheel_bkr_03w</wheelVariation>
+        <modShopLabel>BIKEW_03</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_04</wheelName>
+        <wheelVariation>wheel_bkr_04w</wheelVariation>
+        <modShopLabel>BIKEW_04</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_05</wheelName>
+        <wheelVariation>wheel_bkr_05w</wheelVariation>
+        <modShopLabel>BIKEW_05</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_06</wheelName>
+        <wheelVariation>wheel_bkr_06w</wheelVariation>
+        <modShopLabel>BIKEW_06</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_07</wheelName>
+        <wheelVariation>wheel_bkr_07w</wheelVariation>
+        <modShopLabel>BIKEW_07</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_08</wheelName>
+        <wheelVariation>wheel_bkr_08w</wheelVariation>
+        <modShopLabel>BIKEW_08</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_09</wheelName>
+        <wheelVariation>wheel_bkr_09w</wheelVariation>
+        <modShopLabel>BIKEW_09</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_10</wheelName>
+        <wheelVariation>wheel_bkr_10w</wheelVariation>
+        <modShopLabel>BIKEW_10</modShopLabel>
+        <rimRadius value="0.30990000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_11</wheelName>
+        <wheelVariation>wheel_bkr_11w</wheelVariation>
+        <modShopLabel>BIKEW_11</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_12</wheelName>
+        <wheelVariation>wheel_bkr_12w</wheelVariation>
+        <modShopLabel>BIKEW_12</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_bkr_13</wheelName>
+        <wheelVariation>wheel_bkr_13w</wheelVariation>
+        <modShopLabel>BIKEW_13</modShopLabel>
+        <rimRadius value="0.34980000"/>
+        <rear value="true"/>
+      </Item>
+    </Item>
+    <Item>
+      <Item>
+        <wheelName>wheel_hiend_01</wheelName>
+        <wheelVariation>wheel_hiend_01w</wheelVariation>
+        <modShopLabel>HIEND_01</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_02</wheelName>
+        <wheelVariation>wheel_hiend_02w</wheelVariation>
+        <modShopLabel>HIEND_02</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_03</wheelName>
+        <wheelVariation>wheel_hiend_03w</wheelVariation>
+        <modShopLabel>HIEND_03</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_04</wheelName>
+        <wheelVariation>wheel_hiend_04w</wheelVariation>
+        <modShopLabel>HIEND_04</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_05</wheelName>
+        <wheelVariation>wheel_hiend_05w</wheelVariation>
+        <modShopLabel>HIEND_05</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_06</wheelName>
+        <wheelVariation>wheel_hiend_06w</wheelVariation>
+        <modShopLabel>HIEND_06</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_07</wheelName>
+        <wheelVariation>wheel_hiend_07w</wheelVariation>
+        <modShopLabel>HIEND_07</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_08</wheelName>
+        <wheelVariation>wheel_hiend_08w</wheelVariation>
+        <modShopLabel>HIEND_08</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_09</wheelName>
+        <wheelVariation>wheel_hiend_09w</wheelVariation>
+        <modShopLabel>HIEND_09</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_10</wheelName>
+        <wheelVariation>wheel_hiend_10w</wheelVariation>
+        <modShopLabel>HIEND_10</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_11</wheelName>
+        <wheelVariation>wheel_hiend_11w</wheelVariation>
+        <modShopLabel>HIEND_11</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_12</wheelName>
+        <wheelVariation>wheel_hiend_12w</wheelVariation>
+        <modShopLabel>HIEND_12</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_13</wheelName>
+        <wheelVariation>wheel_hiend_13w</wheelVariation>
+        <modShopLabel>HIEND_13</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_14</wheelName>
+        <wheelVariation>wheel_hiend_14w</wheelVariation>
+        <modShopLabel>HIEND_14</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_15</wheelName>
+        <wheelVariation>wheel_hiend_15w</wheelVariation>
+        <modShopLabel>HIEND_15</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_16</wheelName>
+        <wheelVariation>wheel_hiend_16w</wheelVariation>
+        <modShopLabel>HIEND_16</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_17</wheelName>
+        <wheelVariation>wheel_hiend_17w</wheelVariation>
+        <modShopLabel>HIEND_17</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_18</wheelName>
+        <wheelVariation>wheel_hiend_18w</wheelVariation>
+        <modShopLabel>HIEND_18</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_19</wheelName>
+        <wheelVariation>wheel_hiend_19w</wheelVariation>
+        <modShopLabel>HIEND_19</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+      <Item>
+        <wheelName>wheel_hiend_20</wheelName>
+        <wheelVariation>wheel_hiend_20w</wheelVariation>
+        <modShopLabel>HIEND_20</modShopLabel>
+        <rimRadius value="0.39800000"/>
+        <rear value="false"/>
+      </Item>
+    </Item>
+    <Item/>
+    <Item/>
+    <Item/>
+    <Item/>
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
