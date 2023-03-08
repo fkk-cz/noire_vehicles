@@ -270,7 +270,7 @@
 		<Item>
 			<modelName>hp4</modelName>
 			<txdName>hp4</txdName>
-			<handlingId>pdcvpi</handlingId>
+			<handlingId>CHPcvpi2</handlingId>
 			<gameName>hp4</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
@@ -279,7 +279,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>cvpiv8</audioNameHash>
+			<audioNameHash>police</audioNameHash>
 			<layout>LAYOUT_STD_EXITFIXUP</layout>
 			<coverBoundOffsets>POLICE3_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
