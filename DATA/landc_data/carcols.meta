@@ -162,21 +162,28 @@
             <statMods>
                 <Item>
                     <identifier />
-                    <modifier value="25" />
+                    <modifier value="20" />
                     <audioApply value="1.000000" />
                     <weight value="20" />
                     <type>VMT_ENGINE</type>
                 </Item>
                 <Item>
                     <identifier />
-                    <modifier value="50" />
+                    <modifier value="40" />
                     <audioApply value="1.000000" />
                     <weight value="20" />
                     <type>VMT_ENGINE</type>
                 </Item>
                 <Item>
                     <identifier />
-                    <modifier value="75" />
+                    <modifier value="60" />
+                    <audioApply value="1.000000" />
+                    <weight value="20" />
+                    <type>VMT_ENGINE</type>
+                </Item>
+                <Item>
+                    <identifier />
+                    <modifier value="80" />
                     <audioApply value="1.000000" />
                     <weight value="20" />
                     <type>VMT_ENGINE</type>
@@ -184,13 +191,6 @@
                 <Item>
                     <identifier />
                     <modifier value="100" />
-                    <audioApply value="1.000000" />
-                    <weight value="20" />
-                    <type>VMT_ENGINE</type>
-                </Item>
-                <Item>
-                    <identifier />
-                    <modifier value="150" />
                     <audioApply value="1.000000" />
                     <weight value="20" />
                     <type>VMT_ENGINE</type>
