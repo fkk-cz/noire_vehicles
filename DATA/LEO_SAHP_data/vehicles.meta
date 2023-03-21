@@ -370,13 +370,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_1 EXTRA_8</Item>
+				<Item>EXTRA_8</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_1 EXTRA_8</requiredExtras>
+			<requiredExtras>EXTRA_8</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
