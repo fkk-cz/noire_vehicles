@@ -4,17 +4,17 @@
 		<Item type="CHandlingData">
 			<handlingName>GwopDemon</handlingName>
 			<fMass value="1700.000000"/>
-			<fInitialDragCoeff value="4.220000"/>
+			<fInitialDragCoeff value="5.50000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.090000"/>
 			<vecInertiaMultiplier x="1.500000" y="1.300000" z="1.400000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="8"/>
-			<fInitialDriveForce value="0.575000"/>
-			<fDriveInertia value="1.375631200000"/>
-			<fClutchChangeRateScaleUpShift value="11.300000"/>
-			<fClutchChangeRateScaleDownShift value="11.300000"/>
-			<fInitialDriveMaxFlatVel value="200.000000"/>
+			<fInitialDriveForce value="0.5000"/>
+			<fDriveInertia value="0.800000"/>
+			<fClutchChangeRateScaleUpShift value="4.100000"/>
+			<fClutchChangeRateScaleDownShift value="4.100000"/>
+			<fInitialDriveMaxFlatVel value="175.000000"/>
 			<fBrakeForce value="1.200000"/>
 			<fBrakeBiasFront value="0.425000"/>
 			<fHandBrakeForce value="1.450000"/>
@@ -23,7 +23,7 @@
 			<fTractionCurveMin value="2.170000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
-			<fLowSpeedTractionLossMult value="0.800000"/>
+			<fLowSpeedTractionLossMult value="1.00000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.493000"/>
 			<fTractionLossMult value="0.5500000"/>
