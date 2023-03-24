@@ -50,7 +50,7 @@
 			<fSeatOffsetDistZ value="0.05"/>
 			<nMonetaryValue value="35000"/>
 			<strModelFlags>440010</strModelFlags>
-			<strHandlingFlags>0</strHandlingFlags>
+			<strHandlingFlags>20000</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
