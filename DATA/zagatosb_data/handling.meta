@@ -11,7 +11,7 @@
 			<fDriveBiasFront value="0.500000"/>
 			<nInitialDriveGears value="6"/>
 			<fInitialDriveForce value="0.350000"/>
-			<fDriveInertia value="1.500000"/>
+			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="3.000000"/>
 			<fClutchChangeRateScaleDownShift value="3.000000"/>
 			<fInitialDriveMaxFlatVel value="226.000000"/>
@@ -49,7 +49,7 @@
 			<fSeatOffsetDistZ value="0.050000"/>
 			<nMonetaryValue value="35000"/>
 			<strModelFlags>440010</strModelFlags>
-			<strHandlingFlags>0</strHandlingFlags>
+			<strHandlingFlags>20000</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
