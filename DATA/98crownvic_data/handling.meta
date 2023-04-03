@@ -49,7 +49,7 @@
 			<fSeatOffsetDistZ value="0.000000"/>
 			<nMonetaryValue value="35000"/>
 			<strModelFlags>440040</strModelFlags>
-			<strHandlingFlags>20103</strHandlingFlags>
+			<strHandlingFlags>20002</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>SPORTS_CAR</AIHandling>
 			<SubHandlingData>
