@@ -743,6 +743,7 @@
 				<Item>trailersmall</Item>
 				<Item>portskitrailer</Item>
 				<Item>dottrailer</Item>
+				<Item>trailercar</Item>
 			</trailers>
 			<additionalTrailers>
 				<Item>trailersmall2</Item>
