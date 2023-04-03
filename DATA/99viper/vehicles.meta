@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>viperv10</audioNameHash>
+			<audioNameHash>ta028viper</audioNameHash>
 			<layout>LAYOUT_LOW</layout>
 			<coverBoundOffsets>AIRTUG_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -64,13 +64,13 @@
 			<steerWheelMult value="1.000000"/>
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
-        15.000000
-        30.000000
-        60.000000
-        120.000000
-        500.000000
-        500.000000
-      </lodDistances>
+				15.000000
+				30.000000
+				60.000000
+				120.000000
+				500.000000
+				500.000000
+			</lodDistances>
 			<minSeatHeight value="10"/>
 			<identicalModelSpawnDistance value="20"/>
 			<maxNumOfSameColor value="10"/>
