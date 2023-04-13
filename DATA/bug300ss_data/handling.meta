@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>bug300ss</handlingName>
 			<fMass value="1978.0" />
-			<fInitialDragCoeff value="4.0" />
+			<fInitialDragCoeff value="2.3" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="-0.079999998211861" z="-0.30000001192093" />
