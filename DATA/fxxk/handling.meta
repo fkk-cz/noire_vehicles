@@ -39,7 +39,7 @@
 			<fAntiRollBarBiasFront value="0.6" />
 			<fRollCentreHeightFront value="0.34" />
 			<fRollCentreHeightRear value="0.34" />
-			<fCollisionDamageMult value="1.2/>
+			<fCollisionDamageMult value="1.2"/>
 			<fWeaponDamageMult value="1.0" />
 			<fDeformationDamageMult value="1.0" />
 			<fEngineDamageMult value="1.2" />
