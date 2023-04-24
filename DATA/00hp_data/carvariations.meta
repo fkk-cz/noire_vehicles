@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+  	<Item>
+      <modelName>00hp</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>135_03impabs_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="190"/>
+    </Item>
+  	<Item>
+      <modelName>00hp2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>135_03impabs_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2"/>
+      <sirenSettings value="191"/>
+    </Item>
+ </variationData>
+</CVehicleModelInfoVariation>
