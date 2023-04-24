@@ -6,8 +6,8 @@
 			<!--Model:police bicycle by candimods -->
 			<name>pbike</name>
 			<timeMultiplier value="1.00000000"/>
-			<lightFalloffMax value="100.00000000"/>
-			<lightFalloffExponent value="100.00000000"/>
+			<lightFalloffMax value="20.00000000"/>
+			<lightFalloffExponent value="20.00000000"/>
 			<lightInnerConeAngle value="1.29061000"/>
 			<lightOuterConeAngle value="50.00000000"/>
 			<lightOffset value="0.00000000"/>
@@ -206,7 +206,7 @@
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFF0000FF"/>
-					<intensity value="40.00000000"/>
+					<intensity value="5.00000000"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
@@ -243,7 +243,7 @@
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFFFF0000"/>
-					<intensity value="40.00000000"/>
+					<intensity value="5.00000000"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
@@ -280,7 +280,7 @@
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFF0000FF"/>
-					<intensity value="40.50000000"/>
+					<intensity value="5.50000000"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
@@ -317,7 +317,7 @@
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFFFF0000"/>
-					<intensity value="40.00000000"/>
+					<intensity value="5.00000000"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
