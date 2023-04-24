@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+
+
+
+
+
+
+
+
+
+
+    <Item>
+      <modelName>fleet78</modelName>
+       <colors>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Cotillion White -->
+            131
+            131
+            0
+			131
+            32
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Commodore Blue Metallic -->
+            62
+            62
+            0
+            62
+			73
+			62 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Ruidoso Saddle Metallic -->
+            33
+            131
+            0
+            33
+			90
+			33
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Sable Black -->
+            0 
+            0
+            0
+			0
+            107
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Columbia Blue -->
+            68
+            62
+            0
+			68
+            69
+			68
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Aztec Gold Firemist -->
+            90
+            90
+            0
+			90
+            107
+			90
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Seamist Green -->
+            60
+            0
+            0
+			60
+            56
+			60
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Mulberry Metallic -->
+            142
+            32
+            0
+			143
+            43
+			142
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Western Saddle Firemist -->
+            36
+            96
+            0
+            36
+			97
+			36
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Platinum Metallic -->
+            6
+            0
+            0
+			6
+            23
+			131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Blackwatch Green -->
+            49
+            49
+            0
+			49
+            49
+			49
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Carmine Red -->
+            27
+            131
+            0
+			27
+            131
+			27
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Autumn Haze Firemist -->
+            98
+            98
+            0
+			98
+            99
+			98
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Pewter Metallic -->
+            8
+            0
+            0
+			8
+			0
+            131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Colonial Yellow -->
+            160
+            160
+			0
+			160
+            160
+			160
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Canyon Copper Firemist -->
+            4
+            40
+            137
+			46
+            32
+			131
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Sable Black w/ red interior -->
+            0
+            0
+            0
+			0
+            27
+			27
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Triple Sable Black -->
+            0
+            0
+            0
+			0
+            0
+			27
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="499" />
+      <sirenSettings value="0" />
+    </Item>
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+    <Item>
+      <modelName>fleet78low</modelName>
+       <colors>
+        <Item>
+          <indices content="char_array">
+            27
+            34
+            135
+			27
+            32
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            30
+            103
+            38
+            30
+			103
+			0 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            145
+            131
+            70
+            145
+			131
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38 
+            0
+            36
+			38
+            0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            131
+            38
+			88
+            131
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Aztec Gold Firemist -->
+            90
+            90
+            36
+			90
+            107
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Seamist Green -->
+            60
+            0
+            51
+			60
+            56
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Mulberry Metallic -->
+            142
+            32
+            0
+			143
+            43
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Western Saddle Firemist -->
+            36
+            96
+            0
+            36
+			97
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            0
+            64
+			6
+            23
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Blackwatch Green -->
+            49
+            49
+            0
+			49
+            49
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Carmine Red -->
+            27
+            131
+            0
+			27
+            131
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Autumn Haze Firemist -->
+            98
+            98
+            0
+			98
+            99
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Pewter Metallic -->
+            8
+            0
+            0
+			8
+			0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Cadillac Colonial Yellow -->
+            160
+            160
+			0
+			160
+            160
+			0
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Canyon Copper Firemist -->
+            4
+            40
+            137
+			46
+            32
+			0
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Sable Black w/ red interior -->
+            0
+            0
+            0
+			0
+            27
+			0
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- Cadillac Triple Sable Black -->
+            0
+            0
+            0
+			0
+            0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>888_fleet78low_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="499" />
+      <sirenSettings value="0" />
+    </Item>
+	
+	
+	
+	
+	
+	
+
+
+
+
+  </variationData>
+</CVehicleModelInfoVariation>

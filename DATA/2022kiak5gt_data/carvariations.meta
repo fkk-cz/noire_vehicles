@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>2022kiak5gt</modelName>
+			<colors>
+				<Item>
+					<indices content="char_array">
+						<!-- Wolf Gray / Chestnut Brown -->
+						4
+						130
+						0
+						37
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Ebony Black / Chestnut Brown -->
+						0
+						130
+						0
+						27
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Sapphire Blue / Black -->
+						64
+						0
+						82
+						111
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Glacial White Pearl / Chestnut Brown -->
+						111
+						130
+						112
+						5
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Passion Red Tint Coat / Black -->
+						32
+						0
+						32
+						5
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Ebony Black / Black -->
+						0
+						0
+						0
+						5
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Wolf Gray / Black -->
+						4
+						0
+						0
+						5
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Sapphire Blue / Chestnut Brown -->
+						64
+						130
+						82
+						5
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Glacial White Pearl / Black -->
+						111
+						0
+						112
+						5
+					</indices>
+				</Item>
+				<Item>
+					<indices content="char_array">
+						<!-- Passion Red Tintcoat / Chestnut Brown -->
+						32
+						130
+						32
+						5
+					</indices>
+				</Item>
+			</colors>
+			<kits>
+				<Item>0_default_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges/>
+			<plateProbabilities>
+				<Probabilities/>
+			</plateProbabilities>
+			<lightSettings value="1"/>
+			<sirenSettings value="0"/>
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>
