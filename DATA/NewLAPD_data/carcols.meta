@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
 	<Sirens>
 		<Item>
-			<id value="800"/>
+			<id value="815"/>
 			<!--Custom siren 08CVPI-->
 			<name>08PDCVPIRotator</name>
 			<timeMultiplier value="1.00000000"/>
@@ -4053,20 +4053,20 @@
 					<flashiness>
 						<delta value="0.00000000"/>
 						<start value="0.00000000"/>
-						<speed value="0.00000000"/>
+						<speed value="1.00000000"/>
 						<sequencer value="4294967295"/>
 						<multiples value="1"/>
-						<direction value="false"/>
+						<direction value="true"/>
 						<syncToBpm value="false"/>
 					</flashiness>
 					<corona>
-						<intensity value="75.00000000"/>
-						<size value="1.50000000"/>
+						<intensity value="50.00000000"/>
+						<size value="1.20000000"/>
 						<pull value="0.02000000"/>
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFFFF0000"/>
-					<intensity value="0.50000000"/>
+					<intensity value="1.00000000"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
@@ -4090,20 +4090,20 @@
 					<flashiness>
 						<delta value="0.00000000"/>
 						<start value="0.00000000"/>
-						<speed value="0.00000000"/>
+						<speed value="1.00000000"/>
 						<sequencer value="1431655765"/>
 						<multiples value="1"/>
 						<direction value="true"/>
-						<syncToBpm value="true"/>
+						<syncToBpm value="false"/>
 					</flashiness>
 					<corona>
-						<intensity value="75.00000000"/>
-						<size value="1.20000000"/>
+						<intensity value="50.00000000"/>
+						<size value="1.15000000"/>
 						<pull value="0.02000000"/>
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFF0000FF"/>
-					<intensity value="0.50000000"/>
+					<intensity value="1.00000000"/>
 					<lightGroup value="1"/>
 					<rotate value="false"/>
 					<scale value="true"/>
