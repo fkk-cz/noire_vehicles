@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="2"/>
-			<flags>FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_REPORT_CRIME_IF_STANDING_ON FLAG_HAS_LIVERY</flags>
+			<flags>FLAG_EXTRAS_RARE FLAG_EXTRAS_STRONG FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_REPORT_CRIME_IF_STANDING_ON FLAG_HAS_LIVERY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_RACE</dashboardType>
@@ -106,13 +106,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_1 EXTRA_2 EXTRA_3 EXTRA_6 EXTRA_7</Item>
+				<Item>EXTRA_1 EXTRA_2 EXTRA_3 EXTRA_6</Item>
 			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_1 EXTRA_2 EXTRA_3 EXTRA_6 EXTRA_7</requiredExtras>
+			<requiredExtras>EXTRA_1 EXTRA_2 EXTRA_3 EXTRA_6</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
