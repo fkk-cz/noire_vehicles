@@ -7,8 +7,8 @@
 			<!-- Metas By DriFt Ragnarok -->
 			<name>BCSO</name>
 			<timeMultiplier value="1.00000000"/>
-			<lightFalloffMax value="950.00000000"/>
-			<lightFalloffExponent value="950.00000000"/>
+			<lightFalloffMax value="150.00000000"/>
+			<lightFalloffExponent value="150.00000000"/>
 			<lightInnerConeAngle value="2.29061000"/>
 			<lightOuterConeAngle value="70.00000000"/>
 			<lightOffset value="0.00000000"/>
