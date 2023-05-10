@@ -59,7 +59,7 @@
 			<tailLightCorona>
 				<size value="2.00000000"/>
 				<size_far value="1.50000000"/>
-				<intensity value="5.00000000"/>
+				<intensity value="1.50000000"/>
 				<intensity_far value="1.00000000"/>
 				<color value="0xFFFF0F05"/>
 				<numCoronas value="1"/>
