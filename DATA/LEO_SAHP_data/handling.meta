@@ -182,6 +182,15 @@
 					<fBackEndPopUpCarImpulseMult value="0.100000"/>
 					<fBackEndPopUpBuildingImpulseMult value="0.030000"/>
 					<fBackEndPopUpMaxDeltaSpeed value="0.600000"/>
+					<fToeFront value="0.000000"/>
+					<fToeRear value="0.000000"/>
+					<fCamberFront value="0.000000"/>
+					<fCamberRear value="0.000000"/>
+					<fCastor value="0.000000"/>
+					<fEngineResistance value="0.000000"/>
+					<fMaxDriveBiasTransfer value="-1.000000"/>
+					<fJumpForceScale value="1.000000"/>
+					<strAdvancedFlags>8000000</strAdvancedFlags>
 				</Item>
 				<Item type="NULL"/>
 				<Item type="NULL"/>
