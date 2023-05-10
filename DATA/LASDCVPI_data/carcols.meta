@@ -802,7 +802,7 @@
 			<useRealLights value="true"/>
 			<sirens>
 				<Item>
-					<!-- Siren 1 -->
+					<!-- Siren 1 FRONT RED STEADY BURN -->
 					<rotation>
 						<delta value="0"/>
 						<start value="0.7853982"/>
@@ -819,11 +819,11 @@
 						<sequencer value="4294967295"/>
 						<multiples value="1"/>
 						<direction value="false"/>
-						<syncToBpm value="true"/>
+						<syncToBpm value="false"/>
 					</flashiness>
 					<corona>
-						<intensity value="80"/>
-						<size value="2"/>
+						<intensity value="100"/>
+						<size value="2.0"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -859,8 +859,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="80"/>
-						<size value="2"/>
+						<intensity value="100"/>
+						<size value="1.5"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -896,8 +896,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="80"/>
-						<size value="2"/>
+						<intensity value="100"/>
+						<size value="1.5"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -933,8 +933,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="80"/>
-						<size value="2"/>
+						<intensity value="100"/>
+						<size value="1.5"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -970,8 +970,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="80"/>
-						<size value="2"/>
+						<intensity value="100"/>
+						<size value="1.5"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
