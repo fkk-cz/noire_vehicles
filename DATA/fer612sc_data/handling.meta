@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+	<HandlingData>
+		<Item type="CHandlingData">
+			<handlingName>fer612sc</handlingName>
+			<fMass value="2250"/>
+			<fInitialDragCoeff value="2.19"/>
+			<fDownforceModifier value="1.47"/>
+			<fPercentSubmerged value="78"/>
+			<vecCentreOfMassOffset x="0" y="-0.1645" z="0.5"/>
+			<vecInertiaMultiplier x="1.5" y="1.75" z="2.25"/>
+			<fDriveBiasFront value="0"/>
+			<nInitialDriveGears value="6"/>
+			<fInitialDriveForce value="0.284"/>
+			<fDriveInertia value="1"/>
+			<fClutchChangeRateScaleUpShift value="6"/>
+			<fClutchChangeRateScaleDownShift value="5.6"/>
+			<fInitialDriveMaxFlatVel value="208"/>
+			<fBrakeForce value="0.308"/>
+			<fBrakeBiasFront value="0.55"/>
+			<fHandBrakeForce value="0.65"/>
+			<fSteeringLock value="33.6"/>
+			<fTractionCurveMax value="1.44"/>
+			<fTractionCurveMin value="1.16"/>
+			<fTractionCurveLateral value="16.5"/>
+			<fTractionSpringDeltaMax value="0.136"/>
+			<fLowSpeedTractionLossMult value="0"/>
+			<fCamberStiffnesss value="0.1"/>
+			<fTractionBiasFront value="0.462"/>
+			<fTractionLossMult value="1.32"/>
+			<fSuspensionForce value="3.02"/>
+			<fSuspensionCompDamp value="1.51"/>
+			<fSuspensionReboundDamp value="1.006667"/>
+			<fSuspensionUpperLimit value="0.114"/>
+			<fSuspensionLowerLimit value="-0.154"/>
+			<fSuspensionRaise value="0"/>
+			<fSuspensionBiasFront value="0.45"/>
+			<fAntiRollBarForce value="0.5"/>
+			<fAntiRollBarBiasFront value="0.45"/>
+			<fRollCentreHeightFront value="0.24"/>
+			<fRollCentreHeightRear value="0.24"/>
+			<fCollisionDamageMult value="1"/>
+			<fWeaponDamageMult value="1"/>
+			<fDeformationDamageMult value="0.5"/>
+			<fEngineDamageMult value="3.3"/>
+			<fPetrolTankVolume value="105"/>
+			<fOilVolume value="6.5"/>
+			<fSeatOffsetDistX value="0"/>
+			<fSeatOffsetDistY value="-0.05"/>
+			<fSeatOffsetDistZ value="0"/>
+			<nMonetaryValue value="80000"/>
+			<strModelFlags>440044</strModelFlags>
+			<strHandlingFlags>40020103</strHandlingFlags>
+			<strDamageFlags>0</strDamageFlags>
+			<AIHandling>SPORTS_CAR</AIHandling>
+			<SubHandlingData>
+				<Item type="CCarHandlingData">
+					<fEngineResistance value="0.25"/>
+					<fCamberFront value="-0.002"/>
+					<fCastor value="-0.175"/>
+					<fToeFront value="-0.007"/>
+					<fCamberRear value="-0.001"/>
+					<fToeRear value="0.002"/>
+					<strAdvancedFlags>18040000</strAdvancedFlags>
+				</Item>
+				<Item type="NULL"/>
+				<Item type="NULL"/>
+			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>
