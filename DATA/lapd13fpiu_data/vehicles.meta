@@ -4,10 +4,10 @@
 	<residentAnims/>
 	<InitDatas>
 		<Item>
-			<modelName>chp3</modelName>
-			<txdName>chp3</txdName>
-			<handlingId>chp3</handlingId>
-			<gameName>chp3</gameName>
+			<modelName>metrofpiu</modelName>
+			<txdName>metrofpiu</txdName>
+			<handlingId>METROFPIU</handlingId>
+			<gameName>metrofpiu</gameName>
 			<vehicleMakeName>FORD</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
 			<expressionName>null</expressionName>
@@ -15,7 +15,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>BALLER2</audioNameHash>
+			<audioNameHash>sentinel</audioNameHash>
 			<layout>LAYOUT_RANGER</layout>
 			<coverBoundOffsets>CAVALCADE_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -73,11 +73,11 @@
 			<steerWheelMult value="1.000000"/>
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
-				25.000000
-				40.000000
-				100.000000
-				150.000000
-				300.000000
+				500.000000
+				500.000000
+				500.000000
+				500.000000
+				500.000000
 				500.000000
 			</lodDistances>
 			<minSeatHeight value="0.966"/>
@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_EXTRAS_RARE FLAG_EXTRAS_STRONG FLAG_HAS_LIVERY FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_ALLOW_HATS_NO_ROOF</flags>
+			<flags>FLAG_HAS_LIVERY FLAG_HAS_INTERIOR_EXTRAS FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_ALLOW_HATS_NO_ROOF</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_FEROCI</dashboardType>
@@ -100,14 +100,12 @@
 			<trailers/>
 			<additionalTrailers/>
 			<drivers/>
-			<extraIncludes>
-				<Item>EXTRA_1 EXTRA_2</Item>
-			</extraIncludes>
+			<extraIncludes/>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_1 EXTRA_2</requiredExtras>
+			<requiredExtras/>
 			<rewards/>
 			<cinematicPartCamera>
 				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
@@ -130,7 +128,19 @@
 	<txdRelationships>
 		<Item>
 			<parent>vehicles_feroci_interior</parent>
-			<child>fpiu</child>
+			<child>lapd13fpiuv</child>
+		</Item>
+		<Item>
+			<parent>vehicles_feroci_interior</parent>
+			<child>lapd13fpiu</child>
+		</Item>
+		<Item>
+			<parent>vehicles_feroci_interior</parent>
+			<child>lapd13fpiut</child>
+		</Item>
+		<Item>
+			<parent>vehicles_feroci_interior</parent>
+			<child>metrofpiu</child>
 		</Item>
 	</txdRelationships>
 </CVehicleModelInfo__InitDataList>
