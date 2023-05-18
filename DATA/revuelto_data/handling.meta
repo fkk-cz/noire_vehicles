@@ -4,13 +4,13 @@
 		<Item type="CHandlingData">
 			<handlingName>Revuelto</handlingName>
 			<fMass value="1628.000000"/>
-			<fInitialDragCoeff value="3.500000"/>
+			<fInitialDragCoeff value="4.500000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="1"/>
-			<fInitialDriveForce value="0.480000"/>
+			<fInitialDriveForce value="0.440000"/>
 			<fDriveInertia value="1.250000"/>
 			<fClutchChangeRateScaleUpShift value="5.000000"/>
 			<fClutchChangeRateScaleDownShift value="5.000000"/>
@@ -51,7 +51,7 @@
 			<fRocketBoostCapacity value="1.250000"/>
 			<fBoostMaxSpeed value="70.000000"/>
 			<strModelFlags>00440010</strModelFlags>
-			<strHandlingFlags>00020002</strHandlingFlags>
+			<strHandlingFlags>21002</strHandlingFlags>
 			<strDamageFlags>00000000</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
