@@ -703,7 +703,7 @@
 	</Kits>
 	<Sirens>
 		<Item>
-			<id value="837"/>
+			<id value="838"/>
 			<name>LASD11</name>
 			<timeMultiplier value="2"/>
 			<lightFalloffMax value="60"/>
