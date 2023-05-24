@@ -4,24 +4,24 @@
 		<Item type="CHandlingData">
 			<handlingName>Revuelto</handlingName>
 			<fMass value="1628.0" />
-			<fInitialDragCoeff value="3.5" />
+			<fInitialDragCoeff value="6.0" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />
 			<vecInertiaMultiplier x="1.0" y="1.6000000238419" z="1.6000000238419" />
 			<fDriveBiasFront value="0.0" />
 			<nInitialDriveGears value="1" />
-			<fInitialDriveForce value="0.44" />
+			<fInitialDriveForce value="0.3" />
 			<fDriveInertia value="1.25" />
 			<fClutchChangeRateScaleUpShift value="5.0" />
 			<fClutchChangeRateScaleDownShift value="5.0" />
-			<fInitialDriveMaxFlatVel value="247.5" />
+			<fInitialDriveMaxFlatVel value="220.0" />
 			<fBrakeForce value="0.5" />
 			<fBrakeBiasFront value="0.45" />
 			<fHandBrakeForce value="0.5" />
 			<fSteeringLock value="30.0" />
 			<fTractionCurveMax value="2.65" />
-			<fTractionCurveMin value="3.5" />
+			<fTractionCurveMin value="2.8" />
 			<fTractionCurveLateral value="22.5" />
 			<fTractionSpringDeltaMax value="0.15" />
 			<fLowSpeedTractionLossMult value="0.8" />
