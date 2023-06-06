@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>LSSDTAURUS</handlingName>
 			<fMass value="1800.0" />
-			<fInitialDragCoeff value="4.5" />
+			<fInitialDragCoeff value="3.75" />
 			<fDownforceModifier value="1.4" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="-0.050000000745058" />
