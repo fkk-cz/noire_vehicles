@@ -3,51 +3,52 @@
 	<HandlingData>
 		<Item type="CHandlingData">
 			<handlingName>SILV86LSSV</handlingName>
-			<fMass value="3900.000000"/>
-			<fInitialDragCoeff value="5.700000"/>
-			<fPercentSubmerged value="100.000000"/>
-			<vecCentreOfMassOffset x="0.000000" y="0.360000" z="-0.534000"/>
-			<vecInertiaMultiplier x="0.450000" y="0.450000" z="0.580000"/>
-			<fDriveBiasFront value="0.50000000"/>
-			<nInitialDriveGears value="5"/>
-			<fInitialDriveForce value="0.200000"/>
-			<fDriveInertia value="0.800000"/>
-			<fClutchChangeRateScaleUpShift value="2.200000"/>
-			<fClutchChangeRateScaleDownShift value="1.800000"/>
-			<fInitialDriveMaxFlatVel value="182.900000"/>
-			<fBrakeForce value="0.765000"/>
-			<fBrakeBiasFront value="0.562500"/>
-			<fHandBrakeForce value="0.750000"/>
-			<fSteeringLock value="36.000000"/>
-			<fTractionCurveMax value="2.000000"/>
-			<fTractionCurveMin value="1.900000"/>
-			<fTractionCurveLateral value="17.000000"/>
-			<fTractionSpringDeltaMax value="0.230000"/>
-			<fLowSpeedTractionLossMult value="0.00000"/>
-			<fCamberStiffnesss value="0.000000"/>
-			<fTractionBiasFront value="0.50000"/>
-			<fTractionLossMult value="0.0000"/>
-			<fSuspensionForce value="0.800000"/>
-			<fSuspensionCompDamp value="0.60000"/>
-			<fSuspensionReboundDamp value="0.100000"/>
-			<fSuspensionUpperLimit value="0.450000"/>
-			<fSuspensionLowerLimit value="-0.270000"/>
-			<fSuspensionRaise value="0.000000"/>
-			<fSuspensionBiasFront value="0.575000"/>
-			<fAntiRollBarForce value="0.000000"/>
-			<fAntiRollBarBiasFront value="0.500000"/>
-			<fRollCentreHeightFront value="0.5000000"/>
-			<fRollCentreHeightRear value="0.500000"/>
-			<fCollisionDamageMult value="1.200000"/>
-			<fWeaponDamageMult value="1.100000"/>
-			<fDeformationDamageMult value="1.200000"/>
-			<fEngineDamageMult value="1.600000"/>
-			<fPetrolTankVolume value="80.000000"/>
-			<fOilVolume value="8.000000"/>
-			<fSeatOffsetDistX value="0.000000"/>
-			<fSeatOffsetDistY value="0.000000"/>
-			<fSeatOffsetDistZ value="0.000000"/>
-			<nMonetaryValue value="50000"/>
+			<fMass value="3900.0" />
+			<fInitialDragCoeff value="5.7" />
+			<fDownforceModifier value="0.0" />
+			<fPercentSubmerged value="100.0" />
+			<vecCentreOfMassOffset x="0.0" y="0.36000001430511" z="-0.533999979496" />
+			<vecInertiaMultiplier x="0.44999998807907" y="0.44999998807907" z="0.5799999833107" />
+			<fDriveBiasFront value="0.5" />
+			<nInitialDriveGears value="5" />
+			<fInitialDriveForce value="0.2" />
+			<fDriveInertia value="0.8" />
+			<fClutchChangeRateScaleUpShift value="2.2" />
+			<fClutchChangeRateScaleDownShift value="1.8" />
+			<fInitialDriveMaxFlatVel value="182.9" />
+			<fBrakeForce value="0.765" />
+			<fBrakeBiasFront value="0.5625" />
+			<fHandBrakeForce value="0.75" />
+			<fSteeringLock value="36.0" />
+			<fTractionCurveMax value="2.0" />
+			<fTractionCurveMin value="1.9" />
+			<fTractionCurveLateral value="17.0" />
+			<fTractionSpringDeltaMax value="0.23" />
+			<fLowSpeedTractionLossMult value="0.0" />
+			<fCamberStiffnesss value="0.0" />
+			<fTractionBiasFront value="0.5" />
+			<fTractionLossMult value="1.5" />
+			<fSuspensionForce value="2.0" />
+			<fSuspensionCompDamp value="1.8" />
+			<fSuspensionReboundDamp value="1.8" />
+			<fSuspensionUpperLimit value="0.25" />
+			<fSuspensionLowerLimit value="-0.17" />
+			<fSuspensionRaise value="0.0" />
+			<fSuspensionBiasFront value="0.575" />
+			<fAntiRollBarForce value="0.0" />
+			<fAntiRollBarBiasFront value="0.5" />
+			<fRollCentreHeightFront value="0.5" />
+			<fRollCentreHeightRear value="0.5" />
+			<fCollisionDamageMult value="1.1156" />
+			<fWeaponDamageMult value="1.1" />
+			<fDeformationDamageMult value="1.2" />
+			<fEngineDamageMult value="1.3258" />
+			<fPetrolTankVolume value="80.0" />
+			<fOilVolume value="8.0" />
+			<fSeatOffsetDistX value="0.0" />
+			<fSeatOffsetDistY value="0.0" />
+			<fSeatOffsetDistZ value="0.0" />
+			<nMonetaryValue value="50000" />
 			<strModelFlags>220010</strModelFlags>
 			<strHandlingFlags>420100</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
