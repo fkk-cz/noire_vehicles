@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
   <Sirens>
      <Item>
-      <id value="190"/>
+      <id value="1900"/>
       <name>SAHP_Retro</name>
       <timeMultiplier value="1.00000000"/>
       <lightFalloffMax value="20.00000000"/>
