@@ -4,24 +4,24 @@
 		<Item type="CHandlingData">
 			<handlingName>project8</handlingName>
 			<fMass value="1745.000000"/>
-			<fInitialDragCoeff value="1.999940"/>
-			<fDownforceModifier value="200.000000"/>
+			<fInitialDragCoeff value="3.200000"/>
+			<fDownforceModifier value="0.000000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.020000" z="0.000000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.200000" z="1.400000"/>
 			<fDriveBiasFront value="0.550000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.218000"/>
+			<fInitialDriveForce value="0.310000"/>
 			<fDriveInertia value="1.000000"/>
 			<fClutchChangeRateScaleUpShift value="8.100000"/>
 			<fClutchChangeRateScaleDownShift value="8.100000"/>
-			<fInitialDriveMaxFlatVel value="230.002228"/>
+			<fInitialDriveMaxFlatVel value="188.500000"/>
 			<fBrakeForce value="0.900000"/>
 			<fBrakeBiasFront value="0.550000"/>
 			<fHandBrakeForce value="0.650000"/>
 			<fSteeringLock value="40.000000"/>
-			<fTractionCurveMax value="2.620000"/>
-			<fTractionCurveMin value="2.380000"/>
+			<fTractionCurveMax value="2.720000"/>
+			<fTractionCurveMin value="2.550000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="1.200000"/>
