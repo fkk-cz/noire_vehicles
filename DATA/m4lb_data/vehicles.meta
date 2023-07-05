@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>rb26dett</audioNameHash>
-			<layout>LAYOUT_LOW</layout>
+			<layout>LAYOUT_DELTA_LOW</layout>
 			<coverBoundOffsets>ZION_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
