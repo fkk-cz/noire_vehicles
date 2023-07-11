@@ -52,7 +52,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="2"/>
+						<size value="1.2"/>
 						<pull value="0.1"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -89,7 +89,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="2"/>
+						<size value="1.2"/>
 						<pull value="0.1"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -126,7 +126,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="2"/>
+						<size value="1.2"/>
 						<pull value="0.1"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -163,7 +163,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="2"/>
+						<size value="1.2"/>
 						<pull value="0.1"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -199,8 +199,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="0"/>
-						<size value="0"/>
+						<intensity value="50"/>
+						<size value="1.2"/>
 						<pull value="0.15"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -237,8 +237,8 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="0.5"/>
-						<pull value="0.005"/>
+						<size value="1.2"/>
+						<pull value="0.15"/>
 						<faceCamera value="false"/>
 					</corona>
 					<color value="0xFF000AFF"/>
@@ -274,7 +274,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="0.5"/>
+						<size value="1.2"/>
 						<pull value="0.005"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -311,7 +311,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="0.5"/>
+						<size value="1.2"/>
 						<pull value="0.005"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -421,8 +421,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="85"/>
-						<size value="2"/>
+						<intensity value="50"/>
+						<size value="1.2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -458,8 +458,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="85"/>
-						<size value="2"/>
+						<intensity value="50"/>
+						<size value="1.2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -495,8 +495,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="85"/>
-						<size value="2"/>
+						<intensity value="50"/>
+						<size value="1.2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -532,8 +532,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="85"/>
-						<size value="2"/>
+						<intensity value="50"/>
+						<size value="1.2"/>
 						<pull value="0.03"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -570,7 +570,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="0.7"/>
+						<size value="1.2"/>
 						<pull value="0.05"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -607,7 +607,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="0.7"/>
+						<size value="1.2"/>
 						<pull value="0.05"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -644,7 +644,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="1.5"/>
+						<size value="1.2"/>
 						<pull value="0.05"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -681,7 +681,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="1.5"/>
+						<size value="1.1"/>
 						<pull value="0.05"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -718,7 +718,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="1.5"/>
+						<size value="1.1"/>
 						<pull value="0.05"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -755,7 +755,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="50"/>
-						<size value="1.5"/>
+						<size value="1.2"/>
 						<pull value="0.05"/>
 						<faceCamera value="false"/>
 					</corona>
