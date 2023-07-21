@@ -7,7 +7,7 @@
 		<Item>
 			<modelName>legacy16ram</modelName>
 			<txdName>legacy16ram</txdName>
-			<handlingId>SANDKING</handlingId>
+			<handlingId>legacy16ram</handlingId>
 			<gameName>legacy16ram</gameName>
 			<vehicleMakeName>18FORD</vehicleMakeName>
 			<expressionDictName>null</expressionDictName>
