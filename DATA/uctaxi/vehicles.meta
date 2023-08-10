@@ -7,7 +7,7 @@
 			<modelName>UCTAXI</modelName>
 			<!--2011 Crown Victoria made by Zeakor Designs-->
 			<txdName>UCTAXI</txdName>
-			<handlingId>pdcvpi</handlingId>
+			<handlingId>uctaxi</handlingId>
 			<gameName>UCTAXI</gameName>
 			<vehicleMakeName/>
 			<expressionDictName>null</expressionDictName>
