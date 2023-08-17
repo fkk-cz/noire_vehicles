@@ -16,7 +16,7 @@
 			<animConvRoofName>null</animConvRoofName>
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
-			<audioNameHash>46fordmodular</audioNameHash>
+			<audioNameHash>police</audioNameHash>
 			<layout>LAYOUT_STANDARD</layout>
 			<coverBoundOffsets>POLICE_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
