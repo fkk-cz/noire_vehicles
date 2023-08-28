@@ -103,12 +103,14 @@
       </trailers>
       <additionalTrailers />
       <drivers />
-      <extraIncludes />
+	  <extraIncludes>
+			<Item>EXTRA_1 EXTRA_4 EXTRA_11 EXTRA_12</Item>
+	  </extraIncludes>
       <doorsWithCollisionWhenClosed />
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="false" />
-      <requiredExtras />
+	  <requiredExtras>EXTRA_1 EXTRA_3 EXTRA_5 EXTRA_6 EXTRA_8 EXTRA_9</requiredExtras>
       <rewards />
       <cinematicPartCamera>
         <Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
