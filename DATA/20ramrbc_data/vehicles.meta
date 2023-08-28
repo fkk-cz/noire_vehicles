@@ -90,14 +90,16 @@
       <trailers />
       <additionalTrailers />
       <drivers />
-      <extraIncludes />
+      <extraIncludes>
+			<Item>EXTRA_1 EXTRA_2 EXTRA_3</Item>
+	  </extraIncludes>			
       <doorsWithCollisionWhenClosed>
         <Item>VEH_EXT_BONNET</Item>
       </doorsWithCollisionWhenClosed>
       <driveableDoors />
       <bumpersNeedToCollideWithMap value="false" />
       <needsRopeTexture value="true" />
-      <requiredExtras />
+	  <requiredExtras>EXTRA_1 EXTRA_2 EXTRA_3</requiredExtras>
       <rewards />
       <cinematicPartCamera>
         <Item>WHEEL_WIDE_REAR_RIGHT_CAMERA</Item>
