@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList>
+	<residentTxd>vehshare</residentTxd>
+	<residentAnims/>
+	<InitDatas>
+		<Item>
+			<modelName>corvette54</modelName>
+			<txdName>corvette54</txdName>
+			<handlingId>corvette54</handlingId>
+			<gameName>corvette54</gameName>
+			<vehicleMakeName>CHEVROLET</vehicleMakeName>
+			<expressionDictName>null</expressionDictName>
+			<expressionName>null</expressionName>
+			<animConvRoofDictName>null</animConvRoofDictName>
+			<animConvRoofName>null</animConvRoofName>
+			<animConvRoofWindowsAffected/>
+			<ptfxAssetName>null</ptfxAssetName>
+			<audioNameHash>chevy235</audioNameHash>
+			<layout>LAYOUT_LOW</layout>
+			<coverBoundOffsets>COQUETTE3_COVER_OFFSET_INFO</coverBoundOffsets>
+			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+			<scenarioLayout/>
+			<cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
+			<aimCameraName>MID_BOX_VEHICLE_AIM_CAMERA</aimCameraName>
+			<bonnetCameraName>VEHICLE_BONNET_CAMERA_MID</bonnetCameraName>
+			<povCameraName>COQUETTE3_POV_CAMERA_LEFT</povCameraName>
+			<FirstPersonDriveByIKOffset x="0.000000" y="-0.050000" z="0.000000"/>
+			<FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000"/>
+			<FirstPersonProjectileDriveByIKOffset x="0.000000" y="-0.100000" z="0.030000"/>
+			<FirstPersonProjectileDriveByPassengerIKOffset x="-0.035000" y="-0.070000" z="0.015000"/>
+			<FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.040000" z="0.000000"/>
+			<FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="-0.100000" z="0.000000"/>
+			<FirstPersonMobilePhoneOffset x="0.143000" y="0.241000" z="0.476000"/>
+			<FirstPersonPassengerMobilePhoneOffset x="0.184000" y="0.159000" z="0.380000"/>
+			<PovCameraOffset x="-0.010000" y="-0.130000" z="0.590000"/>
+			<PovCameraVerticalAdjustmentForRollCage value="0.000000"/>
+			<PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<vfxInfoName>VFXVEHICLEINFO_CAR_GENERIC</vfxInfoName>
+			<shouldUseCinematicViewMode value="true"/>
+			<shouldCameraTransitionOnClimbUpDown value="false"/>
+			<shouldCameraIgnoreExiting value="false"/>
+			<AllowPretendOccupants value="true"/>
+			<AllowJoyriding value="true"/>
+			<AllowSundayDriving value="true"/>
+			<AllowBodyColorMapping value="true"/>
+			<wheelScale value="0.22"/>
+			<wheelScaleRear value="0.22"/>
+			<dirtLevelMin value="0.0"/>
+			<dirtLevelMax value="0.45"/>
+			<envEffScaleMin value="0.000000"/>
+			<envEffScaleMax value="1.000000"/>
+			<envEffScaleMin2 value="0.000000"/>
+			<envEffScaleMax2 value="1.000000"/>
+			<damageMapScale value="0.400000"/>
+			<damageOffsetScale value="0.400000"/>
+			<diffuseTint value="0x00FFFFFF"/>
+			<steerWheelMult value="1"/>
+			<HDTextureDist value="5"/>
+			<lodDistances content="float_array">
+				10
+				25
+				60
+				120
+				500
+				500
+			</lodDistances>
+			<minSeatHeight value="0.844"/>
+			<identicalModelSpawnDistance value="100"/>
+			<maxNumOfSameColor value="1"/>
+			<defaultBodyHealth value="1000"/>
+			<pretendOccupantsScale value="1"/>
+			<visibleSpawnDistScale value="1"/>
+			<trackerPathWidth value="2"/>
+			<weaponForceMult value="1"/>
+			<frequency value="30"/>
+			<swankness>SWANKNESS_4</swankness>
+			<maxNum value="1"/>
+			<flags>FLAG_EXTRAS_STRONG FLAG_RICH_CAR FLAG_EXTRAS_CONVERTIBLE</flags>
+			<type>VEHICLE_TYPE_CAR</type>
+			<plateType>VPT_BACK_PLATES</plateType>
+			<dashboardType>VDT_DUKES</dashboardType>
+			<vehicleClass>VC_SPORT_CLASSIC</vehicleClass>
+			<wheelType>VWT_MUSCLE</wheelType>
+			<trailers/>
+			<additionalTrailers/>
+			<drivers/>
+			<extraIncludes/>
+			<doorsWithCollisionWhenClosed/>
+			<driveableDoors/>
+			<bumpersNeedToCollideWithMap value="false"/>
+			<needsRopeTexture value="false"/>
+			<requiredExtras/>
+			<rewards/>
+			<cinematicPartCamera>
+				<Item>WHEEL_FRONT_RIGHT_CAMERA</Item>
+				<Item>WHEEL_FRONT_LEFT_CAMERA</Item>
+				<Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+				<Item>WHEEL_REAR_LEFT_CAMERA</Item>
+			</cinematicPartCamera>
+			<NmBraceOverrideSet/>
+			<buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000"/>
+			<buoyancySphereSizeScale value="1.000000"/>
+			<pOverrideRagdollThreshold type="NULL"/>
+			<firstPersonDrivebyData>
+				<Item>STD_COQUETTE3_FRONT_LEFT</Item>
+				<Item>STD_COQUETTE3_FRONT_RIGHT</Item>
+			</firstPersonDrivebyData>
+		</Item>
+	</InitDatas>
+	<txdRelationships>
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>

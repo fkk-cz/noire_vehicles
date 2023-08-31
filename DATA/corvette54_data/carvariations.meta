@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>corvette54</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array"> <!-- Polo White -->
+            111
+            106
+            0
+			28
+            27
+			111
+          </indices>
+        </Item>
+         <Item>
+          <indices content="char_array"> <!-- Black -->
+            0
+            106
+            0
+			28
+            27
+			111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Sportsman Red -->
+            28
+            106
+            0
+			28
+            27
+			111
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- Pennant Blue -->
+            195
+            106
+            68
+			195
+            218
+			218
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>corvette54_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
