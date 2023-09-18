@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>jester4</audioNameHash>
-			<layout>LAYOUT_STANDARD</layout>
+			<layout>LAYOUT_STD_RHDS</layout>
 			<coverBoundOffsets>RHDS_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
