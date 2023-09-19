@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>CARLTON</handlingName>
 			<fMass value="2900.000000"/>
-			<fInitialDragCoeff value="10.50000"/>
+			<fInitialDragCoeff value="11.00000"/>
 			<fPercentSubmerged value="85.000000"/>
 			<vecCentreOfMassOffset x="0.000000" y="0.080000" z="-0.010000"/>
 			<vecInertiaMultiplier x="1.200000" y="1.400000" z="1.60000"/>
@@ -18,12 +18,12 @@
 			<fBrakeForce value="1.25000"/>
 			<fBrakeBiasFront value="0.750000"/>
 			<fHandBrakeForce value="0.650000"/>
-			<fSteeringLock value="40.000000"/>
+			<fSteeringLock value="34.000000"/>
 			<fTractionCurveMax value="2.450000"/>
 			<fTractionCurveMin value="2.150000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.140000"/>
-			<fLowSpeedTractionLossMult value="3.00000"/>
+			<fLowSpeedTractionLossMult value="2.00000"/>
 			<fCamberStiffnesss value="0.000000"/>
 			<fTractionBiasFront value="0.50000"/>
 			<fTractionLossMult value="1.000000"/>
