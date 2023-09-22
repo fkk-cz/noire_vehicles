@@ -4,18 +4,18 @@
 		<Item type="CHandlingData">
 			<handlingName>LASD11</handlingName>
 			<fMass value="2597.0" />
-			<fInitialDragCoeff value="5.5" />
+			<fInitialDragCoeff value="7.5" />
 			<fDownforceModifier value="6.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />
 			<vecInertiaMultiplier x="1.2000000476837" y="1.6000000238419" z="2.0" />
 			<fDriveBiasFront value="0.5" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.4" />
+			<fInitialDriveForce value="0.35" />
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="5.0" />
 			<fClutchChangeRateScaleDownShift value="5.0" />
-			<fInitialDriveMaxFlatVel value="189.0" />
+			<fInitialDriveMaxFlatVel value="170.0" />
 			<fBrakeForce value="0.9" />
 			<fBrakeBiasFront value="0.65" />
 			<fHandBrakeForce value="0.6" />
