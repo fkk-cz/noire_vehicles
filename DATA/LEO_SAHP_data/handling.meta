@@ -591,7 +591,7 @@
 			<fRollCentreHeightFront value="0.0"/>
 			<fRollCentreHeightRear value="0.0"/>
 			<fCollisionDamageMult value="1.5"/>
-			<fWeaponDamageMult value="0.5"/>
+			<fWeaponDamageMult value="2.5"/>
 			<fDeformationDamageMult value="3.0"/>
 			<fEngineDamageMult value="1.5"/>
 			<fPetrolTankVolume value="100.0"/>
@@ -606,7 +606,7 @@
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
 				<Item type="CFlyingHandlingData">
-					<fThrust value="1.05"/>
+					<fThrust value="0.9"/>
 					<fThrustFallOff value="0.045"/>
 					<fThrustVectoring value="0.4"/>
 					<fYawMult value="-1.45"/>
