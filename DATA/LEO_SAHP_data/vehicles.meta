@@ -1012,13 +1012,13 @@
 				</Item>
 			</drivers>
 			<extraIncludes>
-				<Item>EXTRA_2 EXTRA_4 EXTRA_7 EXTRA_8</Item>
+				<Item></Item>
 			</extraIncludes>			
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras>EXTRA_2 EXTRA_4 EXTRA_7 EXTRA_8</requiredExtras>
+			<requiredExtras></requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
