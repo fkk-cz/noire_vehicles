@@ -189,7 +189,7 @@
 			<handlingName>lasdcharger</handlingName>
 			<fMass value="1950.0" />
 			<fInitialDragCoeff value="7.0" />
-			<fDownforceModifier value="0.0" />
+			<fDownforceModifier value="2.5" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />
 			<vecInertiaMultiplier x="1.0" y="1.3999999761581" z="1.6000000238419" />
