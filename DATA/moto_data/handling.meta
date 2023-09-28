@@ -17,7 +17,7 @@
 			<fInitialDriveMaxFlatVel value="200.000000"/>
 			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.650000"/>
-			<fHandBrakeForce value="1.650000"/>
+			<fHandBrakeForce value="0.000000"/>
 			<fSteeringLock value="24.000000"/>
 			<fTractionCurveMax value="2.200000"/>
 			<fTractionCurveMin value="2.090000"/>
@@ -49,7 +49,7 @@
 			<fSeatOffsetDistZ value="0.000000"/>
 			<nMonetaryValue value="20000"/>
 			<strModelFlags>440010</strModelFlags>
-			<strHandlingFlags>1</strHandlingFlags>
+			<strHandlingFlags>11</strHandlingFlags>
 			<strDamageFlags>0</strDamageFlags>
 			<AIHandling>AVERAGE</AIHandling>
 			<SubHandlingData>
