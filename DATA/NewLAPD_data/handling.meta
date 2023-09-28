@@ -123,14 +123,14 @@
 		<Item type="CHandlingData">
 			<handlingName>15pdfpiss</handlingName>
 			<fMass value="2000.0" />
-			<fInitialDragCoeff value="4.5" />
+			<fInitialDragCoeff value="5.5" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="-0.050000000745058" />
 			<vecInertiaMultiplier x="1.0" y="1.0" z="1.0" />
 			<fDriveBiasFront value="0.5" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.37" />
+			<fInitialDriveForce value="0.32" />
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="5.0" />
 			<fClutchChangeRateScaleDownShift value="5.0" />
