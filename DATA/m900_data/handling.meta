@@ -18,7 +18,7 @@
 			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.650000"/>
 			<fHandBrakeForce value="1.650000"/>
-			<fSteeringLock value="31.000000"/>
+			<fSteeringLock value="22.000000"/>
 			<fTractionCurveMax value="2.100000"/>
 			<fTractionCurveMin value="2.000000"/>
 			<fTractionCurveLateral value="22.500000"/>
@@ -57,7 +57,7 @@
 					<fLeanFwdCOMMult value="0.000000"/>
 					<fLeanFwdForceMult value="12.250000"/>
 					<fLeanBakCOMMult value="0.000000"/>
-					<fLeanBakForceMult value="14.000000"/>
+					<fLeanBakForceMult value="5.000000"/>
 					<fMaxBankAngle value="38.000000"/>
 					<fFullAnimAngle value="38.000000"/>
 					<fDesLeanReturnFrac value="0.160000"/>
