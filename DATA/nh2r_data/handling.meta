@@ -4,7 +4,7 @@
 		<Item type="CHandlingData">
 			<handlingName>nh2r</handlingName>
 			<fMass value="250.0" />
-			<fInitialDragCoeff value="1.8" />
+			<fInitialDragCoeff value="2.4" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="95.0" />
 			<vecCentreOfMassOffset x="0.0" y="-0.0099999997764826" z="-0.10000000149012" />
@@ -15,7 +15,7 @@
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="8.0" />
 			<fClutchChangeRateScaleDownShift value="8.0" />
-			<fInitialDriveMaxFlatVel value="160.0" />
+			<fInitialDriveMaxFlatVel value="150.0" />
 			<fBrakeForce value="1.4" />
 			<fBrakeBiasFront value="0.65" />
 			<fHandBrakeForce value="1.65" />
@@ -58,7 +58,7 @@
 					<fLeanFwdCOMMult value="0.000000"/>
 					<fLeanFwdForceMult value="12.250000"/>
 					<fLeanBakCOMMult value="0.000000"/>
-					<fLeanBakForceMult value="14.000000"/>
+					<fLeanBakForceMult value="7.500000"/>
 					<fMaxBankAngle value="38.000000"/>
 					<fFullAnimAngle value="38.000000"/>
 					<fDesLeanReturnFrac value="0.160000"/>
