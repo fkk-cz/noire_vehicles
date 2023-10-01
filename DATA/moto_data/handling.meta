@@ -10,20 +10,20 @@
 			<vecInertiaMultiplier x="1.000000" y="1.000000" z="1.000000"/>
 			<fDriveBiasFront value="0.000000"/>
 			<nInitialDriveGears value="6"/>
-			<fInitialDriveForce value="0.330000"/>
+			<fInitialDriveForce value="0.360000"/>
 			<fDriveInertia value="1.000000"/>
-			<fClutchChangeRateScaleUpShift value="3.000000"/>
-			<fClutchChangeRateScaleDownShift value="3.000000"/>
+			<fClutchChangeRateScaleUpShift value="3.500000"/>
+			<fClutchChangeRateScaleDownShift value="3.500000"/>
 			<fInitialDriveMaxFlatVel value="200.000000"/>
-			<fBrakeForce value="1.000000"/>
+			<fBrakeForce value="3.000000"/>
 			<fBrakeBiasFront value="0.650000"/>
 			<fHandBrakeForce value="0.000000"/>
-			<fSteeringLock value="24.000000"/>
-			<fTractionCurveMax value="2.200000"/>
-			<fTractionCurveMin value="2.090000"/>
-			<fTractionCurveLateral value="19.500000"/>
+			<fSteeringLock value="31.000000"/>
+			<fTractionCurveMax value="2.450000"/>
+			<fTractionCurveMin value="2.350000"/>
+			<fTractionCurveLateral value="21.500000"/>
 			<fTractionSpringDeltaMax value="0.030000"/>
-			<fLowSpeedTractionLossMult value="0.800000"/>
+			<fLowSpeedTractionLossMult value="0.400000"/>
 			<fCamberStiffnesss value="1.120000"/>
 			<fTractionBiasFront value="0.450000"/>
 			<fTractionLossMult value="0.800000"/>
@@ -55,12 +55,12 @@
 			<SubHandlingData>
 				<Item type="CBikeHandlingData">
 					<fLeanFwdCOMMult value="0.000000"/>
-					<fLeanFwdForceMult value="12.250000"/>
+					<fLeanFwdForceMult value="14.250000"/>
 					<fLeanBakCOMMult value="0.000000"/>
-					<fLeanBakForceMult value="3.000000"/>
-					<fMaxBankAngle value="38.000000"/>
-					<fFullAnimAngle value="38.000000"/>
-					<fDesLeanReturnFrac value="0.160000"/>
+					<fLeanBakForceMult value="5.000000"/>
+					<fMaxBankAngle value="45.000000"/>
+					<fFullAnimAngle value="45.000000"/>
+					<fDesLeanReturnFrac value="0.190000"/>
 					<fStickLeanMult value="1.000000"/>
 					<fBrakingStabilityMult value="-1.000000"/>
 					<fInAirSteerMult value="-2.500000"/>
