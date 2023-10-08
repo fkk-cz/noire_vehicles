@@ -56,7 +56,10 @@
       <SubHandlingData>
         <Item type="CCarHandlingData">
           <strAdvancedFlags>14000000</strAdvancedFlags>
-        </Item>
-        <Item type="NULL" />
-        <Item type="NULL" />
-      </SubHandlingData>
+        	</Item>
+        		<Item type="NULL" />
+        		<Item type="NULL" />
+      			</SubHandlingData>
+		</Item>
+	</HandlingData>
+</CHandlingDataMgr>
