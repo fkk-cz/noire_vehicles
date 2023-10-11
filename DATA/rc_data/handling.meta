@@ -4,18 +4,18 @@
 		<Item type="CHandlingData">
 			<handlingName>RC</handlingName>
 			<fMass value="250.0" />
-			<fInitialDragCoeff value="4.5" />
+			<fInitialDragCoeff value="6.5" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="95.0" />
 			<vecCentreOfMassOffset x="0.0" y="-0.0099999997764826" z="-0.10000000149012" />
 			<vecInertiaMultiplier x="1.0" y="1.0" z="1.0" />
 			<fDriveBiasFront value="0.0" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.28" />
+			<fInitialDriveForce value="0.2" />
 			<fDriveInertia value="1.0" />
-			<fClutchChangeRateScaleUpShift value="2.0" />
-			<fClutchChangeRateScaleDownShift value="3.0" />
-			<fInitialDriveMaxFlatVel value="152.0" />
+			<fClutchChangeRateScaleUpShift value="1.4" />
+			<fClutchChangeRateScaleDownShift value="1.4" />
+			<fInitialDriveMaxFlatVel value="122.0" />
 			<fBrakeForce value="1.4" />
 			<fBrakeBiasFront value="0.65" />
 			<fHandBrakeForce value="1.65" />
