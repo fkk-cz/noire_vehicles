@@ -4,30 +4,30 @@
 		<Item type="CHandlingData">
 			<handlingName>mbbs20</handlingName>
 			<fMass value="1800.0" />
-			<fInitialDragCoeff value="3.5" />
+			<fInitialDragCoeff value="5.5" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />
 			<vecInertiaMultiplier x="1.0" y="1.2999999523163" z="1.5" />
 			<fDriveBiasFront value="0.2" />
 			<nInitialDriveGears value="7" />
-			<fInitialDriveForce value="0.33" />
+			<fInitialDriveForce value="0.22" />
 			<fDriveInertia value="1.0" />
-			<fClutchChangeRateScaleUpShift value="6.5" />
-			<fClutchChangeRateScaleDownShift value="6.5" />
-			<fInitialDriveMaxFlatVel value="200.2" />
+			<fClutchChangeRateScaleUpShift value="3.1" />
+			<fClutchChangeRateScaleDownShift value="3.1" />
+			<fInitialDriveMaxFlatVel value="155.0" />
 			<fBrakeForce value="1.2" />
 			<fBrakeBiasFront value="0.55" />
 			<fHandBrakeForce value="0.7" />
 			<fSteeringLock value="37.5" />
-			<fTractionCurveMax value="2.7" />
-			<fTractionCurveMin value="2.5" />
-			<fTractionCurveLateral value="22.5" />
+			<fTractionCurveMax value="2.4" />
+			<fTractionCurveMin value="2.15" />
+			<fTractionCurveLateral value="20.5" />
 			<fTractionSpringDeltaMax value="0.15" />
-			<fLowSpeedTractionLossMult value="0.8" />
+			<fLowSpeedTractionLossMult value="2.2" />
 			<fCamberStiffnesss value="0.0" />
 			<fTractionBiasFront value="0.485" />
-			<fTractionLossMult value="1.0" />
+			<fTractionLossMult value="1.5" />
 			<fSuspensionForce value="2.6" />
 			<fSuspensionCompDamp value="1.5" />
 			<fSuspensionReboundDamp value="2.2" />
@@ -42,7 +42,7 @@
 			<fCollisionDamageMult value="1.0" />
 			<fWeaponDamageMult value="1.0" />
 			<fDeformationDamageMult value="0.9" />
-			<fEngineDamageMult value="1.1844" />
+			<fEngineDamageMult value="1.1069" />
 			<fPetrolTankVolume value="65.0" />
 			<fOilVolume value="5.0" />
 			<fSeatOffsetDistX value="0.0" />
