@@ -2,7 +2,7 @@
 <CVehicleModelInfoVarGlobal>
 	<Sirens>
 		<Item>
-			<id value="94481"/>
+			<id value="117"/>
 			<name>c3f350rollback</name>
 			<timeMultiplier value="1.00000000"/>
 			<lightFalloffMax value="90.00000000"/>
