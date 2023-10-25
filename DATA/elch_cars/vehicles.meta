@@ -1377,7 +1377,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>brawler</audioNameHash>
-			<layout>LAYOUT_DELTA_PICKUP</layout>
+			<layout>LAYOUT_RANGER_SWAT</layout>
 			<coverBoundOffsets>SHERIFF2_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
