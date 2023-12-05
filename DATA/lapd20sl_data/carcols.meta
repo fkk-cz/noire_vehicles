@@ -144,7 +144,7 @@
 	</Lights>
 	<Sirens>
 		<Item>
-			<id value="10170"/>
+			<id value="188"/>
 			<name>lapd20sl</name>
 			<timeMultiplier value="1"/>
 			<lightFalloffMax value="90"/>
