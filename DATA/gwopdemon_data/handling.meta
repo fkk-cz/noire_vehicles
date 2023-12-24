@@ -9,18 +9,18 @@
 			<vecCentreOfMassOffset x="0.000000" y="-0.050000" z="-0.090000"/>
 			<vecInertiaMultiplier x="1.500000" y="1.300000" z="1.400000"/>
 			<fDriveBiasFront value="0.000000"/>
-			<nInitialDriveGears value="8"/>
-			<fInitialDriveForce value="0.5000"/>
+			<nInitialDriveGears value="7"/>
+			<fInitialDriveForce value="0.42"/>
 			<fDriveInertia value="0.800000"/>
-			<fClutchChangeRateScaleUpShift value="4.100000"/>
-			<fClutchChangeRateScaleDownShift value="4.100000"/>
+			<fClutchChangeRateScaleUpShift value="5.100000"/>
+			<fClutchChangeRateScaleDownShift value="5.100000"/>
 			<fInitialDriveMaxFlatVel value="195.000000"/>
-			<fBrakeForce value="1.100000"/>
+			<fBrakeForce value="1.000000"/>
 			<fBrakeBiasFront value="0.425000"/>
-			<fHandBrakeForce value="1.450000"/>
+			<fHandBrakeForce value="1.00000"/>
 			<fSteeringLock value="40.200000"/>
-			<fTractionCurveMax value="2.350000"/>
-			<fTractionCurveMin value="2.170000"/>
+			<fTractionCurveMax value="2.000000"/>
+			<fTractionCurveMin value="1.90000"/>
 			<fTractionCurveLateral value="22.500000"/>
 			<fTractionSpringDeltaMax value="0.150000"/>
 			<fLowSpeedTractionLossMult value="1.10000"/>
@@ -38,7 +38,7 @@
 			<fAntiRollBarBiasFront value="0.650000"/>
 			<fRollCentreHeightFront value="0.240000"/>
 			<fRollCentreHeightRear value="0.240000"/>
-			<fCollisionDamageMult value="1.275444"/>
+			<fCollisionDamageMult value="1.500000"/>
 			<fWeaponDamageMult value="1.000000"/>
 			<fDeformationDamageMult value="1.500000"/>
 			<fEngineDamageMult value="1.500000"/>
