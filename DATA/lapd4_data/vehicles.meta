@@ -73,13 +73,13 @@
 			<steerWheelMult value="1.000000"/>
 			<HDTextureDist value="5.000000"/>
 			<lodDistances content="float_array">
-        35.000000
-        55.000000
-        70.000000
-        140.000000
-        500.000000
-        500.000000
-      </lodDistances>
+				35.000000
+				55.000000
+				70.000000
+				140.000000
+				500.000000
+				500.000000
+			</lodDistances>
 			<minSeatHeight value="0.83"/>
 			<identicalModelSpawnDistance value="20"/>
 			<maxNumOfSameColor value="10"/>
@@ -91,7 +91,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_0</swankness>
 			<maxNum value="2"/>
-			<flags>FLAG_EXTRAS_STRONG FLAG_HAS_LIVERY FLAG_EXTRAS_ALL FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_HAS_INTERIOR_EXTRAS FLAG_REPORT_CRIME_IF_STANDING_ON</flags>
+			<flags>FLAG_EXTRAS_STRONG FLAG_HAS_LIVERY FLAG_EXTRAS_RARE FLAG_LAW_ENFORCEMENT FLAG_EMERGENCY_SERVICE FLAG_NO_RESPRAY FLAG_DONT_SPAWN_IN_CARGEN FLAG_HAS_INTERIOR_EXTRAS FLAG_REPORT_CRIME_IF_STANDING_ON</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_BACK_PLATES</plateType>
 			<dashboardType>VDT_FEROCI</dashboardType>
@@ -105,12 +105,14 @@
 					<npcName/>
 				</Item>
 			</drivers>
-			<extraIncludes/>
+			<extraIncludes>
+				<Item>EXTRA_1 EXTRA_2 EXTRA_4 EXTRA_10 EXTRA_11 EXTRA_12</Item>
+			</extraIncludes>
 			<doorsWithCollisionWhenClosed/>
 			<driveableDoors/>
 			<bumpersNeedToCollideWithMap value="false"/>
 			<needsRopeTexture value="false"/>
-			<requiredExtras/>
+			<requiredExtras>EXTRA_1 EXTRA_2 EXTRA_4 EXTRA_10 EXTRA_11 EXTRA_12</requiredExtras>
 			<rewards>
 				<Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
 				<Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
