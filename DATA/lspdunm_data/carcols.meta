@@ -1,153 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfoVarGlobal>
-<Kits>
-    <Item>
-      <kitName>1492_modkit</kitName>
-      <id value="1492" />	 	  
-      <kitType>MKT_SPECIAL</kitType>
-      <visibleMods>
-      </visibleMods>
-      <linkMods />
-      <statMods>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ENGINE</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_BRAKES</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_BRAKES</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_BRAKES</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_GEARBOX</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_GEARBOX</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="5" />
-          <type>VMT_GEARBOX</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_ARMOUR</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="10" />
-          <type>VMT_ARMOUR</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="20" />
-          <type>VMT_ARMOUR</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="30" />
-          <type>VMT_ARMOUR</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="40" />
-          <type>VMT_ARMOUR</type>
-        </Item>
-	<Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-        <Item>
-          <identifier />
-          <modifier value="0" />
-          <audioApply value="1.000000" />
-          <weight value="0" />
-          <type>VMT_SUSPENSION</type>
-        </Item>
-      </statMods>
-      <slotNames />
-      <liveryNames>
+	<Kits>
+		<Item>
+			<kitName>1492_modkit</kitName>
+			<id value="1492"/>
+			<kitType>MKT_SPECIAL</kitType>
+			<visibleMods/>
+			<linkMods/>
+			<statMods>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ENGINE</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_BRAKES</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="5"/>
+					<type>VMT_GEARBOX</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="10"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="20"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="30"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="40"/>
+					<type>VMT_ARMOUR</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+				<Item>
+					<identifier/>
+					<modifier value="0"/>
+					<audioApply value="1.000000"/>
+					<weight value="0"/>
+					<type>VMT_SUSPENSION</type>
+				</Item>
+			</statMods>
+			<slotNames/>
+			<liveryNames>
       </liveryNames>
-    </Item>
-  </Kits>
+		</Item>
+	</Kits>
 	<Lights>
 		<Item>
 			<!-- 2018 Dodge Charger -->
@@ -452,8 +451,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="75"/>
-						<size value="1.5"/>
+						<intensity value="25"/>
+						<size value="1.0"/>
 						<pull value="0.04"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -490,7 +489,7 @@
 					</flashiness>
 					<corona>
 						<intensity value="25"/>
-						<size value="1.2"/>
+						<size value="1.0"/>
 						<pull value="0"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -526,8 +525,8 @@
 						<syncToBpm value="true"/>
 					</flashiness>
 					<corona>
-						<intensity value="75"/>
-						<size value="1.5"/>
+						<intensity value="25"/>
+						<size value="1.0"/>
 						<pull value="0.04"/>
 						<faceCamera value="false"/>
 					</corona>
