@@ -150,24 +150,6 @@
         </Item>
 
         <Item>
-          <modelName>bmwe39_race_int</modelName>
-          <modShopLabel>MNU_CAGE</modShopLabel>
-          <linkedModels/>
-          <turnOffBones>
-            <Item>misc_f</Item>
-          </turnOffBones>
-          <type>VMT_CHASSIS</type>
-          <bone>chassis</bone>
-          <collisionBone>chassis</collisionBone>
-          <cameraPos>VMCP_DEFAULT</cameraPos>
-          <audioApply value="1.00000000"/>
-          <weight value="0"/>
-          <turnOffExtra value="false"/>
-          <disableBonnetCamera value="false"/>
-          <allowBonnetSlide value="true"/>
-        </Item>
-
-        <Item>
           <modelName>bmwe39_roof</modelName>
           <modShopLabel>MNU_ROOFC</modShopLabel>
           <linkedModels/>
