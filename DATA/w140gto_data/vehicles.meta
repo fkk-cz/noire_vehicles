@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName/>
 			<audioNameHash>SCHAFTER4</audioNameHash>
-			<layout>LAYOUT_STD_EXITFIXUP</layout>
+			<layout>LAYOUT_DELTA_STD</layout>
 			<coverBoundOffsets>SAVESTRA_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
