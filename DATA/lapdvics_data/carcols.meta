@@ -2259,8 +2259,8 @@
 						<syncToBpm value="false"/>
 					</flashiness>
 					<corona>
-						<intensity value="100"/>
-						<size value="1.2"/>
+						<intensity value="50"/>
+						<size value="1.0"/>
 						<pull value="0.2"/>
 						<faceCamera value="false"/>
 					</corona>
@@ -2296,8 +2296,8 @@
 						<syncToBpm value="false"/>
 					</flashiness>
 					<corona>
-						<intensity value="100"/>
-						<size value="1.2"/>
+						<intensity value="50"/>
+						<size value="1.0"/>
 						<pull value="0.2"/>
 						<faceCamera value="false"/>
 					</corona>
