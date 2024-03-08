@@ -16,7 +16,7 @@
 			<animConvRoofWindowsAffected/>
 			<ptfxAssetName>null</ptfxAssetName>
 			<audioNameHash>oracle2</audioNameHash>
-			<layout>LAYOUT_STD_LOWROOF</layout>
+			<layout>LAYOUT_DELTA_STD</layout>
 			<coverBoundOffsets>TAILGATER_COVER_OFFSET_INFO</coverBoundOffsets>
 			<explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 			<scenarioLayout/>
