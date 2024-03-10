@@ -99,7 +99,7 @@
 			<frequency value="100"/>
 			<swankness>SWANKNESS_1</swankness>
 			<maxNum value="999"/>
-			<flags>FLAG_EXTRAS_ALL FLAG_HAS_LIVERY FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY</flags>
+			<flags>FLAG_EXTRAS_ALL FLAG_HAS_LIVERY FLAG_EXTRAS_STRONG FLAG_IS_OFFROAD_VEHICLE FLAG_IS_BULKY</flags>
 			<type>VEHICLE_TYPE_CAR</type>
 			<plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
 			<dashboardType>VDT_TRUCKDIGI</dashboardType>
